@@ -36,26 +36,13 @@
   defaultRules:
     create: false
   ```
-- **特别说明一**：`crds.enabled=false`，部署时不安装`crds`。默认情况下是开启`crds`安装，即使在`prometheus`应用中添加同步参数
-  `ApplyStrategy=create`，是可以将部分`crds`创建出来，但`create`逻辑只适合于初次创建，创建好后，还需要将此参数删除，之后就是
+- 特别说明一：`crds.enabled=false`，部署时不安装`crds`。默认情况下是开启`crds`安装，即使在`prometheus`应用中添加同步参数`ApplyStrategy=create`，  
+  是可以将部分`crds`创建出来，但`create`逻辑只适合于初次创建，创建好后，还需要将此参数删除，之后就是
   `apply`逻辑了，也会报错。  
-  **错误信息**：`The CustomResourceDefinition "***********" is invalid: metadata.annotations: Too long: must have at most 262144 bytes`  
-  **个人解决方法**：将代码拉取到`kubernetes`集群的主机上，然后使用`kubectl create -f xxx.yaml`方法创建于`crds`资源。
+  错误信息：`The CustomResourceDefinition "***********" is invalid: metadata.annotations: Too long: must have at most 262144 bytes`  
+  解决方法：将代码拉取到`kubernetes`集群的主机上，然后使用`kubectl create -f xxx.yaml`方法创建于`crds`资源。
   ```shell
-  [root@master-1.k8s.freedom.org /data/learning/argocd-manifests/_charts/kube-prometheus-stack/61.8.0/charts/crds/crds 13:45]# 31> ls | xargs -n 1 kubectl create -f
-  customresourcedefinition.apiextensions.k8s.io/alertmanagerconfigs.monitoring.coreos.com created
-  customresourcedefinition.apiextensions.k8s.io/alertmanagers.monitoring.coreos.com created
-  customresourcedefinition.apiextensions.k8s.io/podmonitors.monitoring.coreos.com created
-  customresourcedefinition.apiextensions.k8s.io/probes.monitoring.coreos.com created
-  customresourcedefinition.apiextensions.k8s.io/prometheusagents.monitoring.coreos.com created
-  customresourcedefinition.apiextensions.k8s.io/prometheuses.monitoring.coreos.com created
-  customresourcedefinition.apiextensions.k8s.io/prometheusrules.monitoring.coreos.com created
-  customresourcedefinition.apiextensions.k8s.io/scrapeconfigs.monitoring.coreos.com created
-  customresourcedefinition.apiextensions.k8s.io/servicemonitors.monitoring.coreos.com created
-  customresourcedefinition.apiextensions.k8s.io/thanosrulers.monitoring.coreos.com created
-  [root@master-1.k8s.freedom.org /data/learning/argocd-manifests/_charts/kube-prometheus-stack/61.8.0/charts/crds/crds 13:45]# 32> 
-  
-  [root@master-1.k8s.freedom.org /data/learning/argocd-manifests/_charts/kube-prometheus-stack/61.8.0/charts/crds/crds 14:32]# 3> ll
+  [root@master-1.k8s.freedom.org /data/argocd-manifests/_charts/kube-prometheus-stack/61.8.0/charts/crds/crds 14:32]# 1> ll
   总用量 3332
   -rw-r--r-- 1 root root 439093  3月 27 13:29 crd-alertmanagerconfigs.yaml
   -rw-r--r-- 1 root root 523281  3月 27 13:29 crd-alertmanagers.yaml
@@ -67,10 +54,20 @@
   -rw-r--r-- 1 root root 418557  3月 27 13:29 crd-scrapeconfigs.yaml
   -rw-r--r-- 1 root root  49299  3月 27 13:29 crd-servicemonitors.yaml
   -rw-r--r-- 1 root root 497408  3月 27 13:29 crd-thanosrulers.yaml
-  [root@master-1.k8s.freedom.org /data/learning/argocd-manifests/_charts/kube-prometheus-stack/61.8.0/charts/crds/crds 14:32]# 4>
+  [root@master-1.k8s.freedom.org /data/argocd-manifests/_charts/kube-prometheus-stack/61.8.0/charts/crds/crds 14:45]# 2> ls | xargs -n 1 kubectl create -f
+  customresourcedefinition.apiextensions.k8s.io/alertmanagerconfigs.monitoring.coreos.com created
+  customresourcedefinition.apiextensions.k8s.io/alertmanagers.monitoring.coreos.com created
+  customresourcedefinition.apiextensions.k8s.io/podmonitors.monitoring.coreos.com created
+  customresourcedefinition.apiextensions.k8s.io/probes.monitoring.coreos.com created
+  customresourcedefinition.apiextensions.k8s.io/prometheusagents.monitoring.coreos.com created
+  customresourcedefinition.apiextensions.k8s.io/prometheuses.monitoring.coreos.com created
+  customresourcedefinition.apiextensions.k8s.io/prometheusrules.monitoring.coreos.com created
+  customresourcedefinition.apiextensions.k8s.io/scrapeconfigs.monitoring.coreos.com created
+  customresourcedefinition.apiextensions.k8s.io/servicemonitors.monitoring.coreos.com created
+  customresourcedefinition.apiextensions.k8s.io/thanosrulers.monitoring.coreos.com created
+  [root@master-1.k8s.freedom.org /data/argocd-manifests/_charts/kube-prometheus-stack/61.8.0/charts/crds/crds 14:45]# 3> 
   ```
-- **特别说明二**：`defaultRules.create=false`，部署时不要加载`PrometheusRule`资源，因为`prometheus`是多实例，每个实例的数据是  
-  不一样的，其告警规则计算出来的数据有问题，所以需要使用`thanos`的`ruler`组件来替代。
+- 特别说明二：`defaultRules.create=true`，部署时先创建`PrometheusRule`资源，这些资源供给`thanos`的`ruler`组件使用，在后续`thanos`篇章中会做解释说明。
 
 
 ### 配置grafana
