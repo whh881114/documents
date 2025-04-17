@@ -96,6 +96,8 @@
       image:
         repository: quay.io/prometheus/alertmanager
         tag: v0.27.0
+      alertmanagerConfiguration:
+        name: global-alertmanager-configurations      # 指定configmap文件名称为global-alertmanager-configurations，需要先创建出来。
       replicas: 3
       storage:
         volumeClaimTemplate:
@@ -105,6 +107,7 @@
             resources:
               requests:
                 storage: 1Gi
+
   ```
 
 
