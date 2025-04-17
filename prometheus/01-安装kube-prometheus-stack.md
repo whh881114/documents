@@ -23,7 +23,7 @@
   要求来，比如说监控`pod`或`service`时，创建`PodMonitor`或`ServiceMonitor`。
 
 
-## prometheus
+## kube-prometheus-stack
 ### 配置全局变量
 - 配置文件：`argocd-manifests/_charts/kube-prometheus-stack/61.8.0/values.yaml`，修改内容如下：
   ```yaml
@@ -70,6 +70,41 @@
 - 特别说明二：`defaultRules.create=true`，部署时先创建`PrometheusRule`资源，这些资源供给`thanos`的`ruler`组件使用，在后续`thanos`篇章中会做解释说明。
 
 
+### 配置alertmanager
+- 配置文件`argocd-manifests/_charts/kube-prometheus-stack/61.8.0/values.yaml`，修改内容如下：
+  ```yaml
+  alertmanager:
+    ingress:
+      enabled: true
+      ingressClassName: ingress-nginx-lan
+      annotations:
+        cert-manager.io/cluster-issuer: roywong-work-tls-cluster-issuer
+        nginx.ingress.kubernetes.io/rewrite-target: /
+        nginx.ingress.kubernetes.io/ssl-redirect: "true"
+      hosts:
+        - alertmanager.idc-ingress-nginx-lan.roywong.work
+      paths:
+       - /
+      tls:
+        - secretName: tls-certificate-secret-alertmanager
+          hosts:
+            - "alertmanager.idc-ingress-nginx-lan.roywong.work"
+    alertmanagerSpec:
+      image:
+        repository: quay.io/prometheus/alertmanager
+        tag: v0.27.0
+      replicas: 3
+      storage:
+        volumeClaimTemplate:
+          spec:
+            storageClassName: infra
+            accessModes: [ "ReadWriteOnce" ]
+            resources:
+              requests:
+                storage: 1Gi
+  ```
+
+
 ### 配置grafana
 - 配置文件：`argocd-manifests/_charts/kube-prometheus-stack/61.8.0/values.yaml`，修改内容如下：
   ```yaml
@@ -89,19 +124,19 @@
         - secretName: tls-certificate-secret-grafana
           hosts:
             - "grafana.idc-ingress-nginx-lan.roywong.work"
-    useStatefulSet: true
+    useStatefulSet: false           # grafana由statefulset模式改为deployment，归避grafana误增加副本，从而产生多个pvc。
     persistence:
       enabled: true
-      type: sts
+      type: pvc
       storageClassName: "infra"
       accessModes:
         - ReadWriteOnce
-      size: 20Gi
+      size: 10Gi
       finalizers:
         - kubernetes.io/pvc-protection
   sidecar:
     datasources:
-      url: http://thanos-query-frontend:9090/
+      url: http://thanos-query-frontend:9090/     # 数据源指向thanos-query-frontend地址。
   ```
 
 - 配置文件：`argocd-manifests/_charts/kube-prometheus-stack/61.8.0/charts/grafana/values.yaml`，修改内容如下：
@@ -126,6 +161,7 @@
   replicas: 3
   ```
 
+
 ### 配置prometheus-node-exporter
 - 配置文件`argocd-manifests/_charts/kube-prometheus-stack/61.8.0/charts/prometheus-node-exporter/values.yaml`，修改内容如下：
   ```yaml
@@ -133,6 +169,7 @@
     repository: quay.io/prometheus/node-exporter
     tag: "v1.8.2"
   ```
+
 
 ### 配置prometheusOperator
 - 配置文件`argocd-manifests/_charts/kube-prometheus-stack/61.8.0/values.yaml`，修改内容如下：
@@ -184,40 +221,8 @@
               secret_key: "igLOl7oPohS3mrHnIRkbujmkwAA6YYVVgoqA8mTt"
   ```
 
-### 配置alertmanager
-- 配置文件`argocd-manifests/_charts/kube-prometheus-stack/61.8.0/values.yaml`，修改内容如下：
-  ```yaml
-  alertmanager:
-    ingress:
-      enabled: true
-      ingressClassName: ingress-nginx-lan
-      annotations:
-        cert-manager.io/cluster-issuer: roywong-work-tls-cluster-issuer
-        nginx.ingress.kubernetes.io/rewrite-target: /
-        nginx.ingress.kubernetes.io/ssl-redirect: "true"
-      hosts:
-        - alertmanager.idc-ingress-nginx-lan.roywong.work
-      paths:
-       - /
-      tls:
-        - secretName: tls-certificate-secret-alertmanager
-          hosts:
-            - "alertmanager.idc-ingress-nginx-lan.roywong.work"
-    alertmanagerSpec:
-      image:
-        repository: quay.io/prometheus/alertmanager
-        tag: v0.27.0
-      replicas: 3
-      storage:
-        volumeClaimTemplate:
-          spec:
-            storageClassName: infra
-            accessModes: [ "ReadWriteOnce" ]
-            resources:
-              requests:
-                storage: 1Gi
-  ```
 
+## 小结
 
 ## thanos
 ### 组件说明
