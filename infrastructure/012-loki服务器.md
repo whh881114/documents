@@ -1,0 +1,65 @@
+# loki服务器
+
+
+## 部署细节
+- 主机清单
+  ```
+  central-server.freedom.org / 10.255.1.11
+  ```  
+
+- 单机部署loki，用于收集kubernetes集群外主机的运行日志。
+
+- loki数据存放于内部minio服务器中，配置文件如下。
+  ```shell
+  [root@central-server.freedom.org ~ 17:13]# 1> cat /etc/loki/config.yml 
+  
+  # This is a complete configuration to deploy Loki backed by a s3-compatible API
+  # like MinIO for storage.
+  # Index files will be written locally at /loki/index and, eventually, will be shipped to the storage via tsdb-shipper.
+  
+  auth_enabled: false
+  
+  server:
+    http_listen_port: 3100
+  
+  common:
+    ring:
+      instance_addr: 127.0.0.1
+      kvstore:
+        store: inmemory
+    replication_factor: 1
+    path_prefix: /data1/loki
+  
+  schema_config:
+    configs:
+    - from: 2020-05-15
+      store: tsdb
+      object_store: s3
+      schema: v13
+      index:
+        prefix: index_
+        period: 24h
+  
+  storage_config:
+   tsdb_shipper:
+     active_index_directory: /data1/loki/index
+     cache_location: /data1/loki/index_cache
+   aws:
+     s3: s3://loki
+     bucketnames: loki
+     endpoint: https://minio-s3.idc.roywong.top
+     access_key_id: kMNz4Ly1R75DppxMktSH
+     secret_access_key: Wk63CXWy9QLHLYvKfVWBvMnOhEnv57NDRuwsx6on
+     s3forcepathstyle: true
+  
+  # 在使用 MinIO 作为 Loki 的后端存储时，Loki 仍然需要一些本地存储来缓存和临时存储数据。以下是本地存储路径和原因的详细解释：
+  # 本地存储路径的用途
+  # Active Index Directory: 存储当前活跃的索引文件。这些文件是 Loki 在运行期间不断更新和写入的。
+  # Cache Location: 缓存从后端存储（如 MinIO）获取的数据，以加快查询速度并减少对后端存储的频繁访问。
+  # WAL (Write-Ahead Log): 存储正在处理的写操作日志，以便在系统崩溃时可以恢复数据。
+  [root@central-server.freedom.org ~ 17:13]# 2> 
+  ```
+
+
+## 安装过程
+- `cd ansible && ansible-playbook central-server.yml -t loki`
