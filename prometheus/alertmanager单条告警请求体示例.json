@@ -1,0 +1,42 @@
+{
+  "receiver": "monitoring/global-alertmanager-configuration/system-ops",
+  "status": "firing",
+  "alerts": [
+    {
+      "status": "firing",
+      "labels": {
+        "alertname": "Watchdog",
+        "category": "general",
+        "severity": "none"
+      },
+      "annotations": {
+        "description": "This is an alert meant to ensure that the entire alerting pipeline is functional.\nThis alert is always firing, therefore it should always be firing in Alertmanager\nand always fire against a receiver. There are integrations with various notification\nmechanisms that send a notification when this alert is not firing. For example the\n\"DeadMansSnitch\" integration in PagerDuty.\n",
+        "runbook_url": "https://runbooks.prometheus-operator.dev/runbooks/general/watchdog",
+        "summary": "An alert that should always be firing to certify that Alertmanager is working properly."
+      },
+      "startsAt": "2025-04-17T15:29:14.921Z",
+      "endsAt": "0001-01-01T00:00:00Z",
+      "generatorURL": "http://thanos-query-frontend.idc-ingress-nginx-lan.roywong.work/graph?g0.expr=vector%281%29&g0.tab=1",
+      "fingerprint": "30d464d5a641de60"
+    }
+  ],
+  "groupLabels": {
+    "alertname": "Watchdog",
+    "category": "general",
+    "severity": "none"
+  },
+  "commonLabels": {
+    "alertname": "Watchdog",
+    "category": "general",
+    "severity": "none"
+  },
+  "commonAnnotations": {
+    "description": "This is an alert meant to ensure that the entire alerting pipeline is functional.\nThis alert is always firing, therefore it should always be firing in Alertmanager\nand always fire against a receiver. There are integrations with various notification\nmechanisms that send a notification when this alert is not firing. For example the\n\"DeadMansSnitch\" integration in PagerDuty.\n",
+    "runbook_url": "https://runbooks.prometheus-operator.dev/runbooks/general/watchdog",
+    "summary": "An alert that should always be firing to certify that Alertmanager is working properly."
+  },
+  "externalURL": "http://alertmanager.idc-ingress-nginx-lan.roywong.work",
+  "version": "4",
+  "groupKey": "{}/{category=~\"general|kubernetes-resources|kubernetes-storage|kubernetes-apps|node-exporter|node-network\"}:{alertname=\"Watchdog\", category=\"general\", severity=\"none\"}",
+  "truncatedAlerts": 0
+}
