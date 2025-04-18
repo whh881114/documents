@@ -1,0 +1,110 @@
+{
+  "receiver": "monitoring/global-alertmanager-configuration/default",
+  "status": "firing",
+  "alerts": [
+    {
+      "status": "firing",
+      "labels": {
+        "alertname": "KubeHpaMaxedOut",
+        "category": "kubernetes-apps",
+        "container": "kube-state-metrics",
+        "endpoint": "http",
+        "horizontalpodautoscaler": "argocd-server",
+        "instance": "10.251.4.104:8080",
+        "job": "kube-state-metrics",
+        "namespace": "argocd",
+        "pod": "prometheus-kube-state-metrics-686c654875-gn7qc",
+        "prometheus": "monitoring/prometheus-kube-prometheus-prometheus",
+        "service": "prometheus-kube-state-metrics",
+        "severity": "warning"
+      },
+      "annotations": {
+        "description": "HPA argocd/argocd-server has been running at max replicas for longer than 15 minutes.",
+        "runbook_url": "https://runbooks.prometheus-operator.dev/runbooks/kubernetes/kubehpamaxedout",
+        "summary": "HPA is running at max replicas"
+      },
+      "startsAt": "2025-04-17T15:45:30.083Z",
+      "endsAt": "0001-01-01T00:00:00Z",
+      "generatorURL": "http://thanos-query-frontend.idc-ingress-nginx-lan.roywong.work/graph?g0.expr=kube_horizontalpodautoscaler_status_current_replicas%7Bjob%3D%22kube-state-metrics%22%2Cnamespace%3D~%22.%2A%22%7D+%3D%3D+kube_horizontalpodautoscaler_spec_max_replicas%7Bjob%3D%22kube-state-metrics%22%2Cnamespace%3D~%22.%2A%22%7D&g0.tab=1",
+      "fingerprint": "24adeb726c4ed9b7"
+    },
+    {
+      "status": "firing",
+      "labels": {
+        "alertname": "KubeHpaMaxedOut",
+        "category": "kubernetes-apps",
+        "container": "kube-state-metrics",
+        "endpoint": "http",
+        "horizontalpodautoscaler": "argocd-server",
+        "instance": "10.251.5.103:8080",
+        "job": "kube-state-metrics",
+        "namespace": "argocd",
+        "pod": "prometheus-kube-state-metrics-686c654875-qh9qv",
+        "prometheus": "monitoring/prometheus-kube-prometheus-prometheus",
+        "service": "prometheus-kube-state-metrics",
+        "severity": "warning"
+      },
+      "annotations": {
+        "description": "HPA argocd/argocd-server has been running at max replicas for longer than 15 minutes.",
+        "runbook_url": "https://runbooks.prometheus-operator.dev/runbooks/kubernetes/kubehpamaxedout",
+        "summary": "HPA is running at max replicas"
+      },
+      "startsAt": "2025-04-17T16:17:30.083Z",
+      "endsAt": "0001-01-01T00:00:00Z",
+      "generatorURL": "http://thanos-query-frontend.idc-ingress-nginx-lan.roywong.work/graph?g0.expr=kube_horizontalpodautoscaler_status_current_replicas%7Bjob%3D%22kube-state-metrics%22%2Cnamespace%3D~%22.%2A%22%7D+%3D%3D+kube_horizontalpodautoscaler_spec_max_replicas%7Bjob%3D%22kube-state-metrics%22%2Cnamespace%3D~%22.%2A%22%7D&g0.tab=1",
+      "fingerprint": "901b365176392440"
+    },
+    {
+      "status": "firing",
+      "labels": {
+        "alertname": "KubeHpaMaxedOut",
+        "category": "kubernetes-apps",
+        "container": "kube-state-metrics",
+        "endpoint": "http",
+        "horizontalpodautoscaler": "argocd-server",
+        "instance": "10.251.6.204:8080",
+        "job": "kube-state-metrics",
+        "namespace": "argocd",
+        "pod": "prometheus-kube-state-metrics-686c654875-9pqvl",
+        "prometheus": "monitoring/prometheus-kube-prometheus-prometheus",
+        "service": "prometheus-kube-state-metrics",
+        "severity": "warning"
+      },
+      "annotations": {
+        "description": "HPA argocd/argocd-server has been running at max replicas for longer than 15 minutes.",
+        "runbook_url": "https://runbooks.prometheus-operator.dev/runbooks/kubernetes/kubehpamaxedout",
+        "summary": "HPA is running at max replicas"
+      },
+      "startsAt": "2025-04-17T16:17:30.083Z",
+      "endsAt": "0001-01-01T00:00:00Z",
+      "generatorURL": "http://thanos-query-frontend.idc-ingress-nginx-lan.roywong.work/graph?g0.expr=kube_horizontalpodautoscaler_status_current_replicas%7Bjob%3D%22kube-state-metrics%22%2Cnamespace%3D~%22.%2A%22%7D+%3D%3D+kube_horizontalpodautoscaler_spec_max_replicas%7Bjob%3D%22kube-state-metrics%22%2Cnamespace%3D~%22.%2A%22%7D&g0.tab=1",
+      "fingerprint": "8867f0edb87e7810"
+    }
+  ],
+  "groupLabels": {
+    "alertname": "KubeHpaMaxedOut",
+    "horizontalpodautoscaler": "argocd-server",
+    "namespace": "argocd"
+  },
+  "commonLabels": {
+    "alertname": "KubeHpaMaxedOut",
+    "category": "kubernetes-apps",
+    "container": "kube-state-metrics",
+    "endpoint": "http",
+    "horizontalpodautoscaler": "argocd-server",
+    "job": "kube-state-metrics",
+    "namespace": "argocd",
+    "prometheus": "monitoring/prometheus-kube-prometheus-prometheus",
+    "service": "prometheus-kube-state-metrics",
+    "severity": "warning"
+  },
+  "commonAnnotations": {
+    "description": "HPA argocd/argocd-server has been running at max replicas for longer than 15 minutes.",
+    "runbook_url": "https://runbooks.prometheus-operator.dev/runbooks/kubernetes/kubehpamaxedout",
+    "summary": "HPA is running at max replicas"
+  },
+  "externalURL": "http://alertmanager.idc-ingress-nginx-lan.roywong.work",
+  "version": "4",
+  "groupKey": "{}/{alertname=\"KubeHpaMaxedOut\"}:{alertname=\"KubeHpaMaxedOut\", horizontalpodautoscaler=\"argocd-server\", namespace=\"argocd\"}",
+  "truncatedAlerts": 0
+}
