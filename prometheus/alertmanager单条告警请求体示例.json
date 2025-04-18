@@ -1,42 +1,61 @@
 {
-  "receiver": "monitoring/global-alertmanager-configuration/system-ops",
+  "receiver": "monitoring/global-alertmanager-configuration/system-admin",
   "status": "firing",
   "alerts": [
     {
       "status": "firing",
       "labels": {
-        "alertname": "Watchdog",
-        "category": "general",
-        "severity": "none"
+        "alertname": "etcdHighCommitDurations",
+        "category": "etcd",
+        "endpoint": "http-metrics",
+        "instance": "10.255.1.12:2381",
+        "job": "kube-etcd",
+        "namespace": "kube-system",
+        "pod": "etcd-master-1.k8s.freedom.org",
+        "prometheus": "monitoring/prometheus-kube-prometheus-prometheus",
+        "service": "prometheus-kube-prometheus-kube-etcd",
+        "severity": "warning"
       },
       "annotations": {
-        "description": "This is an alert meant to ensure that the entire alerting pipeline is functional.\nThis alert is always firing, therefore it should always be firing in Alertmanager\nand always fire against a receiver. There are integrations with various notification\nmechanisms that send a notification when this alert is not firing. For example the\n\"DeadMansSnitch\" integration in PagerDuty.\n",
-        "runbook_url": "https://runbooks.prometheus-operator.dev/runbooks/general/watchdog",
-        "summary": "An alert that should always be firing to certify that Alertmanager is working properly."
+        "description": "etcd cluster \"kube-etcd\": 99th percentile commit durations 0.678399999999993s on etcd instance 10.255.1.12:2381.",
+        "summary": "etcd cluster 99th percentile commit durations are too high."
       },
-      "startsAt": "2025-04-17T15:29:14.921Z",
+      "startsAt": "2025-04-18T05:44:35.429Z",
       "endsAt": "0001-01-01T00:00:00Z",
-      "generatorURL": "http://thanos-query-frontend.idc-ingress-nginx-lan.roywong.work/graph?g0.expr=vector%281%29&g0.tab=1",
-      "fingerprint": "30d464d5a641de60"
+      "generatorURL": "http://thanos-query-frontend.idc-ingress-nginx-lan.roywong.work/graph?g0.expr=histogram_quantile%280.99%2C+rate%28etcd_disk_backend_commit_duration_seconds_bucket%7Bjob%3D~%22.%2Aetcd.%2A%22%7D%5B5m%5D%29%29+%3E+0.25&g0.tab=1",
+      "fingerprint": "f1057c0d174aeefd"
     }
   ],
   "groupLabels": {
-    "alertname": "Watchdog",
-    "category": "general",
-    "severity": "none"
+    "alertname": "etcdHighCommitDurations",
+    "category": "etcd",
+    "endpoint": "http-metrics",
+    "instance": "10.255.1.12:2381",
+    "job": "kube-etcd",
+    "namespace": "kube-system",
+    "pod": "etcd-master-1.k8s.freedom.org",
+    "prometheus": "monitoring/prometheus-kube-prometheus-prometheus",
+    "service": "prometheus-kube-prometheus-kube-etcd",
+    "severity": "warning"
   },
   "commonLabels": {
-    "alertname": "Watchdog",
-    "category": "general",
-    "severity": "none"
+    "alertname": "etcdHighCommitDurations",
+    "category": "etcd",
+    "endpoint": "http-metrics",
+    "instance": "10.255.1.12:2381",
+    "job": "kube-etcd",
+    "namespace": "kube-system",
+    "pod": "etcd-master-1.k8s.freedom.org",
+    "prometheus": "monitoring/prometheus-kube-prometheus-prometheus",
+    "service": "prometheus-kube-prometheus-kube-etcd",
+    "severity": "warning"
   },
   "commonAnnotations": {
-    "description": "This is an alert meant to ensure that the entire alerting pipeline is functional.\nThis alert is always firing, therefore it should always be firing in Alertmanager\nand always fire against a receiver. There are integrations with various notification\nmechanisms that send a notification when this alert is not firing. For example the\n\"DeadMansSnitch\" integration in PagerDuty.\n",
-    "runbook_url": "https://runbooks.prometheus-operator.dev/runbooks/general/watchdog",
-    "summary": "An alert that should always be firing to certify that Alertmanager is working properly."
+    "description": "etcd cluster \"kube-etcd\": 99th percentile commit durations 0.678399999999993s on etcd instance 10.255.1.12:2381.",
+    "summary": "etcd cluster 99th percentile commit durations are too high."
   },
   "externalURL": "http://alertmanager.idc-ingress-nginx-lan.roywong.work",
   "version": "4",
-  "groupKey": "{}/{category=~\"general|kubernetes-resources|kubernetes-storage|kubernetes-apps|node-exporter|node-network\"}:{alertname=\"Watchdog\", category=\"general\", severity=\"none\"}",
+  "groupKey": "{}/{category=~\"alertmanager|config-reloaders|etcd|kube-apiserver-slos|kubernetes-system|kubernetes-system-controller-manager|\\nkubernetes-system-kubelet|kubernetes-system-kube-proxy|kubernetes-system-scheduler|kube-state-metrics|\\nprometheus|prometheus-operator\\n\"}:{alertname=\"etcdHighCommitDurations\", category=\"etcd\", endpoint=\"http-metrics\", instance=\"10.255.1.12:2381\", job=\"kube-etcd\", namespace=\"kube-system\", pod=\"etcd-master-1.k8s.freedom.org\", prometheus=\"monitoring/prometheus-kube-prometheus-prometheus\", service=\"prometheus-kube-prometheus-kube-etcd\", severity=\"warning\"}",
   "truncatedAlerts": 0
 }
