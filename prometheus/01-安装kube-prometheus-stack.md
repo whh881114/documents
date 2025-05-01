@@ -166,6 +166,21 @@
     tag: "v2.13.0"
   replicas: 3
   ```
+- 配置文件`argocd-manifests/_charts/kube-prometheus-stack/61.8.0/values.yaml`，修改内容如下：
+  ```yaml
+  kube-state-metrics:
+    namespaceOverride: ""
+    rbac:
+      create: true
+    releaseLabel: true
+    prometheus:
+      monitor:
+        enabled: true
+        # 多副本时，就会有多条数据，在做汇总时就会放大，所以将instance标签丢弃，这样查询的结果就合并成一条了。
+        metricRelabelings:
+          - action: labeldrop
+            regex: instance
+  ```
 
 
 ### 配置prometheus-node-exporter
