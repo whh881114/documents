@@ -262,10 +262,128 @@
         value: http://10.255.2.162:8001
   ```
 
+- 配置`additionalAgents`。
+  ```yaml
+  # Inherits all values from `agent` so you only need to specify values which differ
+  # -- Configure additional
+  additionalAgents:
+    go:
+      podName: go
+      customJenkinsLabels: go
+      image:
+        repository: harbor.idc.roywong.work/library/jenkins/inbound-agent-go
+        tag: 1.24.2
+    maven-jdk8:
+      podName: maven-jdk8
+      customJenkinsLabels: maven-jdk8
+      image:
+        repository: harbor.idc.roywong.work/library/jenkins/inbound-agent-maven
+        tag: jdk8
+      volumes:
+        - type: EmptyDir
+          mountPath: /home/jenkins/.m2
+        - type: ConfigMap
+          configMapName: maven-settings
+          mountPath: /home/jenkins/.m2/settings.xml
+          subPath: settings.xml
+        - type: PVC
+          claimName: data-maven-repository
+          mountPath: /home/jenkins/.m2/repository
+          readOnly: false
+    maven-jdk11:
+      podName: maven-jdk11
+      customJenkinsLabels: maven-jdk11
+      image:
+        repository: harbor.idc.roywong.work/library/jenkins/inbound-agent-maven
+        tag: jdk11
+      volumes:
+        - type: EmptyDir
+          mountPath: /home/jenkins/.m2
+        - type: ConfigMap
+          configMapName: maven-settings
+          mountPath: /home/jenkins/.m2/settings.xml
+          subPath: settings.xml
+        - type: PVC
+          claimName: data-maven-repository
+          mountPath: /home/jenkins/.m2/repository
+          readOnly: false
+    maven-jdk17:
+      podName: maven-jdk17
+      customJenkinsLabels: maven-jdk17
+      image:
+        repository: harbor.idc.roywong.work/library/jenkins/inbound-agent-maven
+        tag: jdk17
+      volumes:
+        - type: EmptyDir
+          mountPath: /home/jenkins/.m2
+        - type: ConfigMap
+          configMapName: maven-settings
+          mountPath: /home/jenkins/.m2/settings.xml
+          subPath: settings.xml
+        - type: PVC
+          claimName: data-maven-repository
+          mountPath: /home/jenkins/.m2/repository
+          readOnly: false
+    maven-jdk21:
+      podName: maven-jdk21
+      customJenkinsLabels: maven-jdk21
+      image:
+        repository: harbor.idc.roywong.work/library/jenkins/inbound-agent-maven
+        tag: jdk21
+      volumes:
+        - type: EmptyDir
+          mountPath: /home/jenkins/.m2
+        - type: ConfigMap
+          configMapName: maven-settings
+          mountPath: /home/jenkins/.m2/settings.xml
+          subPath: settings.xml
+        - type: PVC
+          claimName: data-maven-repository
+          mountPath: /home/jenkins/.m2/repository
+          readOnly: false
+    docker:
+      podName: docker
+      customJenkinsLabels: docker
+      image:
+        repository: harbor.idc.roywong.work/library/jenkins/inbound-agent-docker-cli
+        tag: 28.1.1
+      runAsUser: '0'    # 在docker-in-docker模式中，涉及到权限问题，配置runAsUser和runAsGroup提升权限。
+      runAsGroup: '0'
+      volumes:
+        - type: EmptyDir
+          mountPath: /var/lib/docker
+          memory: false
+        - type: EmptyDir
+          mountPath: /var/run
+        - type: ConfigMap     # 配置docker认证，用于push镜像。
+          configMapName: docker-config
+          mountPath: /root/.docker
+      envVars:
+        - name: DOCKER_HOST
+          value: "unix:///var/run/docker.sock"
+      additionalContainers:
+        - sideContainerName: dind
+          image:
+            repository: harbor.idc.roywong.work/docker.io/library/docker
+            tag: 28.1.1-dind
+          command: "dockerd-entrypoint.sh"
+          args: "--host=tcp://0.0.0.0:2375 --host=unix:///var/run/docker.sock --tls=false"
+          privileged: true
+          resources:
+            requests:
+              cpu: '100m'
+              memory: '128Mi'
+            limits:
+              cpu: '4'
+              memory: '8Gi'
+          volumeMounts:
+            - mountPath: /var/lib/docker
+            - mountPath: /var/run
+  ```
 
-- 配置持久化，指定已创建的`PVC`。
-```yaml
-persistence:
-  enabled: true
-  existingClaim: data-jenkins
-```
+- 配置`controller`节点持久化，指定已创建的`PVC`。
+  ```yaml
+  persistence:
+    enabled: true
+    existingClaim: data-jenkins
+  ```
