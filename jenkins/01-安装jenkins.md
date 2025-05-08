@@ -387,3 +387,9 @@
     enabled: true
     existingClaim: data-jenkins
   ```
+
+
+## 自定义agent镜像
+- 自定义agent镜像要点：使用官方基础镜像`jenkins/inbound-agent:3301.v4363ddcca_4e7-3`，然后添加相应的软件包即可。
+
+- `Dockerfile`位置目录`dockerfiles/jenkins/inbound-agent`中。
