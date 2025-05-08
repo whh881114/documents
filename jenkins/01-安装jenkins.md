@@ -218,6 +218,51 @@
             - jenkins.idc-ingress-nginx-lan.roywong.work
   ```
 
+- 配置`agent`。
+  ```yaml
+  agent:
+    # -- Enable Kubernetes plugin jnlp-agent podTemplate
+    enabled: true
+    
+    image:
+      repository: "harbor.idc.roywong.work/docker.io/jenkins/inbound-agent"
+      tag: "3301.v4363ddcca_4e7-3"
+      
+    imagePullSecretName: registry-idc-library
+    
+    resources:
+      requests:
+        cpu: '100m'
+        memory: '128Mi'
+      limits:
+        cpu: '4'
+        memory: '8Gi'
+  
+    # You may want to change this to true while testing a new image
+    # -- Always pull agent container image before build
+    alwaysPullImage: true
+  
+    # 需要持久化jenkins的workspace，所有的agent都共用这个PVC，NFS存储类可以提供RWX访问模式。
+    # You can define the workspaceVolume that you want to mount for this container
+    # Allowed types are: DynamicPVC, EmptyDir, EphemeralVolume, HostPath, Nfs, PVC
+    # Configure the attributes as they appear in the corresponding Java class for that type
+    # https://github.com/jenkinsci/kubernetes-plugin/tree/master/src/main/java/org/csanchez/jenkins/plugins/kubernetes/volumes/workspace
+    # -- Workspace volume (defaults to EmptyDir)
+    workspaceVolume:
+      type: PVC
+      claimName: data-jenkins-workspace
+  
+    # 配置代理地址，解决构建时的网络问题。
+    # Pod-wide environment, these vars are visible to any container in the agent pod
+    # -- Environment variables for the agent Pod
+    envVars:
+      - name: HTTP_PROXY
+        value: http://10.255.2.162:8001
+      - name: HTTPS_PROXY
+        value: http://10.255.2.162:8001
+  ```
+
+
 - 配置持久化，指定已创建的`PVC`。
 ```yaml
 persistence:
