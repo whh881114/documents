@@ -40,7 +40,7 @@
                 # 3. 调用 Helm 渲染
                 helm template . --values values-rendered.yaml
   ```
-- 以上的配置最终会成一份`configamp`，内容如下，其中`argocd-cmp-jsonnet.yaml`内容细节介绍地址：https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins/#installing-a-config-management-plugin
+- 以上的配置最终会成一份`configamp`，内容如下，其中`argocd-cmp-jsonnet.yaml`内容细节，[细节说明官方地址](https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins/#installing-a-config-management-plugin)。
   ```yaml
   apiVersion: v1
   data:
@@ -78,13 +78,86 @@
     uid: b8c78fa8-33de-4a1f-a27a-0a8e888ac7a3
   ```
 
-- 以上的配置最终会生成一个`configmap`
-
-
 ### 配置argocd-repo-server的sidecar
+- 在`argo-cd`的`chart`中修改`values.yaml`，配置内容如下，[细节说明官方地址](https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins/#installing-a-config-management-plugin)。
+  ```yaml
+  repoServer:
+    extraContainers:
+      - name: argocd-cmp-jsonnet
+        image: harbor.idc.roywong.work/public/argocd-cmp-jsonnet:v2.12.1-2025-05-14-v1.3  # 自定义镜像
+        imagePullPolicy: Always
+        command:
+          - /var/run/argocd/argocd-cmp-server
+        securityContext:
+          runAsNonRoot: true
+          runAsUser: 999
+        volumeMounts:
+          # 必需：用于和主 repo-server 共享请求/响应的 socket 文件
+          - name: var-files
+            mountPath: /var/run/argocd
+          # 必需：插件运行时的“插件根目录”，可以是 emptyDir
+          - name: plugins
+            mountPath: /home/argocd/cmp-server/plugins
+          # 必需：把你的 plugin 定义（jsonnet.yaml）挂载进来
+          - name: argocd-cmp-cm
+            mountPath: /home/argocd/cmp-server/config/plugin.yaml   # 一定要挂载成plugin.yaml
+            subPath: argocd-cmp-jsonnet.yaml
+          # 必需：隔离 tmp，防止路径遍历攻击
+          - name: cmp-tmp
+            mountPath: /tmp
+    volumes:
+      - name: var-files
+        emptyDir: {}
+      - name: plugins
+        emptyDir: {}
+      - name: cmp-tmp
+        emptyDir: {}
+      - name: argocd-cmp-cm
+        configMap:
+          name: argocd-cmp-cm
+          items:
+            - key: argocd-cmp-jsonnet.yaml
+              path: argocd-cmp-jsonnet.yaml
+  ```
 
+- `sidecar`镜像打包是基于`argocd`官方镜像，然后加入必要的工具，`Dockerfile`位于`dockerfiles/argocd/dockerfile`
 
 ### application使用cmp
+- 定义`application`资源文件。
+  ```yaml
+  apiVersion: argoproj.io/v1alpha1
+  kind: Application
+  metadata:
+    annotations:
+      argocd.argoproj.io/refresh: hard
+    name: jsonnet-nginx-1
+    namespace: argocd
+  spec:
+    destination:
+      namespace: nginx
+      server: https://kubernetes.default.svc
+    project: default
+    source:
+      path: _charts/nginx/20.0.2
+      plugin:
+        name: argocd-cmp-jsonnet
+        parameters:
+          - name: jsonnet-file
+            string: jsonnet-nginx-1.jsonnet
+      repoURL: git@github.com:whh881114/argocd-manifests.git
+      targetRevision: master
+    syncPolicy:
+      syncOptions:
+        - CreateNamespace=true
+  ```
+- 说明：
+  - `argocd.argoproj.io/refresh: hard`，必须要添加，因为错误会缓存在`redis`，直到过期。官网信息如下：
+    - https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins/#debugging-a-cmp
+    - https://argo-cd.readthedocs.io/en/stable/faq/#how-can-i-force-argocd-to-re-sync-an-application
+    - https://github.com/argoproj/argo-cd/blob/master/pkg/apis/application/v1alpha1/application_annotations.go
+  - `parameters`中的`name`的值要和`cmp`配置文件中定义`JSONNET_FILE="${PARAM_JSONNET_FILE:?jsonnet-file param not set}"`要相呼应。  
+    `string`值为`jsonnet-nginx-1.jsonnet`，表示`jsonnet`文件位于`source.path`目录中。
 
 
 ## 结果
+![helm-jsonnet安装结果.png](./images/helm-jsonnet安装结果.png)
