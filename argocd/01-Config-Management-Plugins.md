@@ -24,7 +24,7 @@
   
       # -- Plugin yaml files to be added to argocd-cmp-cm
       plugins:
-        argocd-cmp-jsonnet:   # 插件名称，在application中要指定。
+        argocd-cmp-helm:   # 插件名称，在application中要指定。
           generate:
             command: [sh, -c]
             args:
@@ -40,15 +40,15 @@
                 # 3. 调用 Helm 渲染
                 helm template . --values values-rendered.yaml
   ```
-- 以上的配置最终会成一份`configamp`，内容如下，其中`argocd-cmp-jsonnet.yaml`内容细节，[细节说明官方地址](https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins/#installing-a-config-management-plugin)。
+- 以上的配置最终会成一份`configamp`，内容如下，其中`argocd-cmp-helm.yaml`内容细节，[细节说明官方地址](https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins/#installing-a-config-management-plugin)。
   ```yaml
   apiVersion: v1
   data:
-    argocd-cmp-jsonnet.yaml: |
+    argocd-cmp-helm.yaml: |
       apiVersion: argoproj.io/v1alpha1
       kind: ConfigManagementPlugin
       metadata:
-        name: argocd-cmp-jsonnet
+        name: argocd-cmp-helm
       spec:
         generate:
           args:
@@ -83,8 +83,8 @@
   ```yaml
   repoServer:
     extraContainers:
-      - name: argocd-cmp-jsonnet
-        image: harbor.idc.roywong.work/public/argocd-cmp-jsonnet:v2.12.1-2025-05-14-v1.3  # 自定义镜像
+      - name: argocd-cmp-helm
+        image: harbor.idc.roywong.work/public/argocd-cmp-helm:v2.12.1-2025-05-14-v1.3  # 自定义镜像
         imagePullPolicy: Always
         command:
           - /var/run/argocd/argocd-cmp-server
@@ -101,7 +101,7 @@
           # 必需：把你的 plugin 定义（jsonnet.yaml）挂载进来
           - name: argocd-cmp-cm
             mountPath: /home/argocd/cmp-server/config/plugin.yaml   # 一定要挂载成plugin.yaml
-            subPath: argocd-cmp-jsonnet.yaml
+            subPath: argocd-cmp-helm.yaml
           # 必需：隔离 tmp，防止路径遍历攻击
           - name: cmp-tmp
             mountPath: /tmp
@@ -116,8 +116,8 @@
         configMap:
           name: argocd-cmp-cm
           items:
-            - key: argocd-cmp-jsonnet.yaml
-              path: argocd-cmp-jsonnet.yaml
+            - key: argocd-cmp-helm.yaml
+              path: argocd-cmp-helm.yaml
   ```
 
 - `sidecar`镜像打包是基于`argocd`官方镜像，然后加入必要的工具，`Dockerfile`位于`dockerfiles/argocd/dockerfile`
@@ -140,7 +140,7 @@
     source:
       path: _charts/nginx/20.0.2
       plugin:
-        name: argocd-cmp-jsonnet
+        name: argocd-cmp-helm
         parameters:
           - name: jsonnet-file
             string: jsonnet-nginx-1.jsonnet
