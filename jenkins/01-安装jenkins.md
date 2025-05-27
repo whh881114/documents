@@ -5,8 +5,7 @@
 - https://support.huaweicloud.com/bestpractice-cce/cce_bestpractice_0066.html
 
 
-## 架构选型
-
+## 架构介绍
 | 部署模式         | Master     | Agent     | 优缺点分析                                                                                                                         |
 |:-------------|:-----------|:----------|:------------------------------------------------------------------------------------------------------------------------------|
 | 单Master      | 虚拟机        | -         | 优点：本地化构建，操作简单。<br>缺点：任务管理和执行都在同一台虚拟机上，安全风险较高。                                                                                 |
@@ -15,8 +14,13 @@
 | Master加Agent | 虚拟机        | 容器（K8s集群） | 优点：容器化的Agent可以选择固定Agent，也可以通过K8s实现动态Agent，动态Agent的方式资源利用率高。并且可以根据调度策略均匀分配任务，后期也比较容易维护。<br>缺点：Jenkins的Master存在小概率的宕机风险，恢复成本较高。 |
 | Master加Agent | 容器（K8s集群）  | 容器（K8s集群） | 优点：容器化的Agent可以选择固定Agent，也可以通过K8s实现动态Agent，资源利用率高。且Master具有自愈能力，维护成本低。Agent可以选择和Master共集群，也可以分集群。<br>缺点：系统复杂程度高，环境搭建较困难。       |
 
-- 架构选型：`Master+Agent`架构，部署在`kubernetes`集群中。
 
+## 架构选型
+- `Master+Agent`架构，部署在`kubernetes`集群中。  
+  ![jenkins分布式架构.png](./images/jenkins分布式架构.png)
+
+
+## 部署细节
 - 使用`argocd`部署`jenkins`。
 
 - 下载`jenkins`对应的`helm`包，修改`values.yaml`中的相关值，其目录为`argocd-manifests/_charts/jenkins/5.8.33`。
