@@ -75,11 +75,20 @@
     # -- Resource allocation (Requests and Limits)
     resources:
       requests:
-        cpu: "200m"
-        memory: "256Mi"
+        cpu: "4000m"
+        memory: "8192Mi"
       limits:
         cpu: "4000m"
         memory: "8192Mi"
+
+    # 加快插件安装，启动时插件检查。
+    containerEnv:
+      - name: HTTP_PROXY
+        value: http://10.255.2.162:8001
+      - name: HTTPS_PROXY
+        value: http://10.255.2.162:8001
+      - name: NO_PROXY
+        value: 'localhost,127.0.0.1,10.251.0.0/16,10.252.0.0/16,*.svc,*.svc.cluster.local,kubernetes.default.svc'
   
     # 采用controller+agent模式时，agentListenerEnabled需开启。
     # -- Create Agent listener service
@@ -351,7 +360,14 @@
       image:
         repository: harbor.idc.roywong.work/library/jenkins/inbound-agent-docker-cli
         tag: 28.1.1
-      runAsUser: '0'    # 在docker-in-docker模式中，涉及到权限问题，配置runAsUser和runAsGroup提升权限。
+      resources:
+        requests:
+          cpu: '2'
+          memory: '4Gi'
+        limits:
+          cpu: '4'
+          memory: '8Gi'
+      runAsUser: '0'
       runAsGroup: '0'
       volumes:
         - type: EmptyDir
@@ -359,7 +375,7 @@
           memory: false
         - type: EmptyDir
           mountPath: /var/run
-        - type: ConfigMap     # 配置docker认证，用于push镜像。
+        - type: ConfigMap
           configMapName: docker-config
           mountPath: /root/.docker
       envVars:
@@ -375,8 +391,8 @@
           privileged: true
           resources:
             requests:
-              cpu: '100m'
-              memory: '128Mi'
+              cpu: '2'
+              memory: '4Gi'
             limits:
               cpu: '4'
               memory: '8Gi'
@@ -394,6 +410,6 @@
 
 
 ## 自定义agent镜像
-- 自定义agent镜像要点：使用官方基础镜像`jenkins/inbound-agent:3301.v4363ddcca_4e7-3`，然后添加相应的软件包即可。
+- 自定义`agent`镜像要点：使用官方基础镜像`jenkins/inbound-agent:3301.v4363ddcca_4e7-3`，然后添加相应的软件包即可。
 
 - `Dockerfile`位置目录`dockerfiles/jenkins/inbound-agent`中。
