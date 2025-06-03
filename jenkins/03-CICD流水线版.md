@@ -1,4 +1,4 @@
-# 流水线版CICD
+# CICD流水线版
 
 
 ## 创建`jenkins`任务
