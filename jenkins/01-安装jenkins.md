@@ -162,8 +162,7 @@
       # -- Annotations for the JCasC ConfigMap
       configMapAnnotations: {}
   
-    # 配置jenkins JCasC reload，实际使用时，好像没效果，不知道是否是个人问题，还是推荐配置。
-    # 最后，还是在jenkins管理界面上先reload配置文件，然后再reboot。
+    # 配置jenkins JCasC auto-reload
     sidecars:
       configAutoReload:
         # If enabled: true, Jenkins Configuration as Code will be reloaded on-the-fly without a reboot.
