@@ -12,7 +12,7 @@
 ## 配置过程
 
 ### 创建cmp配置文件
-- 在`argo-cd`的`chart`中修改`values.yaml`，配置内容如下。
+- 在`argo-cd`的`chart`中修改`values.yaml`，配置内容如下。特别说明：渲染的内容必须是输出到终端，同时，内容格式是`yaml`。
   ```yaml
   configs:
     cmp:
