@@ -1,4 +1,10 @@
-#
+# 初始化bj/sh/bz三个k8s集群
+
+
+## 说明
+- 目前各集群使用`单master双worker`架构模式。
+- `kubectl edit deployment coredns -n kube-system`，删除亲和性配置。
+
 
 ## bj
 ```shell
