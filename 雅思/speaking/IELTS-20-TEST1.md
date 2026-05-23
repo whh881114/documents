@@ -3,9 +3,9 @@
 ## PART1
 - **How much walking do you do in your daily life?**
 ```
-I don't really keep track of how much I walk every day. My routine is quite simple -- I walk about 10 minutes to the 
-subway station on my way to work. However, I'm a bit overweight and have high blood pressure. My doctor advised me to 
-exercise regularly. As a result, I try to go for a 30-minute walk twice a week.
+I don't really keep track of how much I walk every day. My routine is quite simple—I walk about ten minutes to the 
+subway station on my way to work. Besides that, I'm a bit overweight and have high blood pressure, 
+so my doctor advised me to exercise regularly. That's why I try to go for a 30-minute walk twice a week.
 ```
 
 - **Did you walk more when you were at school than now?**
