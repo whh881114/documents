@@ -1,0 +1,17 @@
+# Cambridge IELTS 12 · Test 4 · Writing Task 2
+
+- 题号：`C12T4W2`
+- 分类：讨论题
+- 来源：[新东方剑雅写作练习](https://ieltscat.xdf.cn/practice/write)
+
+## Instructions
+
+You should spend about 40 minutes on this task.
+
+Write about the following topic.
+
+Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+Write at least 250 words.
