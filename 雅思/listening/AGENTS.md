@@ -82,9 +82,9 @@
 单句示例：
 
 ```html
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">1.</div>
-  <div><strong>ROSIE:</strong></div>
+  <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>Colin, I’m really struggling to think of a topic for our human geography assignment.</div>
 </div>
 ```
@@ -92,9 +92,9 @@
 同一位说话人包含多个句子时，后续句子的编号列和说话人列留空：
 
 ```html
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">2.</div>
-  <div><strong>COLIN:</strong></div>
+  <div style="white-space:nowrap;"><strong>COLIN:</strong></div>
   <div>Me too, Rosie.</div>
   <div></div>
   <div></div>
@@ -104,11 +104,12 @@
 
 必须保持以下样式值一致：
 
-- `grid-template-columns:2.5em 4.5em minmax(0,1fr)`
+- `grid-template-columns:2.5em 6em minmax(0,1fr)`
 - `column-gap:0.25em`
 - `margin:0.35em 0`
 - 编号列使用 `text-align:right`
 - 说话人使用 `<strong>NAME:</strong>`，冒号放在加粗内容内
+- 说话人列使用 <div style="white-space:nowrap;">，确保姓名和冒号永不换行
 
 这种格式看起来仍是普通的“编号 + 说话人 + 原文”，但可以保证：
 

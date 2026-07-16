@@ -6,27 +6,27 @@
 
 ## Transcript
 
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">1.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>How are you getting on with the assignment on handwriting?</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">2.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>Not too bad.</div>
   <div></div>
   <div></div>
   <div>You know, I hadn’t realised that children benefit in so many ways from learning to write.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">3.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>It’s such an important skill and yet most people think handwriting is less important than in the past because people hardly ever write by hand these days.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">4.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>Yes.</div>
   <div></div>
   <div></div>
@@ -35,9 +35,9 @@
   <div></div>
   <div>Not least because it helps their memory.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">5.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>That’s right.</div>
   <div></div>
   <div></div>
@@ -46,41 +46,41 @@
   <div></div>
   <div>That seems pretty obvious when you think about it.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">6.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>What’s less obvious is how it helps develop their concentration.</div>
   <div></div>
   <div></div>
   <div>They have to sit still and focus on one thing.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">7.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>Yeah.</div>
   <div></div>
   <div></div>
   <div>That aspect of handwriting had never occurred to me before.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">8.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>Same here.</div>
   <div></div>
   <div></div>
   <div>I’m not sure I understand how it improves children’s imagination though.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">9.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>Well, there was that study which showed that primary aged children generated more ideas when they were writing by hand than using a keyboard.</div>
   <div></div>
   <div></div>
   <div>I would’ve guessed that would be the case.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">10.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>Mmm, yeah.</div>
   <div></div>
   <div></div>
@@ -89,40 +89,40 @@
   <div></div>
   <div>I thought spatial awareness was more to do with knowing where you are in relation to objects or other people.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">11.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>I thought that too.</div>
   <div></div>
   <div></div>
   <div>But good spatial awareness is essential for writing because you have to space words correctly.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">12.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>It’s not just fine motor skills that improve through writing as I’d always assumed.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">13.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>Handwriting is so much harder for children with dyspraxia, who have problems coordinating movement.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">14.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>It’s good there are lots of things you can do in the classroom to help them.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">15.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>They need so much more support with letter formation – you need to play lots of games to help them distinguish letter shapes.</div>
   <div></div>
   <div></div>
   <div>It takes a lot of patience.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">16.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>Yeah.</div>
   <div></div>
   <div></div>
@@ -131,48 +131,48 @@
   <div></div>
   <div>That seems like a really simple solution.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">17.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>Yes, absolutely.</div>
   <div></div>
   <div></div>
   <div>I’m not sure there’s much you can do about children with dyspraxia writing very slowly.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">18.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>It’s more important to focus on accuracy and as they get more confident I think they eventually speed up.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">19.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>One quite simple thing you can do is to use grid paper.</div>
   <div></div>
   <div></div>
   <div>So they write each letter in a box and that trains them to space the letters correctly.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">20.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>Indeed, that’s more important for legibility than trying to get them to write in a straight line.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">21.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>For some children it might be better to teach them to write on a laptop rather than by hand.</div>
   <div></div>
   <div></div>
   <div>Like children with dyslexia.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">22.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>They often really struggle with handwriting and some just give up.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">23.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>Yeah.</div>
   <div></div>
   <div></div>
@@ -181,33 +181,33 @@
   <div></div>
   <div>But I read that developing fluency isn’t any faster.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">24.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>That’s right.</div>
   <div></div>
   <div></div>
   <div>Did you read that article on the benefits of teaching print rather than cursive handwriting, where the letters are joined up?</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">25.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>Yes.</div>
   <div></div>
   <div></div>
   <div>Well in the past cursive writing was certainly considered more stylish and educated.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">26.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>But not anymore.</div>
   <div></div>
   <div></div>
   <div>Teachers’ attitudes have changed because it’s been proved that cursive is more difficult to learn – especially for children with learning difficulties who find joining up letters really challenging.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">27.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>I agree.</div>
   <div></div>
   <div></div>
@@ -216,27 +216,27 @@
   <div></div>
   <div>And now research shows that I was right to worry.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">28.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>I’m sure a lot of students think it’s unfair that they’re being judged on their handwriting not just their knowledge.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">29.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>Marks are definitely affected if examiners can’t read the script.</div>
   <div></div>
   <div></div>
   <div>That’s why it’s always been so important to teach children to write legibly….</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">30.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>Do you think the role of handwriting will change in the future?</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">31.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>I can’t see that changing much.</div>
   <div></div>
   <div></div>
@@ -245,17 +245,17 @@
   <div></div>
   <div>But maybe that won’t be necessary in the future because people will also be able to write by hand on digital devices.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">32.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>Anyway, teachers understand the value of handwriting.</div>
   <div></div>
   <div></div>
   <div>It’s a basic life skill.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">33.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>True.</div>
   <div></div>
   <div></div>
@@ -264,17 +264,17 @@
   <div></div>
   <div>That does cause some problems.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">34.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>You mean like note taking?</div>
   <div></div>
   <div></div>
   <div>There are lots of apps for that.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">35.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>And for reading historical documents apparently.</div>
   <div></div>
   <div></div>
@@ -283,9 +283,9 @@
   <div></div>
   <div>I think you can put that down to lack of practice.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">36.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>I expect so.</div>
   <div></div>
   <div></div>
@@ -297,17 +297,17 @@
   <div></div>
   <div>I remember my grandparents had such beautiful handwriting and it was so individual.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">37.</div>
-  <div><strong>MAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>MAN:</strong></div>
   <div>Nobody I know would be able to identify my handwriting now.</div>
   <div></div>
   <div></div>
   <div>It’s a shame.</div>
 </div>
-<div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
+<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">38.</div>
-  <div><strong>WOMAN:</strong></div>
+  <div style="white-space:nowrap;"><strong>WOMAN:</strong></div>
   <div>I know.</div>
   <div></div>
   <div></div>
