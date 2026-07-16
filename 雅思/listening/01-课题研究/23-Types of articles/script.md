@@ -69,7 +69,7 @@
   <div>And that shows how important the editor thinks the story is.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">11.</div>
+  <div></div>
   <div></div>
   <div>Then there's the size – how many column inches the story is given, how many columns it spreads over.</div>
 </div>
@@ -97,27 +97,27 @@
   <div>Yes, you need to consider those, too,</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">16.</div>
+  <div></div>
   <div></div>
   <div>because they can have a big effect on the reader's understanding of the story – sometimes a bigger effect than the text itself.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">17.</div>
+  <div></div>
   <div></div>
   <div>THEN YOU'LL NEED TO LOOK AT HOW THE ITEM IS PUT TOGETHER: what structure is it given?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">18.</div>
+  <div></div>
   <div></div>
   <div>Bear in mind that not many people read beyond the first paragraph,</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">19.</div>
+  <div></div>
   <div></div>
   <div>so what has the journalist put at the beginning?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">20.</div>
+  <div></div>
   <div></div>
   <div>And if, say, there are conflicting opinions about something, does one appear near the end, where people probably won't read it?</div>
 </div>
@@ -127,7 +127,7 @@
   <div>And newspapers sometimes give wrong or misleading information, don't they?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">22.</div>
+  <div></div>
   <div></div>
   <div>Either deliberately or by accident.</div>
   <div></div>
@@ -143,22 +143,22 @@
   <div>Compare what's in different versions, and as far as possible, try and work out what's true and what isn't.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">24.</div>
+  <div></div>
   <div></div>
   <div>AND THAT RELATES TO A VERY IMPORTANT POINT: what's the writer's purpose,</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">25.</div>
+  <div></div>
   <div></div>
   <div>or at least the most important one, if they have several.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">26.</div>
+  <div></div>
   <div></div>
   <div>It may seem to be to inform the public, but often it's that they want to create fear,</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">27.</div>
+  <div></div>
   <div></div>
   <div>or controversy, or to make somebody look ridiculous.</div>
 </div>
@@ -176,12 +176,12 @@
   <div>That's right – about their knowledge of the subject, their attitudes, and their level of education,</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">30.</div>
+  <div></div>
   <div></div>
   <div>which means writing so that the readers understand without feeling patronised.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">31.</div>
+  <div></div>
   <div></div>
   <div>All of that will make a difference to how the story is presented.</div>
 </div>
@@ -199,7 +199,7 @@
   <div>Anything, as long as it's covered in two or three newspapers.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">34.</div>
+  <div></div>
   <div></div>
   <div>Though of course it'll be easier and more fun if it's something you're interested in and know something about.</div>
 </div>
@@ -209,7 +209,7 @@
   <div>And on that basis a national news item would be worth analysing – I'm quite keen on politics, so I'll try and find a suitable topic.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">36.</div>
+  <div></div>
   <div></div>
   <div>What did you choose for your analysis, Tom?</div>
 </div>
@@ -219,12 +219,12 @@
   <div>I was interested in how newspapers express their opinions explicitly,</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">38.</div>
+  <div></div>
   <div></div>
   <div>so I wanted to compare editorials in different papers, but when I started looking,</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">39.</div>
+  <div></div>
   <div></div>
   <div>I couldn't find two on the same topic that I felt like analysing.</div>
 </div>
@@ -239,17 +239,17 @@
   <div>So in the end I chose a human interest story – a terribly emotional story about a young girl who was very ill,</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">42.</div>
+  <div></div>
   <div></div>
   <div>and lots of other people – mostly strangers – raised money so she could go abroad for treatment.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">43.</div>
+  <div></div>
   <div></div>
   <div>Actually, I was surprised – some papers just wrote about how wonderful everyone was,</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">44.</div>
+  <div></div>
   <div></div>
   <div>but others considered the broader picture, like why treatment wasn't available here.</div>
 </div>
@@ -259,17 +259,17 @@
   <div>Hmm, I usually find stories like that raise quite strong feelings in me!</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">46.</div>
+  <div></div>
   <div></div>
   <div>I'll avoid that.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">47.</div>
+  <div></div>
   <div></div>
   <div>Perhaps I'll choose an arts topic, like different reviews of a film, or something about funding for the arts –</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">48.</div>
+  <div></div>
   <div></div>
   <div>I'll think about that.</div>
 </div>

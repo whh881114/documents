@@ -7,7 +7,7 @@
 ## Transcript
 
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">1.</div>
+  <div></div>
   <div></div>
   <div>Section 3</div>
 </div>
@@ -35,7 +35,7 @@
   <div>But the stuff on birth order and personality is mostly unreliable.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">6.</div>
+  <div></div>
   <div></div>
   <div>From what I've been reading, a lot of the claims about how you position in the family determines certain personality traits are just stereotypes, with no robust evidence to support them.</div>
 </div>
@@ -45,12 +45,12 @@
   <div>Okay, but that's an interesting point.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">8.</div>
+  <div></div>
   <div></div>
   <div>We could start by outlining what previous research has shown.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">9.</div>
+  <div></div>
   <div></div>
   <div>There are studies going back over 100 years.</div>
 </div>
@@ -65,7 +65,7 @@
   <div>Right, but on a positive note, some studies claim that they were thought to be good at nurturing.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">12.</div>
+  <div></div>
   <div></div>
   <div>Certainly in the past, when people had large families, they would have been expected to look after the younger ones.</div>
 </div>
@@ -85,12 +85,12 @@
   <div>As I said, none of these seems to relate to my own experience.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">16.</div>
+  <div></div>
   <div></div>
   <div>I'm the youngest in my family and I don't recognize myself in any of the studies I've read about.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">17.</div>
+  <div></div>
   <div></div>
   <div>I'm supposed to have been a sociable and confident child who made friends easily, but I was actually terribly shy.</div>
 </div>
@@ -100,7 +100,7 @@
   <div>Really? that's funny.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">19.</div>
+  <div></div>
   <div></div>
   <div>There have been hundreds of studies on twins, but mostly about nurture versus nature.</div>
 </div>
@@ -118,7 +118,7 @@
   <div>When they were small, they were only interested in each other and found it hard to engage with other kids.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">22.</div>
+  <div></div>
   <div></div>
   <div>They're fine now though.</div>
 </div>
@@ -128,7 +128,7 @@
   <div>Only children have had a really bad press.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">24.</div>
+  <div></div>
   <div></div>
   <div>A lot of studies of branded them as loners who think the world revolves around them because they've never had to fight for their parents' attention.</div>
 </div>
@@ -138,12 +138,12 @@
   <div>That does seem a bit harsh.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">26.</div>
+  <div></div>
   <div></div>
   <div>One category I hadn't considered before was children with much older siblings.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">27.</div>
+  <div></div>
   <div></div>
   <div>A couple of studies mention that these children grow up more quickly and are expected to do basic things for themselves like getting dressed.</div>
 </div>
@@ -168,12 +168,12 @@
   <div>Mm, some of the old research into the relationship between birth order and academic achievement has been proved to be accurate though.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">32.</div>
+  <div></div>
   <div></div>
   <div>Performances in intelligence tests declined slightly from the eldest child to his or her younger siblings.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">33.</div>
+  <div></div>
   <div></div>
   <div>This has been proved in lots of recent studies.</div>
 </div>
@@ -183,7 +183,7 @@
   <div>Yes, although what many of them didn't take into consideration was family size.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">35.</div>
+  <div></div>
   <div></div>
   <div>The more siblings that are the likely of the family is to have a low socioeconomic status, which can also account for differences between siblings in academic performance.</div>
 </div>
@@ -203,12 +203,12 @@
   <div>But the main reason for the marginally higher academic performance of oldest children is quite surprising, I think.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">39.</div>
+  <div></div>
   <div></div>
   <div>It's not only that they benefit intellectually from extra attention at a young age, which is what I would have expected.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">40.</div>
+  <div></div>
   <div></div>
   <div>It's that they benefit from being teachers for their younger siblings by verbalizing processes.</div>
 </div>
@@ -221,7 +221,7 @@
   <div>And this gives them status and confidence, which again contributes in a small way to better performance.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">42.</div>
+  <div></div>
   <div></div>
   <div>So would you say sibling rivalry has been a useful thing for you.</div>
 </div>
@@ -231,22 +231,22 @@
   <div>I think so.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">44.</div>
+  <div></div>
   <div></div>
   <div>My younger brother was incredibly annoying and we fought a lot, but I think this has made me a stronger person.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">45.</div>
+  <div></div>
   <div></div>
   <div>I know how to defend myself.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">46.</div>
+  <div></div>
   <div></div>
   <div>We had some terrible arguments and I would have died rather than apologize to him, but we had to put up with each other.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">47.</div>
+  <div></div>
   <div></div>
   <div>And most of the time we coexisted amicably enough.</div>
 </div>
@@ -256,7 +256,7 @@
   <div>Yes, my situation was pretty similar, but I don't think having two older brothers made me any less selfish.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">49.</div>
+  <div></div>
   <div></div>
   <div>I was never prepared to let my brothers use any of my stuff.</div>
 </div>

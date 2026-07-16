@@ -20,12 +20,12 @@
   <div>Like, they gave us the theme of birds to base our project on, and I'm not really all that interested in wildlife.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">3.</div>
+  <div></div>
   <div></div>
   <div>But I'm starting to get into it.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">4.</div>
+  <div></div>
   <div></div>
   <div>I've pretty well finished the introductory stage.</div>
 </div>
@@ -46,7 +46,7 @@
   <div>I found I could research so many different aspects of birds in art – colour, movement, texture.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">7.</div>
+  <div></div>
   <div></div>
   <div>So I was looking forward to the Bird Park visit.</div>
 </div>
@@ -59,7 +59,7 @@
   <div>It poured with rain and we hardly saw a single bird.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">9.</div>
+  <div></div>
   <div></div>
   <div>Much less use than the trip to the Natural History Museum.</div>
 </div>
@@ -72,7 +72,7 @@
   <div>I liked all the stuff about evolution there.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">11.</div>
+  <div></div>
   <div></div>
   <div>The workshop sessions with Dr Fletcher were good too, especially the brainstorming sessions.</div>
 </div>
@@ -103,17 +103,17 @@
   <div>Yes, but I haven't handed it in.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">16.</div>
+  <div></div>
   <div></div>
   <div>I need to amend some parts.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">17.</div>
+  <div></div>
   <div></div>
   <div>I've realised the notes from my research are almost all just descriptions, I haven't actually evaluated anything.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">18.</div>
+  <div></div>
   <div></div>
   <div>So I'll have to fix that.</div>
 </div>
@@ -123,12 +123,12 @@
   <div>Oh, I didn't know we had to do that.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">20.</div>
+  <div></div>
   <div></div>
   <div>I'll have to look at that too.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">21.</div>
+  <div></div>
   <div></div>
   <div>Did you do a timeline for the project?</div>
 </div>
@@ -146,7 +146,7 @@
   <div>I quite enjoyed that.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">24.</div>
+  <div></div>
   <div></div>
   <div>But it was hard having to explain the basis for my decisions in my action plan.</div>
 </div>
@@ -166,12 +166,12 @@
   <div>I didn't realise we had to do that.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">28.</div>
+  <div></div>
   <div></div>
   <div>OK, I can add it now.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">29.</div>
+  <div></div>
   <div></div>
   <div>And I've done the video diary presentation, and worked out what I want my outcome to be in the project.</div>
 </div>
@@ -181,7 +181,7 @@
   <div>Someone told me it's best not to be too precise about your actual outcome at this stage, so you have more scope to explore your ideas later on.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">31.</div>
+  <div></div>
   <div></div>
   <div>So I'm going to go back to my proposal to make it a bit more vague.</div>
 </div>
@@ -199,17 +199,17 @@
   <div>One part of the project I'm unsure about is where we choose some paintings of birds and say what they mean to us.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">34.</div>
+  <div></div>
   <div></div>
   <div>Like, I chose a painting of a falcon by Landseer.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">35.</div>
+  <div></div>
   <div></div>
   <div>I like it because the bird's standing there with his head turned to one side, but he seems to be staring straight at you.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">36.</div>
+  <div></div>
   <div></div>
   <div>But I can't just say it's a bit scary, can I?</div>
 </div>
@@ -229,7 +229,7 @@
   <div>There's a picture of a fish hawk by Audubon I like.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">40.</div>
+  <div></div>
   <div></div>
   <div>It's swooping over the water with a fish in its talons, and with great black wings which take up most of the picture.</div>
 </div>
@@ -285,12 +285,12 @@
   <div>There's a portrait called William Wells, I can't remember the artist but it's a middle-aged man who's just shot a bird.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">50.</div>
+  <div></div>
   <div></div>
   <div>And his expression, and the way he's holding the bird in his hand suggests he's not sure about what he's done.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">51.</div>
+  <div></div>
   <div></div>
   <div>To me it's about how ambiguous people are in the way they exploit the natural world.</div>
 </div>
@@ -303,17 +303,17 @@
   <div>There's Gauguin's picture Vairumati.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">53.</div>
+  <div></div>
   <div></div>
   <div>He did it in Tahiti.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">54.</div>
+  <div></div>
   <div></div>
   <div>It's a woman with a white bird behind her that is eating a lizard, and what I'm interested in is what idea this bird refers to.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">55.</div>
+  <div></div>
   <div></div>
   <div>Apparently, it's a reference to the never-ending cycle of existence.</div>
 </div>
@@ -326,12 +326,12 @@
   <div>I chose a portrait of a little boy, Giovanni de Medici.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">57.</div>
+  <div></div>
   <div></div>
   <div>He's holding a tiny bird in one fist.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">58.</div>
+  <div></div>
   <div></div>
   <div>I like the way he's holding it carefully so he doesn't hurt it.</div>
 </div>

@@ -7,7 +7,7 @@
 ## Transcript
 
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">1.</div>
+  <div></div>
   <div></div>
   <div>Part 3</div>
 </div>
@@ -36,12 +36,12 @@
   <div>But I found an interesting article about icehouses.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">5.</div>
+  <div></div>
   <div></div>
   <div>I'd seen some 18th- and 19th-century ones here in the UK, so I knew they were often built in a shady area or underground, close to lakes that might freeze in the winter.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">6.</div>
+  <div></div>
   <div></div>
   <div>Then blocks of ice could be cut and stored in the icehouse.</div>
   <div></div>
@@ -49,7 +49,7 @@
   <div>But I didn't realise that insulating the blocks with straw or sawdust meant they didn't melt for months.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">7.</div>
+  <div></div>
   <div></div>
   <div>The ancient Romans had refrigeration, too.</div>
 </div>
@@ -64,7 +64,7 @@
   <div>Yes, pits were dug in the ground, and snow was imported from the mountains – even though they were at quite a distance.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">10.</div>
+  <div></div>
   <div></div>
   <div>The snow was stored in the pits.</div>
   <div></div>
@@ -75,7 +75,7 @@
   <div>Both the ice and the snow were then sold.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">11.</div>
+  <div></div>
   <div></div>
   <div>The ice cost more than the snow and my guess is that only the wealthy members of society could afford it.</div>
 </div>
@@ -88,7 +88,7 @@
   <div>I also came across an article about modern domestic fridges.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">13.</div>
+  <div></div>
   <div></div>
   <div>Several different technologies are used, but they were too complex for me to understand.</div>
 </div>
@@ -132,7 +132,7 @@
   <div>In this country we keep domestic fridges for 11 years on average, and a lot last for 20 or more.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">20.</div>
+  <div></div>
   <div></div>
   <div>So if you divide the cost by the number of years you can use a fridge, they're not expensive, compared with some household appliances.</div>
 </div>
@@ -145,7 +145,7 @@
   <div>I suppose manufacturers encourage people to spend more by making them different colours and designs.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">22.</div>
+  <div></div>
   <div></div>
   <div>I'm sure when my parents bought their first fridge they had hardly any choice!</div>
 </div>
@@ -160,7 +160,7 @@
   <div>Right, let's make a list of topics to cover in our presentation, and decide who's going to do more research on them.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">25.</div>
+  <div></div>
   <div></div>
   <div>Then later, we can get together and plan the next step.</div>
 </div>
@@ -173,7 +173,7 @@
   <div>How about starting with how useful refrigeration is, and the range of goods that are refrigerated nowadays?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">27.</div>
+  <div></div>
   <div></div>
   <div>Because of course it's not just food and drinks.</div>
 </div>
@@ -199,12 +199,12 @@
   <div>What about the effects of refrigeration on people's health?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">31.</div>
+  <div></div>
   <div></div>
   <div>After all, some of the chemicals used in the 19th century were pretty harmful, but there have been lots of benefits too, like always having access to fresh food.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">32.</div>
+  <div></div>
   <div></div>
   <div>Do you fancy dealing with that?</div>
 </div>
@@ -230,7 +230,7 @@
   <div>But you owe me, Jack.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">36.</div>
+  <div></div>
   <div></div>
   <div>OK.</div>
   <div></div>
@@ -262,7 +262,7 @@
   <div>I had a quick look at an economics book in the library that's got a chapter about this sort of thing.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">40.</div>
+  <div></div>
   <div></div>
   <div>I could give you the title, if you want to do this section.</div>
 </div>

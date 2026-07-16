@@ -7,7 +7,7 @@
 ## Transcript
 
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">1.</div>
+  <div></div>
   <div></div>
   <div>Section 3</div>
 </div>

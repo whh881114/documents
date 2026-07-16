@@ -7,7 +7,7 @@
 ## Transcript
 
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">1.</div>
+  <div></div>
   <div></div>
   <div>Section 3</div>
 </div>
@@ -47,7 +47,7 @@
   <div>No, there's an optional module on seed structure and function in the third year that I might do,</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">6.</div>
+  <div></div>
   <div></div>
   <div>so I thought it might be useful for that.</div>
   <div></div>
@@ -106,7 +106,7 @@
   <div>I'm sure our aim's OK.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">13.</div>
+  <div></div>
   <div></div>
   <div>It's not very ambitious but the assignment's only ten percent of our final mark, isn't it?</div>
   <div></div>
@@ -261,7 +261,7 @@
   <div>And we'll need to label them - we can use different coloured labels.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">32.</div>
+  <div></div>
   <div></div>
   <div>Then we wait for the seeds to germinate - I reckon that'll be about three weeks, depending on what the weather's like.</div>
   <div></div>

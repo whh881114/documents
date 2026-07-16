@@ -7,7 +7,7 @@
 ## Transcript
 
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">1.</div>
+  <div></div>
   <div></div>
   <div>Section 3</div>
 </div>
@@ -41,12 +41,12 @@
   <div>Well, my mother is Danish, and although we always lived in England, she used to talk about her home a lot, and that made me want to visit Denmark.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">6.</div>
+  <div></div>
   <div></div>
   <div>We hardly ever did, though - my mother usually went on her own.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">7.</div>
+  <div></div>
   <div></div>
   <div>But whenever her relations or friends were in England they always came to see us.</div>
 </div>
@@ -99,7 +99,7 @@
   <div>I'm interested in journalism and I quite like the idea of moving to Scandinavia and writing for magazines.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">14.</div>
+  <div></div>
   <div></div>
   <div>I'd find that more creative than translating, which I suppose most graduates do.</div>
 </div>
@@ -122,7 +122,7 @@
   <div>That'll continue next term, but the one on Scandinavian literature that's running at the moment will be replaced by more specialised courses.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">18.</div>
+  <div></div>
   <div></div>
   <div>Oh, and by the way, if you're interested in watching Danish television programmes - there's going to be a course on that the term after next.</div>
 </div>
@@ -150,7 +150,7 @@
   <div>The trouble with that is that a lot of people choose that topic, and it can be difficult to get hold of the books you'll need.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">23.</div>
+  <div></div>
   <div></div>
   <div>Why not leave that for another time?</div>
 </div>
@@ -191,12 +191,12 @@
   <div>First I suggest you avoid taking one writer and going into a great deal of detail.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">30.</div>
+  <div></div>
   <div></div>
   <div>That approach certainly has its place, but I think you first need to get an understanding of the literature in the context of the society in which it was produced - who it was written for, how it was published, and so on.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">31.</div>
+  <div></div>
   <div></div>
   <div>I also think that's more fruitful than placing it within the history of the genre.</div>
 </div>
@@ -238,7 +238,7 @@
   <div>It's short and well focused, and I'm sure you'll find it helpful.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">37.</div>
+  <div></div>
   <div></div>
   <div>I'll give you the details in a moment.</div>
   <div></div>
@@ -262,7 +262,7 @@
   <div>If it's the one I am thinking of, hmm, I'd ignore it - it's more fantasy than reality.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">40.</div>
+  <div></div>
   <div></div>
   <div>But I've got a recording of a documentary that you should watch.</div>
   <div></div>

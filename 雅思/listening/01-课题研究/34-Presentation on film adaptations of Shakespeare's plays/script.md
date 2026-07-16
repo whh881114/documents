@@ -7,7 +7,7 @@
 ## Transcript
 
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">1.</div>
+  <div></div>
   <div></div>
   <div>Section 3</div>
 </div>
@@ -69,7 +69,7 @@
   <div>I've already made some notes on that, so I just need to sort those out before the presentation.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">11.</div>
+  <div></div>
   <div></div>
   <div>I thought that next I'd ask the class to come up with the worst examples of Shakespeare adaptations that they've seen, and to say why.</div>
   <div></div>
@@ -101,7 +101,7 @@
   <div>Both to prepare and during the presentation?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">15.</div>
+  <div></div>
   <div></div>
   <div>After all, I doubt if you'll be able to find all the clips you want.</div>
 </div>

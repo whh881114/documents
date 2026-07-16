@@ -7,7 +7,7 @@
 ## Transcript
 
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">1.</div>
+  <div></div>
   <div></div>
   <div>Section 3</div>
 </div>
@@ -38,7 +38,7 @@
   <div>I chose the topic because I didn't know much about it and wanted to learn more, but now I've read so much about it, in a way there's too much to say - I could talk for much longer than the twenty minutes I've been allocated.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">6.</div>
+  <div></div>
   <div></div>
   <div>Should I assume the other students don't know much, and give them a kind of general introduction, or should I try and make them share my fascination with a particular aspect?</div>
 </div>
@@ -113,7 +113,7 @@
   <div>And there's a danger of tailoring what you say to fit whatever slides you can find.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">18.</div>
+  <div></div>
   <div></div>
   <div>While it can be good to include slides, you could end up spending too long looking for suitable ones.</div>
   <div></div>
@@ -160,7 +160,7 @@
   <div>Well, initially I think you should ignore all the notes you've made, take a small piece of paper, and write a single short sentence that ties together the whole presentation: it can be something as simple as 'Nanotechnology is already improving our lives'.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">25.</div>
+  <div></div>
   <div></div>
   <div>Then start planning the content around that.</div>
   <div></div>
@@ -226,7 +226,7 @@
   <div>Every time you showed a slide, you turned your back on the audience so you could look at it - you should have been looking at your laptop.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">34.</div>
+  <div></div>
   <div></div>
   <div>And you kept scratching your head, so I found myself wondering when you were next going to do that, instead of listening to what you were saying!</div>
 </div>

@@ -20,12 +20,12 @@
   <div>I think we should start by talking about the benefits.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">3.</div>
+  <div></div>
   <div></div>
   <div>I mean it's great that so many cities have introduced these schemes where anyone can pick up a bike from dozens of different locations and hire it for a few hours.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">4.</div>
+  <div></div>
   <div></div>
   <div>It makes riding a bike very convenient for people.</div>
 </div>
@@ -48,7 +48,7 @@
   <div>But isn't that of less importance?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">8.</div>
+  <div></div>
   <div></div>
   <div>I mean, doesn't the impact of reduced emissions on air pollution have a more significant effect on people's health?</div>
 </div>
@@ -58,7 +58,7 @@
   <div>Certainly, in some cities bike-sharing has made a big contribution to that.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">10.</div>
+  <div></div>
   <div></div>
   <div>And also helped to cut the number of cars on the road significantly.</div>
 </div>
@@ -109,7 +109,7 @@
   <div>But some technical things are really important – like a fully functional app – so people can make payments and book bikes easily.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">19.</div>
+  <div></div>
   <div></div>
   <div>Places which haven't invested in that have really struggled.</div>
 </div>
@@ -130,12 +130,12 @@
   <div>Deciding how much to invest is a big question.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">22.</div>
+  <div></div>
   <div></div>
   <div>Cities which have opened loads of new bike lanes at the same time as introducing bike-sharing schemes have generally been more successful – but there are examples of successful schemes where this hasn't happened …</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">23.</div>
+  <div></div>
   <div></div>
   <div>What does matter though – is having a big publicity campaign.</div>
 </div>
@@ -148,7 +148,7 @@
   <div>If people don't know how to use the scheme or don't understand its benefits, they won't use it.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">25.</div>
+  <div></div>
   <div></div>
   <div>People need a lot of persuasion to stop using their cars.</div>
 </div>
@@ -158,7 +158,7 @@
   <div>Shall we look at some examples now?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">27.</div>
+  <div></div>
   <div></div>
   <div>And say what we think is good or bad about them.</div>
 </div>
@@ -176,7 +176,7 @@
   <div>There was already a strong culture of cycling here.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">30.</div>
+  <div></div>
   <div></div>
   <div>In a way it's strange that there was such a demand for bike-sharing because you'd have thought most people would have used their own bikes.</div>
 </div>
@@ -186,7 +186,7 @@
   <div>And yet it's one of the best-used schemes ...</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">32.</div>
+  <div></div>
   <div></div>
   <div>Dublin's an interesting example of a success story.</div>
 </div>
@@ -201,12 +201,12 @@
   <div>Not really – there's no underground, but there are trams and a good bus network.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">35.</div>
+  <div></div>
   <div></div>
   <div>I'd say price has a lot to do with it.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">36.</div>
+  <div></div>
   <div></div>
   <div>It's one of the cheapest schemes in Europe to join.</div>
 </div>
@@ -229,7 +229,7 @@
   <div>Yes – it's been a really good thing for the city.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">40.</div>
+  <div></div>
   <div></div>
   <div>The bikes are popular and the whole system is well maintained but it isn't expanding quickly enough.</div>
 </div>
@@ -263,7 +263,7 @@
   <div>They built a huge network of cycle lanes to support the introduction of the scheme there, didn't they?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">45.</div>
+  <div></div>
   <div></div>
   <div>It attracted huge numbers of cyclists where previously there were hardly any.</div>
 </div>
@@ -281,7 +281,7 @@
   <div>New York is a good example of how not to introduce a scheme.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">48.</div>
+  <div></div>
   <div></div>
   <div>When they launched it, it was more than ten times the price of most other schemes.</div>
 </div>
@@ -291,7 +291,7 @@
   <div>More than it costs to take a taxi.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">50.</div>
+  <div></div>
   <div></div>
   <div>Crazy.</div>
   <div></div>
@@ -307,7 +307,7 @@
   <div>Sydney would be a good example to use.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">52.</div>
+  <div></div>
   <div></div>
   <div>I would have expected it to have grown pretty quickly here.</div>
 </div>
@@ -320,7 +320,7 @@
   <div>I can't quite work out why it hasn't been an instant success like some of the others.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">54.</div>
+  <div></div>
   <div></div>
   <div>It's a shame really.</div>
 </div>

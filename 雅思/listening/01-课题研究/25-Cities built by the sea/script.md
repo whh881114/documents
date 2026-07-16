@@ -7,7 +7,7 @@
 ## Transcript
 
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">1.</div>
+  <div></div>
   <div></div>
   <div>Section 3</div>
 </div>
@@ -17,7 +17,7 @@
   <div>OK, so what I'd like you to do now is to talk to your partner about your presentations on urban planning.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">3.</div>
+  <div></div>
   <div></div>
   <div>You should have done most of the reading now, so I'd like you to share your ideas, and talk about the structure of your presentation and what you need to do next.</div>
 </div>
@@ -73,7 +73,7 @@
   <div>Well, as the city expands, agriculture and industry tend to spread further inland along the rivers, and so agriculture moves even further inland up the river.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">10.</div>
+  <div></div>
   <div></div>
   <div>That's not necessarily a problem, except it means more and more pollutants are discharged into the rivers.</div>
 </div>
@@ -117,12 +117,12 @@
   <div>But what they didn't take into account was global warming.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">17.</div>
+  <div></div>
   <div></div>
   <div>So they built the drainage channels too close to sea level, and now sea levels are rising, they're more or less useless.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">18.</div>
+  <div></div>
   <div></div>
   <div>If there's a lot of rain, the water can't run away, there's nowhere for it to go.</div>
   <div></div>
@@ -178,7 +178,7 @@
   <div>The thing is, everyone knows what the problems are and environmentalists have a pretty good idea of what we should be doing about them, so they should be able to work together to some extent.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">25.</div>
+  <div></div>
   <div></div>
   <div>But it's going to be a long time before countries come to a decision on what principles they're prepared to abide by.</div>
 </div>
@@ -204,7 +204,7 @@
   <div>So I suppose we'll begin with some general historical background about why coastal cities were established.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">29.</div>
+  <div></div>
   <div></div>
   <div>But we don't want to spend too long on that.</div>
   <div></div>

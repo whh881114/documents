@@ -7,7 +7,7 @@
 ## Transcript
 
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">1.</div>
+  <div></div>
   <div></div>
   <div>Section 3</div>
 </div>
@@ -127,7 +127,7 @@
   <div>Yes, put it all together and choose what's relevant to the problem we're focusing on, and analyse that carefully to find out if we can identify any trends or regularities there.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">16.</div>
+  <div></div>
   <div></div>
   <div>That's the main thing at this stage, rather than concentrating on details or lots of facts.</div>
 </div>
@@ -168,7 +168,7 @@
   <div>So basically, the problem we're addressing in our case study of the Horton Castle site is why so few tourists are visiting it.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">23.</div>
+  <div></div>
   <div></div>
   <div>And we'll find out more from our interviews, but I did find one report on the internet that suggested that one reason might be because as far as transport goes, access is difficult.</div>
 </div>
@@ -248,7 +248,7 @@
   <div>At present it's a bit of a ghost town.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">33.</div>
+  <div></div>
   <div></div>
   <div>Once they've left school and got any skills or qualifications, the young people all get out as fast as they can to get jobs in the city, and the only people left are children and those who've retired.</div>
 </div>
@@ -261,12 +261,12 @@
   <div>Something else we could investigate would be the potential damage that tourists might cause to the castle site, I mean their environmental impact.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">35.</div>
+  <div></div>
   <div></div>
   <div>At present the tourists can just wander round wherever they want, but if numbers increase, there might have to be some restrictions, like sticking to marked ways.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">36.</div>
+  <div></div>
   <div></div>
   <div>And there'd need to be guides and wardens around to make sure these were enforced.</div>
 </div>

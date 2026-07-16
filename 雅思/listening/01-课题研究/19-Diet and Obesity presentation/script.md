@@ -35,7 +35,7 @@
   <div>It took me ages to decide exactly how I'd organise it, especially how I could make sure that people didn't know which drink I was giving them.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">6.</div>
+  <div></div>
   <div></div>
   <div>It was hard to keep track of it all, especially as I had so many people doing it – I had to make sure I kept a proper record of what each person had had.</div>
 </div>
@@ -68,22 +68,22 @@
   <div>My results were a bit problematic – the fat content for that type of nut seemed much lower than it said on the package.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">12.</div>
+  <div></div>
   <div></div>
   <div>But I reckon the package information was right.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">13.</div>
+  <div></div>
   <div></div>
   <div>I think I should probably have ground up the nuts more than I did.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">14.</div>
+  <div></div>
   <div></div>
   <div>It's possible that the scales for weighing the fat weren't accurate enough, too.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">15.</div>
+  <div></div>
   <div></div>
   <div>I'd really like to try the experiment again some time.</div>
 </div>
@@ -93,17 +93,17 @@
   <div>So what can we say about helping people to lose weight?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">17.</div>
+  <div></div>
   <div></div>
   <div>There's a lot we could say about what restaurants could do to reduce obesity.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">18.</div>
+  <div></div>
   <div></div>
   <div>I read that the items at the start of a menu and the items at the end of a menu are much more likely to be chosen than the items in the middle.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">19.</div>
+  <div></div>
   <div></div>
   <div>So, if you put the low-calorie items at the beginning and end of the menu, people will probably go for the food with fewer calories, without even realising what they're doing.</div>
 </div>
@@ -123,7 +123,7 @@
   <div>Well, when manufacturers put calorie counts of a food on the label, they're sometimes really confusing and I suspect they do it on purpose.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">23.</div>
+  <div></div>
   <div></div>
   <div>Because food that's high in calories tastes better, and so they'll sell more.</div>
 </div>
@@ -133,7 +133,7 @@
   <div>Yeah, so if you look at the amount of calories in a pizza, they'll give you the calories per quarter pizza and you think, oh that's not too bad.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">25.</div>
+  <div></div>
   <div></div>
   <div>But who's going to eat a quarter pizza?</div>
 </div>
@@ -156,7 +156,7 @@
   <div>In England, the current guidelines are for at least 30 minutes of brisk walking, five days a week.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">29.</div>
+  <div></div>
   <div></div>
   <div>Now when you ask them, about 40% of men and 30% of women say they do this, but when you objectively measure the amount of walking they do with motion sensors, you find that only 6% of men and 4% of women do the recommended amount of exercise.</div>
 </div>
@@ -176,17 +176,17 @@
   <div>Well, for example, think of the location of stairs in a train station.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">33.</div>
+  <div></div>
   <div></div>
   <div>If people reach the stairs before they reach the escalator when they're leaving the station, they're more likely to take the stairs.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">34.</div>
+  <div></div>
   <div></div>
   <div>And if you increase the width of the stairs, you'll get more people using them at the same time.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">35.</div>
+  <div></div>
   <div></div>
   <div>It's an unconscious process and influenced by minor modifications in their environment.</div>
 </div>
@@ -225,7 +225,7 @@
   <div>And we've got plenty of information about that.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">41.</div>
+  <div></div>
   <div></div>
   <div>OK, well that will be simpler.</div>
 </div>
@@ -235,7 +235,7 @@
   <div>So what shall we do now?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">43.</div>
+  <div></div>
   <div></div>
   <div>We've still got half an hour before our next lecture.</div>
 </div>
@@ -245,7 +245,7 @@
   <div>Let's think about what we're going to include and what will go where.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">45.</div>
+  <div></div>
   <div></div>
   <div>Then we can decide what slides we need.</div>
 </div>

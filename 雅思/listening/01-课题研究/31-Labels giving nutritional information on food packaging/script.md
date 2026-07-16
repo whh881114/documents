@@ -7,7 +7,7 @@
 ## Transcript
 
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">1.</div>
+  <div></div>
   <div></div>
   <div>Section 3</div>
 </div>
@@ -41,7 +41,7 @@
   <div>I tended to believe claims on packaging like 'low in fat'.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">6.</div>
+  <div></div>
   <div></div>
   <div>But I now realise that the 'healthy' yoghurt I've bought for years is full of sugar and that it's actually quite high in calories.</div>
 </div>
@@ -99,7 +99,7 @@
   <div>I liked the traditional daily value system best - the one which tells you what proportion of your required daily intake of each ingredient the product contains.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">14.</div>
+  <div></div>
   <div></div>
   <div>I'm not sure it's the easiest for people to use but at least you get the full story.</div>
   <div></div>
