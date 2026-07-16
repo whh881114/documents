@@ -2,15 +2,10 @@
 
 - Source: 剑雅15 Test 2-Section 4
 - Script: https://ieltscat.xdf.cn/intensive/intensive/1744/2/1
-- Sentence count: 63
+- Sentence count: 62
 
 ## Transcript
 
-<div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div></div>
-  <div></div>
-  <div>PART 4</div>
-</div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div></div>
   <div></div>

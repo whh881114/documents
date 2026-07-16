@@ -74,12 +74,12 @@
   <div>Then there's the size – how many column inches the story is given, how many columns it spreads over.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">12.</div>
+  <div style="text-align:right;">11.</div>
   <div style="white-space:nowrap;"><strong>HAZEL:</strong></div>
   <div>And I suppose that includes the headline.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">13.</div>
+  <div style="text-align:right;">12.</div>
   <div style="white-space:nowrap;"><strong>TOM:</strong></div>
   <div>It certainly does.</div>
   <div></div>
@@ -87,12 +87,12 @@
   <div>It's all part of attracting the reader's attention.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">14.</div>
+  <div style="text-align:right;">13.</div>
   <div style="white-space:nowrap;"><strong>HAZEL:</strong></div>
   <div>What about graphics – whether there's anything visual in addition to the text?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">15.</div>
+  <div style="text-align:right;">14.</div>
   <div style="white-space:nowrap;"><strong>TOM:</strong></div>
   <div>Yes, you need to consider those, too,</div>
 </div>
@@ -122,7 +122,7 @@
   <div>And if, say, there are conflicting opinions about something, does one appear near the end, where people probably won't read it?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">21.</div>
+  <div style="text-align:right;">15.</div>
   <div style="white-space:nowrap;"><strong>HAZEL:</strong></div>
   <div>And newspapers sometimes give wrong or misleading information, don't they?</div>
 </div>
@@ -135,7 +135,7 @@
   <div>Should I be looking at that, too?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">23.</div>
+  <div style="text-align:right;">16.</div>
   <div style="white-space:nowrap;"><strong>TOM:</strong></div>
   <div>Yes, if you can.</div>
   <div></div>
@@ -163,7 +163,7 @@
   <div>or controversy, or to make somebody look ridiculous.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">28.</div>
+  <div style="text-align:right;">17.</div>
   <div style="white-space:nowrap;"><strong>HAZEL:</strong></div>
   <div>Gosh, I see what you mean.</div>
   <div></div>
@@ -171,7 +171,7 @@
   <div>And I suppose the writer may make assumptions about the reader.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">29.</div>
+  <div style="text-align:right;">18.</div>
   <div style="white-space:nowrap;"><strong>TOM:</strong></div>
   <div>That's right – about their knowledge of the subject, their attitudes, and their level of education,</div>
 </div>
@@ -186,12 +186,12 @@
   <div>All of that will make a difference to how the story is presented.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">32.</div>
+  <div style="text-align:right;">19.</div>
   <div style="white-space:nowrap;"><strong>HAZEL:</strong></div>
   <div>Does it matter what type of story I write about?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">33.</div>
+  <div style="text-align:right;">20.</div>
   <div style="white-space:nowrap;"><strong>TOM:</strong></div>
   <div>No – national or international politics, the arts ...</div>
   <div></div>
@@ -204,7 +204,7 @@
   <div>Though of course it'll be easier and more fun if it's something you're interested in and know something about.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">35.</div>
+  <div style="text-align:right;">21.</div>
   <div style="white-space:nowrap;"><strong>HAZEL:</strong></div>
   <div>And on that basis a national news item would be worth analysing – I'm quite keen on politics, so I'll try and find a suitable topic.</div>
 </div>
@@ -214,7 +214,7 @@
   <div>What did you choose for your analysis, Tom?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">37.</div>
+  <div style="text-align:right;">22.</div>
   <div style="white-space:nowrap;"><strong>TOM:</strong></div>
   <div>I was interested in how newspapers express their opinions explicitly,</div>
 </div>
@@ -229,12 +229,12 @@
   <div>I couldn't find two on the same topic that I felt like analysing.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">40.</div>
+  <div style="text-align:right;">23.</div>
   <div style="white-space:nowrap;"><strong>HAZEL:</strong></div>
   <div>In that case, I won't even bother to look.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">41.</div>
+  <div style="text-align:right;">24.</div>
   <div style="white-space:nowrap;"><strong>TOM:</strong></div>
   <div>So in the end I chose a human interest story – a terribly emotional story about a young girl who was very ill,</div>
 </div>
@@ -254,7 +254,7 @@
   <div>but others considered the broader picture, like why treatment wasn't available here.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">45.</div>
+  <div style="text-align:right;">25.</div>
   <div style="white-space:nowrap;"><strong>HAZEL:</strong></div>
   <div>Hmm, I usually find stories like that raise quite strong feelings in me!</div>
 </div>
@@ -274,12 +274,12 @@
   <div>I'll think about that.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">49.</div>
+  <div style="text-align:right;">26.</div>
   <div style="white-space:nowrap;"><strong>TOM:</strong></div>
   <div>Yes, that might be interesting.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">50.</div>
+  <div style="text-align:right;">27.</div>
   <div style="white-space:nowrap;"><strong>HAZEL:</strong></div>
   <div>OK, well thanks a lot for your help, Tom.</div>
   <div></div>
@@ -287,7 +287,7 @@
   <div>It's been really useful.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">51.</div>
+  <div style="text-align:right;">28.</div>
   <div style="white-space:nowrap;"><strong>TOM:</strong></div>
   <div>You're welcome.</div>
   <div></div>

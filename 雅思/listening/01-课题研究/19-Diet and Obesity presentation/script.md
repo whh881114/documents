@@ -40,27 +40,27 @@
   <div>It was hard to keep track of it all, especially as I had so many people doing it – I had to make sure I kept a proper record of what each person had had.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">7.</div>
+  <div style="text-align:right;">6.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>So could most people tell the difference?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">8.</div>
+  <div style="text-align:right;">7.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>Yeah – I hadn't thought they would be able to, but most people could.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">9.</div>
+  <div style="text-align:right;">8.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>Then there's that experiment I did measuring the fat content of nuts, to see if the nutritional information given on the packet was accurate.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">10.</div>
+  <div style="text-align:right;">9.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>The one where you ground up the nuts and mixed them with a chemical to absorb the fat?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">11.</div>
+  <div style="text-align:right;">10.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>Yes.</div>
   <div></div>
@@ -88,7 +88,7 @@
   <div>I'd really like to try the experiment again some time.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">16.</div>
+  <div style="text-align:right;">11.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>So what can we say about helping people to lose weight?</div>
 </div>
@@ -108,17 +108,17 @@
   <div>So, if you put the low-calorie items at the beginning and end of the menu, people will probably go for the food with fewer calories, without even realising what they're doing.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">20.</div>
+  <div style="text-align:right;">12.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>I think food manufacturers could do more to encourage healthy eating.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">21.</div>
+  <div style="text-align:right;">13.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>How?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">22.</div>
+  <div style="text-align:right;">14.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>Well, when manufacturers put calorie counts of a food on the label, they're sometimes really confusing and I suspect they do it on purpose.</div>
 </div>
@@ -128,7 +128,7 @@
   <div>Because food that's high in calories tastes better, and so they'll sell more.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">24.</div>
+  <div style="text-align:right;">15.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>Yeah, so if you look at the amount of calories in a pizza, they'll give you the calories per quarter pizza and you think, oh that's not too bad.</div>
 </div>
@@ -138,17 +138,17 @@
   <div>But who's going to eat a quarter pizza?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">26.</div>
+  <div style="text-align:right;">16.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>Exactly.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">27.</div>
+  <div style="text-align:right;">17.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>I suppose another approach to this problem is to get people to exercise more.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">28.</div>
+  <div style="text-align:right;">18.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>Right.</div>
   <div></div>
@@ -161,17 +161,17 @@
   <div>Now when you ask them, about 40% of men and 30% of women say they do this, but when you objectively measure the amount of walking they do with motion sensors, you find that only 6% of men and 4% of women do the recommended amount of exercise.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">30.</div>
+  <div style="text-align:right;">19.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>Mm, so you can see why obesity is growing.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">31.</div>
+  <div style="text-align:right;">20.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>So how can people be encouraged to take more exercise?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">32.</div>
+  <div style="text-align:right;">21.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>Well, for example, think of the location of stairs in a train station.</div>
 </div>
@@ -191,7 +191,7 @@
   <div>It's an unconscious process and influenced by minor modifications in their environment.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">36.</div>
+  <div style="text-align:right;">22.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>Right.</div>
   <div></div>
@@ -199,7 +199,7 @@
   <div>And it might not be a big change, but if it happens every day, it all adds up.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">37.</div>
+  <div style="text-align:right;">23.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>Yes.</div>
   <div></div>
@@ -207,17 +207,17 @@
   <div>But actually, I'm not sure if we should be talking about exercise in our presentation.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">38.</div>
+  <div style="text-align:right;">24.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>Well, we've done quite a bit of reading about it.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">39.</div>
+  <div style="text-align:right;">25.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>I know, but it's going to mean we have a very wide focus, and our tutor did say that we need to focus on causes and solutions in terms of nutrition.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">40.</div>
+  <div style="text-align:right;">26.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>I suppose so.</div>
   <div></div>
@@ -230,7 +230,7 @@
   <div>OK, well that will be simpler.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">42.</div>
+  <div style="text-align:right;">27.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>So what shall we do now?</div>
 </div>
@@ -240,7 +240,7 @@
   <div>We've still got half an hour before our next lecture.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">44.</div>
+  <div style="text-align:right;">28.</div>
   <div style="white-space:nowrap;"><strong>ROSIE:</strong></div>
   <div>Let's think about what we're going to include and what will go where.</div>
 </div>
@@ -250,7 +250,7 @@
   <div>Then we can decide what slides we need.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">46.</div>
+  <div style="text-align:right;">29.</div>
   <div style="white-space:nowrap;"><strong>ADAM:</strong></div>
   <div>OK, fine.</div>
 </div>

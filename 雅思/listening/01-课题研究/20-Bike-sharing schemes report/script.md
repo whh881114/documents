@@ -30,17 +30,17 @@
   <div>It makes riding a bike very convenient for people.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">5.</div>
+  <div style="text-align:right;">3.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>Yes, but the costs can add up and that puts people on low incomes off in some places.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">6.</div>
+  <div style="text-align:right;">4.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>I suppose so, but if it means more people in general are cycling rather than driving, then because they're increasing the amount of physical activity they do, it's good for their health.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">7.</div>
+  <div style="text-align:right;">5.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>OK.</div>
   <div></div>
@@ -53,7 +53,7 @@
   <div>I mean, doesn't the impact of reduced emissions on air pollution have a more significant effect on people's health?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">9.</div>
+  <div style="text-align:right;">6.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>Certainly, in some cities bike-sharing has made a big contribution to that.</div>
 </div>
@@ -63,12 +63,12 @@
   <div>And also helped to cut the number of cars on the road significantly.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">11.</div>
+  <div style="text-align:right;">7.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>Which is the main point.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">12.</div>
+  <div style="text-align:right;">8.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>Exactly.</div>
   <div></div>
@@ -76,27 +76,27 @@
   <div>But I'd say it's had less of an impact on noise pollution because there are still loads of buses and lorries around.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">13.</div>
+  <div style="text-align:right;">9.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>Right.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">14.</div>
+  <div style="text-align:right;">10.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>Shall we quickly discuss the recommendations we're going to make?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">15.</div>
+  <div style="text-align:right;">11.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>In order to ensure bike-sharing schemes are successful?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">16.</div>
+  <div style="text-align:right;">12.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>Yes.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">17.</div>
+  <div style="text-align:right;">13.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>OK.</div>
   <div></div>
@@ -104,7 +104,7 @@
   <div>Well, while I think it's nice to have really state-of-the art bikes with things like GPS, I wouldn't say they're absolutely necessary.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">18.</div>
+  <div style="text-align:right;">14.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>But some technical things are really important – like a fully functional app – so people can make payments and book bikes easily.</div>
 </div>
@@ -114,7 +114,7 @@
   <div>Places which haven't invested in that have really struggled.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">20.</div>
+  <div style="text-align:right;">15.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>Good point ...</div>
   <div></div>
@@ -122,7 +122,7 @@
   <div>Some people say there shouldn't be competing companies offering separate bike-sharing schemes, but in some really big cities, competition's beneficial and anyway one company might not be able to manage the whole thing.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">21.</div>
+  <div style="text-align:right;">16.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>Right.</div>
   <div></div>
@@ -140,7 +140,7 @@
   <div>What does matter though – is having a big publicity campaign.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">24.</div>
+  <div style="text-align:right;">17.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>Definitely.</div>
   <div></div>
@@ -153,7 +153,7 @@
   <div>People need a lot of persuasion to stop using their cars.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">26.</div>
+  <div style="text-align:right;">18.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>Shall we look at some examples now?</div>
 </div>
@@ -163,12 +163,12 @@
   <div>And say what we think is good or bad about them.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">28.</div>
+  <div style="text-align:right;">19.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>I suppose we should start with Amsterdam as this was one of the first cities to have a bike-sharing scheme.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">29.</div>
+  <div style="text-align:right;">20.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>Yes.</div>
   <div></div>
@@ -181,7 +181,7 @@
   <div>In a way it's strange that there was such a demand for bike-sharing because you'd have thought most people would have used their own bikes.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">31.</div>
+  <div style="text-align:right;">21.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>And yet it's one of the best-used schemes ...</div>
 </div>
@@ -191,12 +191,12 @@
   <div>Dublin's an interesting example of a success story.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">33.</div>
+  <div style="text-align:right;">22.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>It must be because the public transport system's quite limited.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">34.</div>
+  <div style="text-align:right;">23.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>Not really – there's no underground, but there are trams and a good bus network.</div>
 </div>
@@ -211,12 +211,12 @@
   <div>It's one of the cheapest schemes in Europe to join.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">37.</div>
+  <div style="text-align:right;">24.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>But the buses are really slow – anyway the weather certainly can't be a factor!</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">38.</div>
+  <div style="text-align:right;">25.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>No – definitely not.</div>
   <div></div>
@@ -224,7 +224,7 @@
   <div>The London scheme's been quite successful.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">39.</div>
+  <div style="text-align:right;">26.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>Yes – it's been a really good thing for the city.</div>
 </div>
@@ -234,7 +234,7 @@
   <div>The bikes are popular and the whole system is well maintained but it isn't expanding quickly enough.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">41.</div>
+  <div style="text-align:right;">27.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>Basically, not enough's been spent on increasing the number of cycle lanes.</div>
   <div></div>
@@ -242,7 +242,7 @@
   <div>Hopefully that'll change.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">42.</div>
+  <div style="text-align:right;">28.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>Yes.</div>
   <div></div>
@@ -250,12 +250,12 @@
   <div>Now what about outside Europe?</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">43.</div>
+  <div style="text-align:right;">29.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>Well bike-sharing schemes have taken off in places like Buenos Aires.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">44.</div>
+  <div style="text-align:right;">30.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>Mmm.</div>
   <div></div>
@@ -268,12 +268,12 @@
   <div>It attracted huge numbers of cyclists where previously there were hardly any.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">46.</div>
+  <div style="text-align:right;">31.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>An example of good planning.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">47.</div>
+  <div style="text-align:right;">32.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>Absolutely.</div>
   <div></div>
@@ -286,7 +286,7 @@
   <div>When they launched it, it was more than ten times the price of most other schemes.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">49.</div>
+  <div style="text-align:right;">33.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>More than it costs to take a taxi.</div>
 </div>
@@ -299,7 +299,7 @@
   <div>I think the organisers lacked vision and ambition there.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">51.</div>
+  <div style="text-align:right;">34.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>I think so too.</div>
   <div></div>
@@ -312,7 +312,7 @@
   <div>I would have expected it to have grown pretty quickly here.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">53.</div>
+  <div style="text-align:right;">35.</div>
   <div style="white-space:nowrap;"><strong>JAKE:</strong></div>
   <div>Yes.</div>
   <div></div>
@@ -325,7 +325,7 @@
   <div>It's a shame really.</div>
 </div>
 <div style="display:grid;grid-template-columns:2.5em 6em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
-  <div style="text-align:right;">55.</div>
+  <div style="text-align:right;">36.</div>
   <div style="white-space:nowrap;"><strong>AMY:</strong></div>
   <div>I know.</div>
   <div></div>
