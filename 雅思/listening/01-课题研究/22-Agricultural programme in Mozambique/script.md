@@ -9,2233 +9,317 @@
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">1.</div>
   <div></div>
-  <div>P</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>R</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>4</div>
+  <div>PART 4</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">2.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'m</div>
-  <div></div>
-  <div></div>
-  <div>going</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>report</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>case</div>
-  <div></div>
-  <div></div>
-  <div>study</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>programme</div>
+  <div>I'm going to report on a case study of a programme</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">3.</div>
   <div></div>
-  <div>which</div>
-  <div></div>
-  <div></div>
-  <div>has</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>set</div>
-  <div></div>
-  <div></div>
-  <div>up</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>help</div>
-  <div></div>
-  <div></div>
-  <div>rural</div>
-  <div></div>
-  <div></div>
-  <div>populations</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>M</div>
-  <div></div>
-  <div></div>
-  <div>ozambique,</div>
+  <div>which has been set up to help rural populations in Mozambique,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">4.</div>
   <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>largely</div>
-  <div></div>
-  <div></div>
-  <div>agricultural</div>
-  <div></div>
-  <div></div>
-  <div>country</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>outh-E</div>
-  <div></div>
-  <div></div>
-  <div>ast</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>frica.</div>
+  <div>a largely agricultural country in South-East Africa.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">5.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>programme</div>
-  <div></div>
-  <div></div>
-  <div>worked</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>three</div>
-  <div></div>
-  <div></div>
-  <div>communities</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>C</div>
-  <div></div>
-  <div></div>
-  <div>hicualacuala</div>
-  <div></div>
-  <div></div>
-  <div>district,</div>
-  <div></div>
-  <div></div>
-  <div>near</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>L</div>
-  <div></div>
-  <div></div>
-  <div>impopo</div>
-  <div></div>
-  <div></div>
-  <div>R</div>
-  <div></div>
-  <div></div>
-  <div>iver.</div>
+  <div>The programme worked with three communities in Chicualacuala district, near the Limpopo River.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">6.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>his</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>dry</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>arid</div>
-  <div></div>
-  <div></div>
-  <div>region,</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>unpredictable</div>
-  <div></div>
-  <div></div>
-  <div>rainfall.</div>
+  <div>This is a dry and arid region, with unpredictable rainfall.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">7.</div>
   <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ecause</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>this,</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>area</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>unable</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>support</div>
-  <div></div>
-  <div></div>
-  <div>themselves</div>
-  <div></div>
-  <div></div>
-  <div>through</div>
-  <div></div>
-  <div></div>
-  <div>agriculture</div>
+  <div>Because of this, people in the area were unable to support themselves through agriculture</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">8.</div>
   <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>instead</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>used</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>forest</div>
-  <div></div>
-  <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>means</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>providing</div>
-  <div></div>
-  <div></div>
-  <div>themselves</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>income,</div>
+  <div>and instead they used the forest as a means of providing themselves with an income,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">9.</div>
   <div></div>
-  <div>mainly</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>selling</div>
-  <div></div>
-  <div></div>
-  <div>charcoal.</div>
+  <div>mainly by selling charcoal.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">10.</div>
   <div></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>owever,</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>sustainable</div>
-  <div></div>
-  <div></div>
-  <div>way</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>living</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>long</div>
-  <div></div>
-  <div></div>
-  <div>term,</div>
+  <div>However, this was not a sustainable way of living in the long term,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">11.</div>
   <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>rapidly</div>
-  <div></div>
-  <div></div>
-  <div>using</div>
-  <div></div>
-  <div></div>
-  <div>up</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>resource.</div>
+  <div>as they were rapidly using up this resource.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">12.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>support</div>
-  <div></div>
-  <div></div>
-  <div>agriculture</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>dry</div>
-  <div></div>
-  <div></div>
-  <div>region,</div>
+  <div>To support agriculture in this dry region,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">13.</div>
   <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>programme</div>
-  <div></div>
-  <div></div>
-  <div>focused</div>
-  <div></div>
-  <div></div>
-  <div>primarily</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>making</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>existing</div>
-  <div></div>
-  <div></div>
-  <div>water</div>
-  <div></div>
-  <div></div>
-  <div>resources</div>
+  <div>the programme focused primarily on making use of existing water resources</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">14.</div>
   <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>L</div>
-  <div></div>
-  <div></div>
-  <div>impopo</div>
-  <div></div>
-  <div></div>
-  <div>R</div>
-  <div></div>
-  <div></div>
-  <div>iver</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>setting</div>
-  <div></div>
-  <div></div>
-  <div>up</div>
-  <div></div>
-  <div></div>
-  <div>systems</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>irrigation,</div>
+  <div>from the Limpopo River by setting up systems of irrigation,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">15.</div>
   <div></div>
-  <div>which</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>provide</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>dependable</div>
-  <div></div>
-  <div></div>
-  <div>water</div>
-  <div></div>
-  <div></div>
-  <div>supply</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>crops</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>animals.</div>
+  <div>which would provide a dependable water supply for crops and animals.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">16.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>programme</div>
-  <div></div>
-  <div></div>
-  <div>worked</div>
-  <div></div>
-  <div></div>
-  <div>closely</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>district</div>
-  <div></div>
-  <div></div>
-  <div>government</div>
+  <div>The programme worked closely with the district government</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">17.</div>
   <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>order</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>find</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>best</div>
-  <div></div>
-  <div></div>
-  <div>way</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>implementing</div>
-  <div></div>
-  <div></div>
-  <div>this.</div>
+  <div>in order to find the best way of implementing this.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">18.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>region</div>
-  <div></div>
-  <div></div>
-  <div>already</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>farmers'</div>
-  <div></div>
-  <div></div>
-  <div>association,</div>
+  <div>The region already had one farmers' association,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">19.</div>
   <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>decided</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>set</div>
-  <div></div>
-  <div></div>
-  <div>up</div>
-  <div></div>
-  <div></div>
-  <div>two</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>these.</div>
+  <div>and it was decided to set up two more of these.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">20.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hese</div>
-  <div></div>
-  <div></div>
-  <div>associations</div>
-  <div></div>
-  <div></div>
-  <div>planned</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>carried</div>
-  <div></div>
-  <div></div>
-  <div>out</div>
-  <div></div>
-  <div></div>
-  <div>activities</div>
-  <div></div>
-  <div></div>
-  <div>including</div>
-  <div></div>
-  <div></div>
-  <div>water</div>
-  <div></div>
-  <div></div>
-  <div>management,</div>
+  <div>These associations planned and carried out activities including water management,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">21.</div>
   <div></div>
-  <div>livestock</div>
-  <div></div>
-  <div></div>
-  <div>breeding</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>agriculture,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>notable</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>general,</div>
+  <div>livestock breeding and agriculture, and it was notable that in general,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">22.</div>
   <div></div>
-  <div>women</div>
-  <div></div>
-  <div></div>
-  <div>formed</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>majority</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>workforce.</div>
+  <div>women formed the majority of the workforce.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">23.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>decided</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>order</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>keep</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>crops</div>
-  <div></div>
-  <div></div>
-  <div>safe</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>animals,</div>
+  <div>It was decided that in order to keep the crops safe from animals,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">24.</div>
   <div></div>
-  <div>both</div>
-  <div></div>
-  <div></div>
-  <div>wild</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>domestic,</div>
-  <div></div>
-  <div></div>
-  <div>special</div>
-  <div></div>
-  <div></div>
-  <div>areas</div>
-  <div></div>
-  <div></div>
-  <div>should</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>fenced</div>
-  <div></div>
-  <div></div>
-  <div>off</div>
-  <div></div>
-  <div></div>
-  <div>where</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>crops</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>grown.</div>
+  <div>both wild and domestic, special areas should be fenced off where the crops could be grown.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">25.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>community</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>responsible</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>creating</div>
-  <div></div>
-  <div></div>
-  <div>these</div>
-  <div></div>
-  <div></div>
-  <div>fences,</div>
+  <div>The community was responsible for creating these fences,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">26.</div>
   <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>programme</div>
-  <div></div>
-  <div></div>
-  <div>provided</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>necessary</div>
-  <div></div>
-  <div></div>
-  <div>wire</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>making</div>
-  <div></div>
-  <div></div>
-  <div>them.</div>
+  <div>but the programme provided the necessary wire for making them.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">27.</div>
   <div></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>nce</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>area</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>fenced</div>
-  <div></div>
-  <div></div>
-  <div>off,</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>cultivated.</div>
+  <div>Once the area had been fenced off, it could be cultivated.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">28.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>land</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>dug,</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>vegetables</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>cereals</div>
-  <div></div>
-  <div></div>
-  <div>appropriate</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>climate</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>grown,</div>
+  <div>The land was dug, so that vegetables and cereals appropriate to the climate could be grown,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">29.</div>
   <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>programme</div>
-  <div></div>
-  <div></div>
-  <div>provided</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>necessary</div>
-  <div></div>
-  <div></div>
-  <div>seeds</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>this.</div>
+  <div>and the programme provided the necessary seeds for this.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">30.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>programme</div>
-  <div></div>
-  <div></div>
-  <div>also</div>
-  <div></div>
-  <div></div>
-  <div>provided</div>
-  <div></div>
-  <div></div>
-  <div>pumps</div>
+  <div>The programme also provided pumps</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">31.</div>
   <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>water</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>brought</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>river</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>pipes</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>fields.</div>
+  <div>so that water could be brought from the river in pipes to the fields.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">32.</div>
   <div></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>owever,</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>labour</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>provided</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>local</div>
-  <div></div>
-  <div></div>
-  <div>people,</div>
+  <div>However, the labour was all provided by local people,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">33.</div>
   <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>also</div>
-  <div></div>
-  <div></div>
-  <div>provided</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>put</div>
-  <div></div>
-  <div></div>
-  <div>up</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>posts</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>supported</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>fences</div>
-  <div></div>
-  <div></div>
-  <div>around</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>fields.</div>
+  <div>and they also provided and put up the posts that supported the fences around the fields.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">34.</div>
   <div></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>nce</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>programme</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>set</div>
-  <div></div>
-  <div></div>
-  <div>up,</div>
+  <div>Once the programme had been set up,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">35.</div>
   <div></div>
-  <div>its</div>
-  <div></div>
-  <div></div>
-  <div>development</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>monitored</div>
-  <div></div>
-  <div></div>
-  <div>carefully.</div>
+  <div>its development was monitored carefully.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">36.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>farmers</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>able</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>grow</div>
-  <div></div>
-  <div></div>
-  <div>enough</div>
-  <div></div>
-  <div></div>
-  <div>produce</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>their</div>
-  <div></div>
-  <div></div>
-  <div>own</div>
-  <div></div>
-  <div></div>
-  <div>needs,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>also</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>sell.</div>
+  <div>The farmers were able to grow enough produce not just for their own needs, but also to sell.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">37.</div>
   <div></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>owever,</div>
-  <div></div>
-  <div></div>
-  <div>getting</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>produce</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>places</div>
-  <div></div>
-  <div></div>
-  <div>where</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>marketed</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>sometimes</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>problem,</div>
+  <div>However, getting the produce to places where it could be marketed was sometimes a problem,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">38.</div>
   <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>farmers</div>
-  <div></div>
-  <div></div>
-  <div>did</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>access</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>transport,</div>
+  <div>as the farmers did not have access to transport,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">39.</div>
   <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>resulted</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>large</div>
-  <div></div>
-  <div></div>
-  <div>amounts</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>produce,</div>
-  <div></div>
-  <div></div>
-  <div>especially</div>
-  <div></div>
-  <div></div>
-  <div>vegetables,</div>
-  <div></div>
-  <div></div>
-  <div>being</div>
-  <div></div>
-  <div></div>
-  <div>spoiled.</div>
+  <div>and this resulted in large amounts of produce, especially vegetables, being spoiled.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">40.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>his</div>
-  <div></div>
-  <div></div>
-  <div>problem</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>discussed</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>farmers'</div>
-  <div></div>
-  <div></div>
-  <div>associations</div>
+  <div>This problem was discussed with the farmers' associations</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">41.</div>
   <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>decided</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>order</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>prevent</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>being</div>
-  <div></div>
-  <div></div>
-  <div>spoiled,</div>
+  <div>and it was decided that in order to prevent food from being spoiled,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">42.</div>
   <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>farmers</div>
-  <div></div>
-  <div></div>
-  <div>needed</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>learn</div>
-  <div></div>
-  <div></div>
-  <div>techniques</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>its</div>
-  <div></div>
-  <div></div>
-  <div>preservation.</div>
+  <div>the farmers needed to learn techniques for its preservation.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">43.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>here</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>also</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>additional</div>
-  <div></div>
-  <div></div>
-  <div>initiative</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>originally</div>
-  <div></div>
-  <div></div>
-  <div>planned,</div>
+  <div>There was also an additional initiative that had not been originally planned,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">44.</div>
   <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>which</div>
-  <div></div>
-  <div></div>
-  <div>became</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>central</div>
-  <div></div>
-  <div></div>
-  <div>feature</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>programme.</div>
+  <div>but which became a central feature of the programme.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">45.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>his</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>farmers</div>
-  <div></div>
-  <div></div>
-  <div>started</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>dig</div>
-  <div></div>
-  <div></div>
-  <div>holes</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>tanks</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>fenced-off</div>
-  <div></div>
-  <div></div>
-  <div>areas</div>
+  <div>This was when farmers started to dig holes for tanks in the fenced-off areas</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">46.</div>
   <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>fill</div>
-  <div></div>
-  <div></div>
-  <div>these</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>water</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>breeding</div>
-  <div></div>
-  <div></div>
-  <div>fish</div>
+  <div>and to fill these with water and use them for breeding fish</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">47.</div>
   <div></div>
-  <div>–an</div>
-  <div></div>
-  <div></div>
-  <div>important</div>
-  <div></div>
-  <div></div>
-  <div>source</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>protein.</div>
+  <div>–an important source of protein.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">48.</div>
   <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>fter</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>time,</div>
-  <div></div>
-  <div></div>
-  <div>another</div>
-  <div></div>
-  <div></div>
-  <div>suggestion</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>made</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>local</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
+  <div>After a time, another suggestion was made by local people</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">49.</div>
   <div></div>
-  <div>which</div>
-  <div></div>
-  <div></div>
-  <div>hadn't</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>part</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>programme's</div>
-  <div></div>
-  <div></div>
-  <div>original</div>
-  <div></div>
-  <div></div>
-  <div>proposal,</div>
+  <div>which hadn't been part of the programme's original proposal,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">50.</div>
   <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>which</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>also</div>
-  <div></div>
-  <div></div>
-  <div>adopted</div>
-  <div></div>
-  <div></div>
-  <div>later</div>
-  <div></div>
-  <div></div>
-  <div>on.</div>
+  <div>but which was also adopted later on.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">51.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hey</div>
-  <div></div>
-  <div></div>
-  <div>decided</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>try</div>
-  <div></div>
-  <div></div>
-  <div>setting</div>
-  <div></div>
-  <div></div>
-  <div>up</div>
-  <div></div>
-  <div></div>
-  <div>colonies</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>bees,</div>
+  <div>They decided to try setting up colonies of bees,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">52.</div>
   <div></div>
-  <div>which</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>provide</div>
-  <div></div>
-  <div></div>
-  <div>honey</div>
-  <div></div>
-  <div></div>
-  <div>both</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>their</div>
-  <div></div>
-  <div></div>
-  <div>own</div>
-  <div></div>
-  <div></div>
-  <div>consumption</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>sell.</div>
+  <div>which would provide honey both for their own consumption and to sell.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">53.</div>
   <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>lessons</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>learned</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>programme?</div>
+  <div>So what lessons can be learned from this programme?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">54.</div>
   <div></div>
-  <div>F</div>
-  <div></div>
-  <div></div>
-  <div>irst</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>all,</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>tells</div>
-  <div></div>
-  <div></div>
-  <div>us</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>dry,</div>
-  <div></div>
-  <div></div>
-  <div>arid</div>
-  <div></div>
-  <div></div>
-  <div>regions,</div>
+  <div>First of all, it tells us that in dry, arid regions,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">55.</div>
   <div></div>
-  <div>if</div>
-  <div></div>
-  <div></div>
-  <div>there</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>access</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>reliable</div>
-  <div></div>
-  <div></div>
-  <div>source</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>water,</div>
+  <div>if there is access to a reliable source of water,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">56.</div>
   <div></div>
-  <div>there</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>great</div>
-  <div></div>
-  <div></div>
-  <div>potential</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>development</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>agriculture.</div>
+  <div>there is great potential for the development of agriculture.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">57.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>n</div>
-  <div></div>
-  <div></div>
-  <div>C</div>
-  <div></div>
-  <div></div>
-  <div>hicualacuala,</div>
-  <div></div>
-  <div></div>
-  <div>there</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>marked</div>
-  <div></div>
-  <div></div>
-  <div>improvement</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>agricultural</div>
-  <div></div>
-  <div></div>
-  <div>production,</div>
+  <div>In Chicualacuala, there was a marked improvement in agricultural production,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">58.</div>
   <div></div>
-  <div>which</div>
-  <div></div>
-  <div></div>
-  <div>improved</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>security</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>benefited</div>
-  <div></div>
-  <div></div>
-  <div>local</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
+  <div>which improved food security and benefited local people</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">59.</div>
   <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>providing</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>both</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>income.</div>
+  <div>by providing them with both food and income.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">60.</div>
   <div></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>owever,</div>
-  <div></div>
-  <div></div>
-  <div>it's</div>
-  <div></div>
-  <div></div>
-  <div>important</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>set</div>
-  <div></div>
-  <div></div>
-  <div>realistic</div>
-  <div></div>
-  <div></div>
-  <div>timelines</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>each</div>
-  <div></div>
-  <div></div>
-  <div>phase</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>programme,</div>
+  <div>However, it's important to set realistic timelines for each phase of the programme,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">61.</div>
   <div></div>
-  <div>especially</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>its</div>
-  <div></div>
-  <div></div>
-  <div>design,</div>
+  <div>especially for its design,</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">62.</div>
   <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>mistakes</div>
-  <div></div>
-  <div></div>
-  <div>made</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>stage</div>
-  <div></div>
-  <div></div>
-  <div>may</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>hard</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>correct</div>
-  <div></div>
-  <div></div>
-  <div>later</div>
-  <div></div>
-  <div></div>
-  <div>on.</div>
+  <div>as mistakes made at this stage may be hard to correct later on.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">63.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>programme</div>
-  <div></div>
-  <div></div>
-  <div>demonstrates</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>sustainable</div>
-  <div></div>
-  <div></div>
-  <div>development</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>possible</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>areas</div>
-  <div></div>
-  <div></div>
-  <div>where</div>
-  <div></div>
-  <div></div>
-  <div>…</div>
+  <div>The programme demonstrates that sustainable development is possible in areas where …</div>
 </div>
 
 > Note: Sentence 63 is truncated this way on the source page.

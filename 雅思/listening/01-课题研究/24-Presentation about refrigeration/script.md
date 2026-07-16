@@ -9,2681 +9,321 @@
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">1.</div>
   <div></div>
-  <div>P</div>
-  <div></div>
-  <div></div>
-  <div>art</div>
-  <div></div>
-  <div></div>
-  <div>3</div>
+  <div>Part 3</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">2.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>O</div>
+  <div>OK, Jack.</div>
   <div></div>
   <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>,</div>
-  <div></div>
-  <div></div>
-  <div>J</div>
-  <div></div>
-  <div></div>
-  <div>ack.</div>
-  <div></div>
-  <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>efore</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>plan</div>
-  <div></div>
-  <div></div>
-  <div>our</div>
-  <div></div>
-  <div></div>
-  <div>presentation</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>refrigeration,</div>
-  <div></div>
-  <div></div>
-  <div>let's</div>
-  <div></div>
-  <div></div>
-  <div>discuss</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>we've</div>
-  <div></div>
-  <div></div>
-  <div>discovered</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>far.</div>
+  <div>Before we plan our presentation about refrigeration, let's discuss what we've discovered so far.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">3.</div>
   <div><strong>JACK:</strong></div>
-  <div>F</div>
+  <div>Fine, Annie.</div>
   <div></div>
   <div></div>
-  <div>ine,</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nnie.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hough</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>admit</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>haven't</div>
-  <div></div>
-  <div></div>
-  <div>done</div>
-  <div></div>
-  <div></div>
-  <div>much</div>
-  <div></div>
-  <div></div>
-  <div>research</div>
-  <div></div>
-  <div></div>
-  <div>yet.</div>
+  <div>Though I have to admit I haven't done much research yet.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">4.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>N</div>
+  <div>Nor me.</div>
   <div></div>
   <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>me.</div>
-  <div></div>
-  <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>found</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>interesting</div>
-  <div></div>
-  <div></div>
-  <div>article</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>icehouses.</div>
+  <div>But I found an interesting article about icehouses.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">5.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'d</div>
-  <div></div>
-  <div></div>
-  <div>seen</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>18th-</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>19th-century</div>
-  <div></div>
-  <div></div>
-  <div>ones</div>
-  <div></div>
-  <div></div>
-  <div>here</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>U</div>
-  <div></div>
-  <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>,</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>knew</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>often</div>
-  <div></div>
-  <div></div>
-  <div>built</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>shady</div>
-  <div></div>
-  <div></div>
-  <div>area</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>underground,</div>
-  <div></div>
-  <div></div>
-  <div>close</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>lakes</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>might</div>
-  <div></div>
-  <div></div>
-  <div>freeze</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>winter.</div>
+  <div>I'd seen some 18th- and 19th-century ones here in the UK, so I knew they were often built in a shady area or underground, close to lakes that might freeze in the winter.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">6.</div>
   <div></div>
-  <div>T</div>
+  <div>Then blocks of ice could be cut and stored in the icehouse.</div>
   <div></div>
   <div></div>
-  <div>hen</div>
-  <div></div>
-  <div></div>
-  <div>blocks</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>ice</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>cut</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>stored</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>icehouse.</div>
-  <div></div>
-  <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>didn't</div>
-  <div></div>
-  <div></div>
-  <div>realise</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>insulating</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>blocks</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>straw</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>sawdust</div>
-  <div></div>
-  <div></div>
-  <div>meant</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>didn't</div>
-  <div></div>
-  <div></div>
-  <div>melt</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>months.</div>
+  <div>But I didn't realise that insulating the blocks with straw or sawdust meant they didn't melt for months.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">7.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>ancient</div>
-  <div></div>
-  <div></div>
-  <div>R</div>
-  <div></div>
-  <div></div>
-  <div>omans</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>refrigeration,</div>
-  <div></div>
-  <div></div>
-  <div>too.</div>
+  <div>The ancient Romans had refrigeration, too.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">8.</div>
   <div><strong>JACK:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>didn't</div>
-  <div></div>
-  <div></div>
-  <div>know</div>
-  <div></div>
-  <div></div>
-  <div>that.</div>
+  <div>I didn't know that.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">9.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>es,</div>
-  <div></div>
-  <div></div>
-  <div>pits</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>dug</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>ground,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>snow</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>imported</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>mountains</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>even</div>
-  <div></div>
-  <div></div>
-  <div>though</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>quite</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>distance.</div>
+  <div>Yes, pits were dug in the ground, and snow was imported from the mountains – even though they were at quite a distance.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">10.</div>
   <div></div>
-  <div>T</div>
+  <div>The snow was stored in the pits.</div>
   <div></div>
   <div></div>
-  <div>he</div>
+  <div>Ice formed at the bottom of it.</div>
   <div></div>
   <div></div>
-  <div>snow</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>stored</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>pits.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>ce</div>
-  <div></div>
-  <div></div>
-  <div>formed</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>bottom</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>it.</div>
-  <div></div>
-  <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>oth</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>ice</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>snow</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>then</div>
-  <div></div>
-  <div></div>
-  <div>sold.</div>
+  <div>Both the ice and the snow were then sold.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">11.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>ice</div>
-  <div></div>
-  <div></div>
-  <div>cost</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>than</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>snow</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>guess</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>only</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>wealthy</div>
-  <div></div>
-  <div></div>
-  <div>members</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>society</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>afford</div>
-  <div></div>
-  <div></div>
-  <div>it.</div>
+  <div>The ice cost more than the snow and my guess is that only the wealthy members of society could afford it.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">12.</div>
   <div><strong>JACK:</strong></div>
-  <div>I</div>
+  <div>I wouldn't be surprised.</div>
   <div></div>
   <div></div>
-  <div>wouldn't</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>surprised.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>also</div>
-  <div></div>
-  <div></div>
-  <div>came</div>
-  <div></div>
-  <div></div>
-  <div>across</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>article</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>modern</div>
-  <div></div>
-  <div></div>
-  <div>domestic</div>
-  <div></div>
-  <div></div>
-  <div>fridges.</div>
+  <div>I also came across an article about modern domestic fridges.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">13.</div>
   <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>everal</div>
-  <div></div>
-  <div></div>
-  <div>different</div>
-  <div></div>
-  <div></div>
-  <div>technologies</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>used,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>too</div>
-  <div></div>
-  <div></div>
-  <div>complex</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>me</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>understand.</div>
+  <div>Several different technologies are used, but they were too complex for me to understand.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">14.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>ou</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>wonder</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>happens</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>get</div>
-  <div></div>
-  <div></div>
-  <div>rid</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>old</div>
-  <div></div>
-  <div></div>
-  <div>ones.</div>
+  <div>You have to wonder what happens when people get rid of old ones.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">15.</div>
   <div><strong>JACK:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>ou</div>
-  <div></div>
-  <div></div>
-  <div>mean</div>
-  <div></div>
-  <div></div>
-  <div>because</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>gases</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>harmful</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>environment?</div>
+  <div>You mean because the gases in them are harmful for the environment?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">16.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>E</div>
+  <div>Exactly.</div>
   <div></div>
   <div></div>
-  <div>xactly.</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>t</div>
-  <div></div>
-  <div></div>
-  <div>least</div>
-  <div></div>
-  <div></div>
-  <div>there</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>now</div>
-  <div></div>
-  <div></div>
-  <div>plenty</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>organisations</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>will</div>
-  <div></div>
-  <div></div>
-  <div>recycle</div>
-  <div></div>
-  <div></div>
-  <div>most</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>components</div>
-  <div></div>
-  <div></div>
-  <div>safely,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>course</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>dump</div>
-  <div></div>
-  <div></div>
-  <div>old</div>
-  <div></div>
-  <div></div>
-  <div>fridges</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>countryside.</div>
+  <div>At least there are now plenty of organisations that will recycle most of the components safely, but of course some people just dump old fridges in the countryside.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">17.</div>
   <div><strong>JACK:</strong></div>
-  <div>I</div>
+  <div>It's hard to see how they can be stopped unfortunately.</div>
   <div></div>
   <div></div>
-  <div>t's</div>
-  <div></div>
-  <div></div>
-  <div>hard</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>see</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>stopped</div>
-  <div></div>
-  <div></div>
-  <div>unfortunately.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>n</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>U</div>
-  <div></div>
-  <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>get</div>
-  <div></div>
-  <div></div>
-  <div>rid</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>three</div>
-  <div></div>
-  <div></div>
-  <div>million</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>year</div>
-  <div></div>
-  <div></div>
-  <div>altogether!</div>
+  <div>In the UK we get rid of three million a year altogether!</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">18.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>sounds</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>lot,</div>
-  <div></div>
-  <div></div>
-  <div>especially</div>
-  <div></div>
-  <div></div>
-  <div>because</div>
-  <div></div>
-  <div></div>
-  <div>fridges</div>
-  <div></div>
-  <div></div>
-  <div>hardly</div>
-  <div></div>
-  <div></div>
-  <div>ever</div>
-  <div></div>
-  <div></div>
-  <div>break</div>
-  <div></div>
-  <div></div>
-  <div>down.</div>
+  <div>That sounds a lot, especially because fridges hardly ever break down.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">19.</div>
   <div><strong>JACK:</strong></div>
-  <div>T</div>
+  <div>That's right.</div>
   <div></div>
   <div></div>
-  <div>hat's</div>
-  <div></div>
-  <div></div>
-  <div>right.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>n</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>country</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>keep</div>
-  <div></div>
-  <div></div>
-  <div>domestic</div>
-  <div></div>
-  <div></div>
-  <div>fridges</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>11</div>
-  <div></div>
-  <div></div>
-  <div>years</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>average,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>lot</div>
-  <div></div>
-  <div></div>
-  <div>last</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>20</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>more.</div>
+  <div>In this country we keep domestic fridges for 11 years on average, and a lot last for 20 or more.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">20.</div>
   <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>if</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>divide</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>cost</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>number</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>years</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>fridge,</div>
-  <div></div>
-  <div></div>
-  <div>they're</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>expensive,</div>
-  <div></div>
-  <div></div>
-  <div>compared</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>household</div>
-  <div></div>
-  <div></div>
-  <div>appliances.</div>
+  <div>So if you divide the cost by the number of years you can use a fridge, they're not expensive, compared with some household appliances.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">21.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>T</div>
+  <div>True.</div>
   <div></div>
   <div></div>
-  <div>rue.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>suppose</div>
-  <div></div>
-  <div></div>
-  <div>manufacturers</div>
-  <div></div>
-  <div></div>
-  <div>encourage</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>spend</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>making</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>different</div>
-  <div></div>
-  <div></div>
-  <div>colours</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>designs.</div>
+  <div>I suppose manufacturers encourage people to spend more by making them different colours and designs.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">22.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'m</div>
-  <div></div>
-  <div></div>
-  <div>sure</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>parents</div>
-  <div></div>
-  <div></div>
-  <div>bought</div>
-  <div></div>
-  <div></div>
-  <div>their</div>
-  <div></div>
-  <div></div>
-  <div>first</div>
-  <div></div>
-  <div></div>
-  <div>fridge</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>hardly</div>
-  <div></div>
-  <div></div>
-  <div>any</div>
-  <div></div>
-  <div></div>
-  <div>choice!</div>
+  <div>I'm sure when my parents bought their first fridge they had hardly any choice!</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">23.</div>
   <div><strong>JACK:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>es,</div>
-  <div></div>
-  <div></div>
-  <div>there's</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>quite</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>change.</div>
+  <div>Yes, there's been quite a change.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">24.</div>
   <div><strong>JACK:</strong></div>
-  <div>R</div>
-  <div></div>
-  <div></div>
-  <div>ight,</div>
-  <div></div>
-  <div></div>
-  <div>let's</div>
-  <div></div>
-  <div></div>
-  <div>make</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>list</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>topics</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>cover</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>our</div>
-  <div></div>
-  <div></div>
-  <div>presentation,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>decide</div>
-  <div></div>
-  <div></div>
-  <div>who's</div>
-  <div></div>
-  <div></div>
-  <div>going</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>research</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>them.</div>
+  <div>Right, let's make a list of topics to cover in our presentation, and decide who's going to do more research on them.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">25.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hen</div>
-  <div></div>
-  <div></div>
-  <div>later,</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>get</div>
-  <div></div>
-  <div></div>
-  <div>together</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>plan</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>next</div>
-  <div></div>
-  <div></div>
-  <div>step.</div>
+  <div>Then later, we can get together and plan the next step.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">26.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>O</div>
+  <div>OK.</div>
   <div></div>
   <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>ow</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>starting</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>useful</div>
-  <div></div>
-  <div></div>
-  <div>refrigeration</div>
-  <div></div>
-  <div></div>
-  <div>is,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>range</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>goods</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>refrigerated</div>
-  <div></div>
-  <div></div>
-  <div>nowadays?</div>
+  <div>How about starting with how useful refrigeration is, and the range of goods that are refrigerated nowadays?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">27.</div>
   <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ecause</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>course</div>
-  <div></div>
-  <div></div>
-  <div>it's</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>drinks.</div>
+  <div>Because of course it's not just food and drinks.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">28.</div>
   <div><strong>JACK:</strong></div>
-  <div>N</div>
-  <div></div>
-  <div></div>
-  <div>o,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>suppose</div>
-  <div></div>
-  <div></div>
-  <div>flowers</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>medicines</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>refrigerated,</div>
-  <div></div>
-  <div></div>
-  <div>too.</div>
+  <div>No, I suppose flowers and medicines are refrigerated, too.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">29.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>A</div>
+  <div>And computers.</div>
   <div></div>
   <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>computers.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>that,</div>
-  <div></div>
-  <div></div>
-  <div>unless</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>particularly</div>
-  <div></div>
-  <div></div>
-  <div>want</div>
-  <div></div>
-  <div></div>
-  <div>to.</div>
+  <div>I could do that, unless you particularly want to.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">30.</div>
   <div><strong>JACK:</strong></div>
-  <div>N</div>
+  <div>No, that's fine by me.</div>
   <div></div>
   <div></div>
-  <div>o,</div>
-  <div></div>
-  <div></div>
-  <div>that's</div>
-  <div></div>
-  <div></div>
-  <div>fine</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>me.</div>
-  <div></div>
-  <div></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>effects</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>refrigeration</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>people's</div>
-  <div></div>
-  <div></div>
-  <div>health?</div>
+  <div>What about the effects of refrigeration on people's health?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">31.</div>
   <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>fter</div>
-  <div></div>
-  <div></div>
-  <div>all,</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>chemicals</div>
-  <div></div>
-  <div></div>
-  <div>used</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>19th</div>
-  <div></div>
-  <div></div>
-  <div>century</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>pretty</div>
-  <div></div>
-  <div></div>
-  <div>harmful,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>there</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>lots</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>benefits</div>
-  <div></div>
-  <div></div>
-  <div>too,</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>always</div>
-  <div></div>
-  <div></div>
-  <div>having</div>
-  <div></div>
-  <div></div>
-  <div>access</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>fresh</div>
-  <div></div>
-  <div></div>
-  <div>food.</div>
+  <div>After all, some of the chemicals used in the 19th century were pretty harmful, but there have been lots of benefits too, like always having access to fresh food.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">32.</div>
   <div></div>
-  <div>D</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>fancy</div>
-  <div></div>
-  <div></div>
-  <div>dealing</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>that?</div>
+  <div>Do you fancy dealing with that?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">33.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'m</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>terribly</div>
-  <div></div>
-  <div></div>
-  <div>keen,</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>honest.</div>
+  <div>I'm not terribly keen, to be honest.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">34.</div>
   <div><strong>JACK:</strong></div>
-  <div>N</div>
+  <div>Nor me.</div>
   <div></div>
   <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>me.</div>
-  <div></div>
-  <div></div>
-  <div>M</div>
-  <div></div>
-  <div></div>
-  <div>y</div>
-  <div></div>
-  <div></div>
-  <div>mind</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>goes</div>
-  <div></div>
-  <div></div>
-  <div>blank</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>read</div>
-  <div></div>
-  <div></div>
-  <div>anything</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>chemicals.</div>
+  <div>My mind just goes blank when I read anything about chemicals.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">35.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>O</div>
+  <div>Oh, all right then, I'll do you a favour.</div>
   <div></div>
   <div></div>
-  <div>h,</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>right</div>
-  <div></div>
-  <div></div>
-  <div>then,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'ll</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>favour.</div>
-  <div></div>
-  <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>owe</div>
-  <div></div>
-  <div></div>
-  <div>me,</div>
-  <div></div>
-  <div></div>
-  <div>J</div>
-  <div></div>
-  <div></div>
-  <div>ack.</div>
+  <div>But you owe me, Jack.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">36.</div>
   <div></div>
-  <div>O</div>
+  <div>OK.</div>
   <div></div>
   <div></div>
-  <div>K</div>
+  <div>What about the effects on food producers, like farmers in poorer countries being able to export their produce to developed countries?</div>
   <div></div>
   <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>effects</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>producers,</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>farmers</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>poorer</div>
-  <div></div>
-  <div></div>
-  <div>countries</div>
-  <div></div>
-  <div></div>
-  <div>being</div>
-  <div></div>
-  <div></div>
-  <div>able</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>export</div>
-  <div></div>
-  <div></div>
-  <div>their</div>
-  <div></div>
-  <div></div>
-  <div>produce</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>developed</div>
-  <div></div>
-  <div></div>
-  <div>countries?</div>
-  <div></div>
-  <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>omething</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>you,</div>
-  <div></div>
-  <div></div>
-  <div>maybe?</div>
+  <div>Something for you, maybe?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">37.</div>
   <div><strong>JACK:</strong></div>
-  <div>I</div>
+  <div>I don't mind.</div>
   <div></div>
   <div></div>
-  <div>don't</div>
-  <div></div>
-  <div></div>
-  <div>mind.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t</div>
-  <div></div>
-  <div></div>
-  <div>should</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>quite</div>
-  <div></div>
-  <div></div>
-  <div>interesting.</div>
+  <div>It should be quite interesting.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">38.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>should</div>
-  <div></div>
-  <div></div>
-  <div>also</div>
-  <div></div>
-  <div></div>
-  <div>look</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>refrigeration</div>
-  <div></div>
-  <div></div>
-  <div>has</div>
-  <div></div>
-  <div></div>
-  <div>helped</div>
-  <div></div>
-  <div></div>
-  <div>whole</div>
-  <div></div>
-  <div></div>
-  <div>cities</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>L</div>
-  <div></div>
-  <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>V</div>
-  <div></div>
-  <div></div>
-  <div>egas,</div>
-  <div></div>
-  <div></div>
-  <div>which</div>
-  <div></div>
-  <div></div>
-  <div>couldn't</div>
-  <div></div>
-  <div></div>
-  <div>exist</div>
-  <div></div>
-  <div></div>
-  <div>without</div>
-  <div></div>
-  <div></div>
-  <div>refrigeration</div>
-  <div></div>
-  <div></div>
-  <div>because</div>
-  <div></div>
-  <div></div>
-  <div>it's</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>middle</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>desert.</div>
+  <div>I think we should also look at how refrigeration has helped whole cities – like Las Vegas, which couldn't exist without refrigeration because it's in the middle of a desert.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">39.</div>
   <div><strong>JACK:</strong></div>
-  <div>R</div>
+  <div>Right.</div>
   <div></div>
   <div></div>
-  <div>ight.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>quick</div>
-  <div></div>
-  <div></div>
-  <div>look</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>economics</div>
-  <div></div>
-  <div></div>
-  <div>book</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>library</div>
-  <div></div>
-  <div></div>
-  <div>that's</div>
-  <div></div>
-  <div></div>
-  <div>got</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>chapter</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>sort</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>thing.</div>
+  <div>I had a quick look at an economics book in the library that's got a chapter about this sort of thing.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">40.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>give</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>title,</div>
-  <div></div>
-  <div></div>
-  <div>if</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>want</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>section.</div>
+  <div>I could give you the title, if you want to do this section.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">41.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>N</div>
+  <div>Not particularly, to be honest.</div>
   <div></div>
   <div></div>
-  <div>ot</div>
-  <div></div>
-  <div></div>
-  <div>particularly,</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>honest.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>find</div>
-  <div></div>
-  <div></div>
-  <div>economics</div>
-  <div></div>
-  <div></div>
-  <div>books</div>
-  <div></div>
-  <div></div>
-  <div>pretty</div>
-  <div></div>
-  <div></div>
-  <div>heavy</div>
-  <div></div>
-  <div></div>
-  <div>going,</div>
-  <div></div>
-  <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>rule.</div>
+  <div>I find economics books pretty heavy going, as a rule.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">42.</div>
   <div><strong>JACK:</strong></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>,</div>
-  <div></div>
-  <div></div>
-  <div>leave</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>me,</div>
-  <div></div>
-  <div></div>
-  <div>then.</div>
+  <div>OK, leave it to me, then.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">43.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>T</div>
+  <div>Thanks.</div>
   <div></div>
   <div></div>
-  <div>hanks.</div>
+  <div>Then there's transport, and the difference that refrigerated trucks have made.</div>
   <div></div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hen</div>
-  <div></div>
-  <div></div>
-  <div>there's</div>
-  <div></div>
-  <div></div>
-  <div>transport,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>difference</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>refrigerated</div>
-  <div></div>
-  <div></div>
-  <div>trucks</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>made.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>wouldn't</div>
-  <div></div>
-  <div></div>
-  <div>mind</div>
-  <div></div>
-  <div></div>
-  <div>having</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>go</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>that.</div>
+  <div>I wouldn't mind having a go at that.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">44.</div>
   <div><strong>JACK:</strong></div>
-  <div>D</div>
+  <div>Don't forget trains, too.</div>
   <div></div>
   <div></div>
-  <div>on't</div>
-  <div></div>
-  <div></div>
-  <div>forget</div>
-  <div></div>
-  <div></div>
-  <div>trains,</div>
-  <div></div>
-  <div></div>
-  <div>too.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>read</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>milk</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>butter</div>
-  <div></div>
-  <div></div>
-  <div>being</div>
-  <div></div>
-  <div></div>
-  <div>transported</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>refrigerated</div>
-  <div></div>
-  <div></div>
-  <div>railroad</div>
-  <div></div>
-  <div></div>
-  <div>cars</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>U</div>
-  <div></div>
-  <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>,</div>
-  <div></div>
-  <div></div>
-  <div>right</div>
-  <div></div>
-  <div></div>
-  <div>back</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>1840s.</div>
+  <div>I read something about milk and butter being transported in refrigerated railroad cars in the USA, right back in the 1840s.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">45.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>I</div>
+  <div>I hadn't thought of trains.</div>
   <div></div>
   <div></div>
-  <div>hadn't</div>
-  <div></div>
-  <div></div>
-  <div>thought</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>trains.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hanks.</div>
+  <div>Thanks.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">46.</div>
   <div><strong>JACK:</strong></div>
-  <div>S</div>
+  <div>Shall we have a separate section on domestic fridges?</div>
   <div></div>
   <div></div>
-  <div>hall</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>separate</div>
-  <div></div>
-  <div></div>
-  <div>section</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>domestic</div>
-  <div></div>
-  <div></div>
-  <div>fridges?</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>fter</div>
-  <div></div>
-  <div></div>
-  <div>all,</div>
-  <div></div>
-  <div></div>
-  <div>they're</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>everyone's</div>
-  <div></div>
-  <div></div>
-  <div>familiar</div>
-  <div></div>
-  <div></div>
-  <div>with.</div>
+  <div>After all, they're something everyone's familiar with.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">47.</div>
   <div><strong>ANNIE:</strong></div>
-  <div>W</div>
+  <div>What about splitting it into two?</div>
   <div></div>
   <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>splitting</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>into</div>
-  <div></div>
-  <div></div>
-  <div>two?</div>
-  <div></div>
-  <div></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>ou</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>investigate</div>
-  <div></div>
-  <div></div>
-  <div>19th-</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>20th-</div>
-  <div></div>
-  <div></div>
-  <div>century</div>
-  <div></div>
-  <div></div>
-  <div>fridges,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'ll</div>
-  <div></div>
-  <div></div>
-  <div>concentrate</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>what's</div>
-  <div></div>
-  <div></div>
-  <div>available</div>
-  <div></div>
-  <div></div>
-  <div>these</div>
-  <div></div>
-  <div></div>
-  <div>days,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>manufacturers</div>
-  <div></div>
-  <div></div>
-  <div>differentiate</div>
-  <div></div>
-  <div></div>
-  <div>their</div>
-  <div></div>
-  <div></div>
-  <div>products</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>those</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>their</div>
-  <div></div>
-  <div></div>
-  <div>competitors.</div>
+  <div>You could investigate 19th- and 20th- century fridges, and I'll concentrate on what's available these days, and how manufacturers differentiate their products from those of their competitors.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">48.</div>
   <div><strong>JACK:</strong></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>,</div>
-  <div></div>
-  <div></div>
-  <div>that'd</div>
-  <div></div>
-  <div></div>
-  <div>suit</div>
-  <div></div>
-  <div></div>
-  <div>me.</div>
+  <div>OK, that'd suit me.</div>
 </div>

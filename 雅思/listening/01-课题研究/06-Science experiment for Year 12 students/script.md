@@ -9,2932 +9,350 @@
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">1.</div>
   <div><strong>CLARE:</strong></div>
-  <div>H</div>
+  <div>Hi Jake.</div>
   <div></div>
   <div></div>
-  <div>i</div>
-  <div></div>
-  <div></div>
-  <div>J</div>
-  <div></div>
-  <div></div>
-  <div>ake.</div>
-  <div></div>
-  <div></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>ow</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>getting</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>practical</div>
-  <div></div>
-  <div></div>
-  <div>teaching?</div>
+  <div>How are you getting on with the practical teaching?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">2.</div>
   <div><strong>JAKE:</strong></div>
-  <div>I</div>
+  <div>It’s harder than I expected, but I’ve got some great classes.</div>
   <div></div>
   <div></div>
-  <div>t’s</div>
-  <div></div>
-  <div></div>
-  <div>harder</div>
-  <div></div>
-  <div></div>
-  <div>than</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>expected,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’ve</div>
-  <div></div>
-  <div></div>
-  <div>got</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>great</div>
-  <div></div>
-  <div></div>
-  <div>classes.</div>
-  <div></div>
-  <div></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>ow</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>you?</div>
+  <div>How about you?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">3.</div>
   <div><strong>CLARE:</strong></div>
-  <div>N</div>
+  <div>Not brilliant.</div>
   <div></div>
   <div></div>
-  <div>ot</div>
-  <div></div>
-  <div></div>
-  <div>brilliant.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’m</div>
-  <div></div>
-  <div></div>
-  <div>really</div>
-  <div></div>
-  <div></div>
-  <div>struggling</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>ear</div>
-  <div></div>
-  <div></div>
-  <div>12</div>
-  <div></div>
-  <div></div>
-  <div>science</div>
-  <div></div>
-  <div></div>
-  <div>class.</div>
+  <div>I’m really struggling with my Year 12 science class.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">4.</div>
   <div><strong>JAKE:</strong></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>re</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>hard</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>control?</div>
+  <div>Are they hard to control?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">5.</div>
   <div><strong>CLARE:</strong></div>
-  <div>W</div>
+  <div>Well, I don’t have discipline problems as such.</div>
   <div></div>
   <div></div>
-  <div>ell,</div>
+  <div>It’s just that they don’t seem to think that science has anything to do with their lives.</div>
   <div></div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>discipline</div>
-  <div></div>
-  <div></div>
-  <div>problems</div>
-  <div></div>
-  <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>such.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t’s</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>seem</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>science</div>
-  <div></div>
-  <div></div>
-  <div>has</div>
-  <div></div>
-  <div></div>
-  <div>anything</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>their</div>
-  <div></div>
-  <div></div>
-  <div>lives.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t’s</div>
-  <div></div>
-  <div></div>
-  <div>depressing.</div>
+  <div>It’s depressing.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">6.</div>
   <div><strong>CLARE:</strong></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hey</div>
-  <div></div>
-  <div></div>
-  <div>listen</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>say,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>gave</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>test</div>
-  <div></div>
-  <div></div>
-  <div>last</div>
-  <div></div>
-  <div></div>
-  <div>week</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>results</div>
-  <div></div>
-  <div></div>
-  <div>weren’t</div>
-  <div></div>
-  <div></div>
-  <div>too</div>
-  <div></div>
-  <div></div>
-  <div>bad,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>there’s</div>
-  <div></div>
-  <div></div>
-  <div>no</div>
-  <div></div>
-  <div></div>
-  <div>real</div>
-  <div></div>
-  <div></div>
-  <div>engagement.</div>
+  <div>They listen to what I say, and I gave them a test last week and the results weren’t too bad, but there’s no real engagement.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">7.</div>
   <div><strong>JAKE:</strong></div>
-  <div>R</div>
-  <div></div>
-  <div></div>
-  <div>ight.</div>
+  <div>Right.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">8.</div>
   <div><strong>CLARE:</strong></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>part</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>teaching</div>
-  <div></div>
-  <div></div>
-  <div>practice,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>design</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>experiment</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>do.</div>
+  <div>And as part of my teaching practice, I have to design an experiment for them to do.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">9.</div>
   <div><strong>CLARE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>wondering</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>children’s</div>
-  <div></div>
-  <div></div>
-  <div>diets</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>know,</div>
-  <div></div>
-  <div></div>
-  <div>asking</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>record</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>eat</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>maybe</div>
-  <div></div>
-  <div></div>
-  <div>linking</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>their</div>
-  <div></div>
-  <div></div>
-  <div>state</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>health.</div>
+  <div>I was wondering about something on the children’s diets . . . you know, asking them to record what they eat and maybe linking it to their state of health.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">10.</div>
   <div><strong>JAKE:</strong></div>
-  <div>M</div>
+  <div>Mmm.</div>
   <div></div>
   <div></div>
-  <div>mm.</div>
+  <div>Let’s think.</div>
   <div></div>
   <div></div>
-  <div>L</div>
-  <div></div>
-  <div></div>
-  <div>et’s</div>
-  <div></div>
-  <div></div>
-  <div>think.</div>
-  <div></div>
-  <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>your</div>
-  <div></div>
-  <div></div>
-  <div>methodology</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>involve</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>children</div>
-  <div></div>
-  <div></div>
-  <div>recording</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>eat.</div>
+  <div>So your methodology would involve the children recording what they eat.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">11.</div>
   <div><strong>JAKE:</strong></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>you’d</div>
-  <div></div>
-  <div></div>
-  <div>also</div>
-  <div></div>
-  <div></div>
-  <div>need</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>access</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>children’s</div>
-  <div></div>
-  <div></div>
-  <div>medical</div>
-  <div></div>
-  <div></div>
-  <div>records</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>happy</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>that;</div>
-  <div></div>
-  <div></div>
-  <div>confidentiality</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>issue.</div>
+  <div>OK, but you’d also need to have access to the children’s medical records and I don’t think people would be happy about that; confidentiality would be an issue.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">12.</div>
   <div><strong>JAKE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>f</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>get</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>right</div>
-  <div></div>
-  <div></div>
-  <div>data,</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>conclusions</div>
-  <div></div>
-  <div></div>
-  <div>might</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>significant,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>suspect</div>
-  <div></div>
-  <div></div>
-  <div>it’s</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>going</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>easy.</div>
+  <div>If you could get the right data, the conclusions might be significant, but I suspect it’s not going to be easy.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">13.</div>
   <div><strong>CLARE:</strong></div>
-  <div>R</div>
-  <div></div>
-  <div></div>
-  <div>ight.</div>
+  <div>Right.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">14.</div>
   <div><strong>JAKE:</strong></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>ave</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>thought</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>doing</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>experiment</div>
-  <div></div>
-  <div></div>
-  <div>using</div>
-  <div></div>
-  <div></div>
-  <div>animals?</div>
+  <div>Have you thought about doing an experiment using animals?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">15.</div>
   <div><strong>CLARE:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>ouldn’t</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>upsetting</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>children?</div>
+  <div>Wouldn’t that be upsetting for the children?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">16.</div>
   <div><strong>JAKE:</strong></div>
-  <div>W</div>
+  <div>Well, the animals don’t have to be harmed in any way.</div>
   <div></div>
   <div></div>
-  <div>ell,</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>animals</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>harmed</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>any</div>
-  <div></div>
-  <div></div>
-  <div>way.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>experiment</div>
-  <div></div>
-  <div></div>
-  <div>where</div>
-  <div></div>
-  <div></div>
-  <div>they’re</div>
-  <div></div>
-  <div></div>
-  <div>given</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>certain</div>
-  <div></div>
-  <div></div>
-  <div>diet</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>effects</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>observed.</div>
+  <div>It could just be an experiment where they’re given a certain diet and the effects are observed.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">17.</div>
   <div><strong>CLARE:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>ould</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>get</div>
-  <div></div>
-  <div></div>
-  <div>permission</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>animals?</div>
+  <div>Would I have to get permission to use animals?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">18.</div>
   <div><strong>JAKE:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>es,</div>
-  <div></div>
-  <div></div>
-  <div>you’d</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>submit</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>outline</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>experiment</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>fill</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>form,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>it’s</div>
-  <div></div>
-  <div></div>
-  <div>quite</div>
-  <div></div>
-  <div></div>
-  <div>straightforward.</div>
+  <div>Yes, you’d have to submit an outline of the experiment and fill in a form, but it’s quite straightforward.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">19.</div>
   <div><strong>CLARE:</strong></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>if</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>found</div>
-  <div></div>
-  <div></div>
-  <div>out</div>
-  <div></div>
-  <div></div>
-  <div>that,</div>
-  <div></div>
-  <div></div>
-  <div>say,</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>particular</div>
-  <div></div>
-  <div></div>
-  <div>diet</div>
-  <div></div>
-  <div></div>
-  <div>affects</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>health</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>animals,</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>same</div>
-  <div></div>
-  <div></div>
-  <div>thing</div>
-  <div></div>
-  <div></div>
-  <div>wouldn’t</div>
-  <div></div>
-  <div></div>
-  <div>necessarily</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>true</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>people,</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>it?</div>
+  <div>But if we found out that, say, a particular diet affects the health of animals, the same thing wouldn’t necessarily be true for people, would it?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">20.</div>
   <div><strong>JAKE:</strong></div>
-  <div>N</div>
+  <div>No that’s true, but the findings for any experiment are going to be limited.</div>
   <div></div>
   <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>that’s</div>
-  <div></div>
-  <div></div>
-  <div>true,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>findings</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>any</div>
-  <div></div>
-  <div></div>
-  <div>experiment</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>going</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>limited.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t’s</div>
-  <div></div>
-  <div></div>
-  <div>inevitable.</div>
+  <div>It’s inevitable.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">21.</div>
   <div><strong>CLARE:</strong></div>
-  <div>I</div>
+  <div>I suppose so.</div>
   <div></div>
   <div></div>
-  <div>suppose</div>
+  <div>So what animals could I use to investigate the effects of diet?</div>
   <div></div>
   <div></div>
-  <div>so.</div>
-  <div></div>
-  <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>animals</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>investigate</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>effects</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>diet?</div>
-  <div></div>
-  <div></div>
-  <div>M</div>
-  <div></div>
-  <div></div>
-  <div>ice?</div>
+  <div>Mice?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">22.</div>
   <div><strong>JAKE:</strong></div>
-  <div>Y</div>
+  <div>Yes.</div>
   <div></div>
   <div></div>
-  <div>es.</div>
-  <div></div>
-  <div></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>ou’d</div>
-  <div></div>
-  <div></div>
-  <div>need</div>
-  <div></div>
-  <div></div>
-  <div>experimental</div>
-  <div></div>
-  <div></div>
-  <div>mice</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>ones</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>specially</div>
-  <div></div>
-  <div></div>
-  <div>bred</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>experiments.</div>
+  <div>You’d need experimental mice – ones that have been specially bred for experiments.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">23.</div>
   <div><strong>JAKE:</strong></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>,</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>will</div>
-  <div></div>
-  <div></div>
-  <div>your</div>
-  <div></div>
-  <div></div>
-  <div>experiment</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>investigating</div>
-  <div></div>
-  <div></div>
-  <div>exactly?</div>
+  <div>OK, so what will your experiment be investigating exactly?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">24.</div>
   <div><strong>CLARE:</strong></div>
-  <div>W</div>
+  <div>Well, something to do with nutrition.</div>
   <div></div>
   <div></div>
-  <div>ell,</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>nutrition.</div>
-  <div></div>
-  <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>maybe</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>look</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>supplements</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>things</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>extra</div>
-  <div></div>
-  <div></div>
-  <div>iron</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>extra</div>
-  <div></div>
-  <div></div>
-  <div>protein,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>their</div>
-  <div></div>
-  <div></div>
-  <div>impact</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>health.</div>
+  <div>So maybe we could look at food supplements . . . things like extra iron and extra protein, and their impact on health.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">25.</div>
   <div><strong>JAKE:</strong></div>
-  <div>M</div>
+  <div>Mmm.</div>
   <div></div>
   <div></div>
-  <div>mm.</div>
+  <div>That might be rather broad.</div>
   <div></div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>might</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>rather</div>
-  <div></div>
-  <div></div>
-  <div>broad.</div>
-  <div></div>
-  <div></div>
-  <div>M</div>
-  <div></div>
-  <div></div>
-  <div>aybe</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>look</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>effects</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>supplement,</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>sugar,</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>health</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>mice?</div>
+  <div>Maybe just look at the effects of one supplement, like sugar, on the health of the mice?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">26.</div>
   <div><strong>CLARE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>n</div>
-  <div></div>
-  <div></div>
-  <div>fact,</div>
-  <div></div>
-  <div></div>
-  <div>maybe</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>focus</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>whether</div>
-  <div></div>
-  <div></div>
-  <div>mice</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>control</div>
-  <div></div>
-  <div></div>
-  <div>their</div>
-  <div></div>
-  <div></div>
-  <div>own</div>
-  <div></div>
-  <div></div>
-  <div>diet.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
+  <div>In fact, maybe the focus could be on whether mice can control their own diet. . . .</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">27.</div>
   <div><strong>JAKE:</strong></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o,</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>happens</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>access</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>sugar,</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>really</div>
-  <div></div>
-  <div></div>
-  <div>need?</div>
+  <div>So, what happens when they have access to more sugar, that they don’t really need?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">28.</div>
   <div><strong>CLARE:</strong></div>
-  <div>E</div>
+  <div>Exactly.</div>
   <div></div>
   <div></div>
-  <div>xactly.</div>
-  <div></div>
-  <div></div>
-  <div>D</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>eat</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>decide</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>leave</div>
-  <div></div>
-  <div></div>
-  <div>it?</div>
+  <div>Do they eat it or do they decide to leave it?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">29.</div>
   <div><strong>JAKE:</strong></div>
-  <div>G</div>
+  <div>Great.</div>
   <div></div>
   <div></div>
-  <div>reat.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hen</div>
-  <div></div>
-  <div></div>
-  <div>later</div>
-  <div></div>
-  <div></div>
-  <div>on,</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>follow-up</div>
-  <div></div>
-  <div></div>
-  <div>experiment</div>
-  <div></div>
-  <div></div>
-  <div>adding</div>
-  <div></div>
-  <div></div>
-  <div>another</div>
-  <div></div>
-  <div></div>
-  <div>variable.</div>
+  <div>Then later on, you could do a follow-up experiment adding another variable.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">30.</div>
   <div><strong>JAKE:</strong></div>
-  <div>L</div>
-  <div></div>
-  <div></div>
-  <div>ike,</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>give</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>mice</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>chance</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>active,</div>
-  <div></div>
-  <div></div>
-  <div>running</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>wheel</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>something,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>others</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>sit</div>
-  <div></div>
-  <div></div>
-  <div>around</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>much.</div>
+  <div>Like, you could give some of the mice the chance to be more active, running on a wheel or something, and the others just sit around and don’t do much.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">31.</div>
   <div><strong>CLARE:</strong></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>r</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>repeat</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>experiment</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>change</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>type</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>provided</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>mice</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>different</div>
-  <div></div>
-  <div></div>
-  <div>genetic</div>
-  <div></div>
-  <div></div>
-  <div>structure.</div>
+  <div>Or I could repeat the experiment but change the type of food I provided . . . or use mice with a different genetic structure.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">32.</div>
   <div><strong>CLARE:</strong></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>your</div>
-  <div></div>
-  <div></div>
-  <div>idea</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>interesting,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>might</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>more.</div>
+  <div>But I think your idea would be more interesting, I might think about that some more.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">33.</div>
   <div><strong>CLARE:</strong></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>talk</div>
-  <div></div>
-  <div></div>
-  <div>through</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>possible</div>
-  <div></div>
-  <div></div>
-  <div>procedure</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>experiment</div>
-  <div></div>
-  <div></div>
-  <div>where</div>
-  <div></div>
-  <div></div>
-  <div>mice</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>given</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>sugar</div>
-  <div></div>
-  <div></div>
-  <div>supplement?</div>
+  <div>So can I talk through a possible procedure for the experiment where mice are given a sugar supplement?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">34.</div>
   <div><strong>JAKE:</strong></div>
-  <div>S</div>
+  <div>Sure.</div>
   <div></div>
   <div></div>
-  <div>ure.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>did</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>similar</div>
-  <div></div>
-  <div></div>
-  <div>experiment</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>college</div>
-  <div></div>
-  <div></div>
-  <div>actually.</div>
+  <div>I did a similar experiment in college actually.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">35.</div>
   <div><strong>CLARE:</strong></div>
-  <div>G</div>
+  <div>Great.</div>
   <div></div>
   <div></div>
-  <div>reat.</div>
-  <div></div>
-  <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>many</div>
-  <div></div>
-  <div></div>
-  <div>mice</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>need?</div>
+  <div>So how many mice would I need?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">36.</div>
   <div><strong>JAKE:</strong></div>
-  <div>I</div>
+  <div>I’d say about 12.</div>
   <div></div>
   <div></div>
-  <div>’d</div>
-  <div></div>
-  <div></div>
-  <div>say</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>12.</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>young</div>
-  <div></div>
-  <div></div>
-  <div>ones,</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>mixture</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>old</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>young.</div>
+  <div>And all young ones, not a mixture of old and young.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">37.</div>
   <div><strong>CLARE:</strong></div>
-  <div>O</div>
+  <div>OK.</div>
   <div></div>
   <div></div>
-  <div>K</div>
+  <div>And I’d need two groups of equal sizes, so six in each group.</div>
   <div></div>
   <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’d</div>
-  <div></div>
-  <div></div>
-  <div>need</div>
-  <div></div>
-  <div></div>
-  <div>two</div>
-  <div></div>
-  <div></div>
-  <div>groups</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>equal</div>
-  <div></div>
-  <div></div>
-  <div>sizes,</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>six</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>each</div>
-  <div></div>
-  <div></div>
-  <div>group.</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>tell</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>apart?</div>
+  <div>And how would I tell them apart?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">38.</div>
   <div><strong>CLARE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>suppose</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>put</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>sort</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>tag</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>group</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>mark</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>way?</div>
+  <div>I suppose I could put some sort of tag on one group . . . or just mark them in some way?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">39.</div>
   <div><strong>JAKE:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>ou</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>colouring,</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>wouldn’t</div>
-  <div></div>
-  <div></div>
-  <div>hurt</div>
-  <div></div>
-  <div></div>
-  <div>them.</div>
+  <div>You could use food colouring, that wouldn’t hurt them.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">40.</div>
   <div><strong>CLARE:</strong></div>
-  <div>P</div>
+  <div>Perfect.</div>
   <div></div>
   <div></div>
-  <div>erfect.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hen</div>
-  <div></div>
-  <div></div>
-  <div>each</div>
-  <div></div>
-  <div></div>
-  <div>group</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>go</div>
-  <div></div>
-  <div></div>
-  <div>into</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>separate</div>
-  <div></div>
-  <div></div>
-  <div>cage,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>group,</div>
-  <div></div>
-  <div></div>
-  <div>let’s</div>
-  <div></div>
-  <div></div>
-  <div>call</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>group</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>,</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>control</div>
-  <div></div>
-  <div></div>
-  <div>group.</div>
+  <div>Then each group would go into a separate cage, and one group, let’s call them group A, would be the control group.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">41.</div>
   <div><strong>CLARE:</strong></div>
-  <div>S</div>
+  <div>So they’d just have ordinary mouse food.</div>
   <div></div>
   <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>they’d</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>ordinary</div>
-  <div></div>
-  <div></div>
-  <div>mouse</div>
-  <div></div>
-  <div></div>
-  <div>food.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>suppose</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>buy</div>
-  <div></div>
-  <div></div>
-  <div>that?</div>
+  <div>I suppose you can buy that?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">42.</div>
   <div><strong>JAKE:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>es,</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>comes</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>dry</div>
-  <div></div>
-  <div></div>
-  <div>pellets.</div>
+  <div>Yes, it comes in dry pellets.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">43.</div>
   <div><strong>CLARE:</strong></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>other</div>
-  <div></div>
-  <div></div>
-  <div>group</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>same</div>
-  <div></div>
-  <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>first</div>
-  <div></div>
-  <div></div>
-  <div>group,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>they’d</div>
-  <div></div>
-  <div></div>
-  <div>also</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>extra</div>
-  <div></div>
-  <div></div>
-  <div>sugar.</div>
+  <div>And the other group would have the same as the first group, but they’d also have the extra sugar.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">44.</div>
   <div><strong>JAKE:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>ould</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>give</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>straight</div>
-  <div></div>
-  <div></div>
-  <div>sugar?</div>
+  <div>Would you just give them straight sugar?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">45.</div>
   <div><strong>CLARE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t</div>
-  <div></div>
-  <div></div>
-  <div>might</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>better</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>give</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>cereal</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>it.</div>
+  <div>It might be better to give them something like cereal with it.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">46.</div>
   <div><strong>JAKE:</strong></div>
-  <div>M</div>
+  <div>Mmm.</div>
   <div></div>
   <div></div>
-  <div>mm.</div>
+  <div>Then you’d need to weigh the mice, I should think once a week.</div>
   <div></div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hen</div>
-  <div></div>
-  <div></div>
-  <div>you’d</div>
-  <div></div>
-  <div></div>
-  <div>need</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>weigh</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>mice,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>should</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>once</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>week.</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>you’d</div>
-  <div></div>
-  <div></div>
-  <div>need</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>electronic</div>
-  <div></div>
-  <div></div>
-  <div>balance.</div>
+  <div>And you’d need an electronic balance.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">47.</div>
   <div><strong>CLARE:</strong></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>can’t</div>
-  <div></div>
-  <div></div>
-  <div>hold</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>balance,</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>it’d</div>
-  <div></div>
-  <div></div>
-  <div>affect</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>reading.</div>
+  <div>But we can’t hold them on the balance, or it’d affect the reading.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">48.</div>
   <div><strong>JAKE:</strong></div>
-  <div>E</div>
+  <div>Exactly.</div>
   <div></div>
   <div></div>
-  <div>xactly.</div>
-  <div></div>
-  <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>need</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>called</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>weighing</div>
-  <div></div>
-  <div></div>
-  <div>chamber</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>stop</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>mice</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>running</div>
-  <div></div>
-  <div></div>
-  <div>away.</div>
+  <div>So you need something called a weighing chamber to stop the mice from running away.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">49.</div>
   <div><strong>JAKE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t</div>
-  <div></div>
-  <div></div>
-  <div>sounds</div>
-  <div></div>
-  <div></div>
-  <div>complicated,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>actually</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>plastic</div>
-  <div></div>
-  <div></div>
-  <div>box</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>holes</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>top.</div>
+  <div>It sounds complicated, but actually you can just use a plastic box with holes in the top.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">50.</div>
   <div><strong>CLARE:</strong></div>
-  <div>O</div>
+  <div>OK.</div>
   <div></div>
   <div></div>
-  <div>K</div>
+  <div>So once we’ve measured the weight gain of each mouse we can work out the average for each group, as well as the standard deviation.</div>
   <div></div>
   <div></div>
-  <div>.</div>
+  <div>And then see where we go from there.</div>
   <div></div>
   <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>once</div>
-  <div></div>
-  <div></div>
-  <div>we’ve</div>
-  <div></div>
-  <div></div>
-  <div>measured</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>weight</div>
-  <div></div>
-  <div></div>
-  <div>gain</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>each</div>
-  <div></div>
-  <div></div>
-  <div>mouse</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>work</div>
-  <div></div>
-  <div></div>
-  <div>out</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>average</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>each</div>
-  <div></div>
-  <div></div>
-  <div>group,</div>
-  <div></div>
-  <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>well</div>
-  <div></div>
-  <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>standard</div>
-  <div></div>
-  <div></div>
-  <div>deviation.</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>then</div>
-  <div></div>
-  <div></div>
-  <div>see</div>
-  <div></div>
-  <div></div>
-  <div>where</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>go</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>there.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>sounds</div>
-  <div></div>
-  <div></div>
-  <div>cool,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>students</div>
-  <div></div>
-  <div></div>
-  <div>will</div>
-  <div></div>
-  <div></div>
-  <div>enjoy</div>
-  <div></div>
-  <div></div>
-  <div>it.</div>
+  <div>That sounds cool, I think the students will enjoy it.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">51.</div>
   <div><strong>JAKE:</strong></div>
-  <div>Y</div>
+  <div>Yes.</div>
   <div></div>
   <div></div>
-  <div>es.</div>
-  <div></div>
-  <div></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>ne</div>
-  <div></div>
-  <div></div>
-  <div>thing</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>must</div>
-  <div></div>
-  <div></div>
-  <div>remember</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
+  <div>One thing you must remember . . .</div>
 </div>
 
 > Note: Sentence 51 is truncated this way on the source page.

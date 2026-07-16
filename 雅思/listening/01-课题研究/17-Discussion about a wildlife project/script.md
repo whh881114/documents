@@ -9,2648 +9,334 @@
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">1.</div>
   <div><strong>JESS:</strong></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>ow</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>getting</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>your</div>
-  <div></div>
-  <div></div>
-  <div>art</div>
-  <div></div>
-  <div></div>
-  <div>project,</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>om?</div>
+  <div>How are you getting on with your art project, Tom?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">2.</div>
   <div><strong>TOM:</strong></div>
-  <div>O</div>
+  <div>OK.</div>
   <div></div>
   <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>L</div>
-  <div></div>
-  <div></div>
-  <div>ike,</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>gave</div>
-  <div></div>
-  <div></div>
-  <div>us</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>theme</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>birds</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>base</div>
-  <div></div>
-  <div></div>
-  <div>our</div>
-  <div></div>
-  <div></div>
-  <div>project</div>
-  <div></div>
-  <div></div>
-  <div>on,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'m</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>really</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>interested</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>wildlife.</div>
+  <div>Like, they gave us the theme of birds to base our project on, and I'm not really all that interested in wildlife.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">3.</div>
   <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'m</div>
-  <div></div>
-  <div></div>
-  <div>starting</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>get</div>
-  <div></div>
-  <div></div>
-  <div>into</div>
-  <div></div>
-  <div></div>
-  <div>it.</div>
+  <div>But I'm starting to get into it.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">4.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'ve</div>
-  <div></div>
-  <div></div>
-  <div>pretty</div>
-  <div></div>
-  <div></div>
-  <div>well</div>
-  <div></div>
-  <div></div>
-  <div>finished</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>introductory</div>
-  <div></div>
-  <div></div>
-  <div>stage.</div>
+  <div>I've pretty well finished the introductory stage.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">5.</div>
   <div><strong>JESS:</strong></div>
-  <div>S</div>
+  <div>So have I.</div>
   <div></div>
   <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hen</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>gave</div>
-  <div></div>
-  <div></div>
-  <div>us</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>those</div>
-  <div></div>
-  <div></div>
-  <div>handouts</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>details</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>books</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>websites</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>look</div>
-  <div></div>
-  <div></div>
-  <div>at,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>really</div>
-  <div></div>
-  <div></div>
-  <div>put</div>
-  <div></div>
-  <div></div>
-  <div>off,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>read,</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>interested</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>got.</div>
+  <div>When they gave us all those handouts with details of books and websites to look at, I was really put off, but the more I read, the more interested I got.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">6.</div>
   <div><strong>TOM:</strong></div>
-  <div>M</div>
+  <div>Me too.</div>
   <div></div>
   <div></div>
-  <div>e</div>
-  <div></div>
-  <div></div>
-  <div>too.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>found</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>research</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>many</div>
-  <div></div>
-  <div></div>
-  <div>different</div>
-  <div></div>
-  <div></div>
-  <div>aspects</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>birds</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>art</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>colour,</div>
-  <div></div>
-  <div></div>
-  <div>movement,</div>
-  <div></div>
-  <div></div>
-  <div>texture.</div>
+  <div>I found I could research so many different aspects of birds in art – colour, movement, texture.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">7.</div>
   <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>looking</div>
-  <div></div>
-  <div></div>
-  <div>forward</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ird</div>
-  <div></div>
-  <div></div>
-  <div>P</div>
-  <div></div>
-  <div></div>
-  <div>ark</div>
-  <div></div>
-  <div></div>
-  <div>visit.</div>
+  <div>So I was looking forward to the Bird Park visit.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">8.</div>
   <div><strong>JESS:</strong></div>
-  <div>W</div>
+  <div>What a letdown!</div>
   <div></div>
   <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>letdown!</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t</div>
-  <div></div>
-  <div></div>
-  <div>poured</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>rain</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>hardly</div>
-  <div></div>
-  <div></div>
-  <div>saw</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>single</div>
-  <div></div>
-  <div></div>
-  <div>bird.</div>
+  <div>It poured with rain and we hardly saw a single bird.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">9.</div>
   <div></div>
-  <div>M</div>
-  <div></div>
-  <div></div>
-  <div>uch</div>
-  <div></div>
-  <div></div>
-  <div>less</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>than</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>trip</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>N</div>
-  <div></div>
-  <div></div>
-  <div>atural</div>
-  <div></div>
-  <div></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>istory</div>
-  <div></div>
-  <div></div>
-  <div>M</div>
-  <div></div>
-  <div></div>
-  <div>useum.</div>
+  <div>Much less use than the trip to the Natural History Museum.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">10.</div>
   <div><strong>TOM:</strong></div>
-  <div>Y</div>
+  <div>Yeah.</div>
   <div></div>
   <div></div>
-  <div>eah.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>liked</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>stuff</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>evolution</div>
-  <div></div>
-  <div></div>
-  <div>there.</div>
+  <div>I liked all the stuff about evolution there.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">11.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>workshop</div>
-  <div></div>
-  <div></div>
-  <div>sessions</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>D</div>
-  <div></div>
-  <div></div>
-  <div>r</div>
-  <div></div>
-  <div></div>
-  <div>F</div>
-  <div></div>
-  <div></div>
-  <div>letcher</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>good</div>
-  <div></div>
-  <div></div>
-  <div>too,</div>
-  <div></div>
-  <div></div>
-  <div>especially</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>brainstorming</div>
-  <div></div>
-  <div></div>
-  <div>sessions.</div>
+  <div>The workshop sessions with Dr Fletcher were good too, especially the brainstorming sessions.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">12.</div>
   <div><strong>JESS:</strong></div>
-  <div>I</div>
+  <div>I missed those because I was ill.</div>
   <div></div>
   <div></div>
-  <div>missed</div>
-  <div></div>
-  <div></div>
-  <div>those</div>
-  <div></div>
-  <div></div>
-  <div>because</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>ill.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>wish</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>could've</div>
-  <div></div>
-  <div></div>
-  <div>seen</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>projects</div>
-  <div></div>
-  <div></div>
-  <div>last</div>
-  <div></div>
-  <div></div>
-  <div>year's</div>
-  <div></div>
-  <div></div>
-  <div>students</div>
-  <div></div>
-  <div></div>
-  <div>did.</div>
+  <div>I wish we could've seen the projects last year's students did.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">13.</div>
   <div><strong>TOM:</strong></div>
-  <div>M</div>
+  <div>Mm.</div>
   <div></div>
   <div></div>
-  <div>m.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>suppose</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>want</div>
-  <div></div>
-  <div></div>
-  <div>us</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>our</div>
-  <div></div>
-  <div></div>
-  <div>own</div>
-  <div></div>
-  <div></div>
-  <div>thing,</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>copy.</div>
+  <div>I suppose they want us to do our own thing, not copy.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">14.</div>
   <div><strong>JESS:</strong></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>ave</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>drafted</div>
-  <div></div>
-  <div></div>
-  <div>your</div>
-  <div></div>
-  <div></div>
-  <div>proposal</div>
-  <div></div>
-  <div></div>
-  <div>yet?</div>
+  <div>Have you drafted your proposal yet?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">15.</div>
   <div><strong>TOM:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>es,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>haven't</div>
-  <div></div>
-  <div></div>
-  <div>handed</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>in.</div>
+  <div>Yes, but I haven't handed it in.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">16.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>need</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>amend</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>parts.</div>
+  <div>I need to amend some parts.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">17.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'ve</div>
-  <div></div>
-  <div></div>
-  <div>realised</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>notes</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>research</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>almost</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>descriptions,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>haven't</div>
-  <div></div>
-  <div></div>
-  <div>actually</div>
-  <div></div>
-  <div></div>
-  <div>evaluated</div>
-  <div></div>
-  <div></div>
-  <div>anything.</div>
+  <div>I've realised the notes from my research are almost all just descriptions, I haven't actually evaluated anything.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">18.</div>
   <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'ll</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>fix</div>
-  <div></div>
-  <div></div>
-  <div>that.</div>
+  <div>So I'll have to fix that.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">19.</div>
   <div><strong>JESS:</strong></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>h,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>didn't</div>
-  <div></div>
-  <div></div>
-  <div>know</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>that.</div>
+  <div>Oh, I didn't know we had to do that.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">20.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'ll</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>look</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>too.</div>
+  <div>I'll have to look at that too.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">21.</div>
   <div></div>
-  <div>D</div>
-  <div></div>
-  <div></div>
-  <div>id</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>timeline</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>project?</div>
+  <div>Did you do a timeline for the project?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">22.</div>
   <div><strong>TOM:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>es,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>mind</div>
-  <div></div>
-  <div></div>
-  <div>map.</div>
+  <div>Yes, and a mind map.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">23.</div>
   <div><strong>JESS:</strong></div>
-  <div>Y</div>
+  <div>Yeah, so did I.</div>
   <div></div>
   <div></div>
-  <div>eah,</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>did</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>quite</div>
-  <div></div>
-  <div></div>
-  <div>enjoyed</div>
-  <div></div>
-  <div></div>
-  <div>that.</div>
+  <div>I quite enjoyed that.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">24.</div>
   <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>hard</div>
-  <div></div>
-  <div></div>
-  <div>having</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>explain</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>basis</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>decisions</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>action</div>
-  <div></div>
-  <div></div>
-  <div>plan.</div>
+  <div>But it was hard having to explain the basis for my decisions in my action plan.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">25.</div>
   <div><strong>TOM:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hat?</div>
+  <div>What?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">26.</div>
   <div><strong>JESS:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>ou</div>
-  <div></div>
-  <div></div>
-  <div>know,</div>
-  <div></div>
-  <div></div>
-  <div>give</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>rationale.</div>
+  <div>You know, give a rationale.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">27.</div>
   <div><strong>TOM:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>didn't</div>
-  <div></div>
-  <div></div>
-  <div>realise</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>that.</div>
+  <div>I didn't realise we had to do that.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">28.</div>
   <div></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>add</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>now.</div>
+  <div>OK, I can add it now.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">29.</div>
   <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'ve</div>
-  <div></div>
-  <div></div>
-  <div>done</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>video</div>
-  <div></div>
-  <div></div>
-  <div>diary</div>
-  <div></div>
-  <div></div>
-  <div>presentation,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>worked</div>
-  <div></div>
-  <div></div>
-  <div>out</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>want</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>outcome</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>project.</div>
+  <div>And I've done the video diary presentation, and worked out what I want my outcome to be in the project.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">30.</div>
   <div><strong>JESS:</strong></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>omeone</div>
-  <div></div>
-  <div></div>
-  <div>told</div>
-  <div></div>
-  <div></div>
-  <div>me</div>
-  <div></div>
-  <div></div>
-  <div>it's</div>
-  <div></div>
-  <div></div>
-  <div>best</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>too</div>
-  <div></div>
-  <div></div>
-  <div>precise</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>your</div>
-  <div></div>
-  <div></div>
-  <div>actual</div>
-  <div></div>
-  <div></div>
-  <div>outcome</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>stage,</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>scope</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>explore</div>
-  <div></div>
-  <div></div>
-  <div>your</div>
-  <div></div>
-  <div></div>
-  <div>ideas</div>
-  <div></div>
-  <div></div>
-  <div>later</div>
-  <div></div>
-  <div></div>
-  <div>on.</div>
+  <div>Someone told me it's best not to be too precise about your actual outcome at this stage, so you have more scope to explore your ideas later on.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">31.</div>
   <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'m</div>
-  <div></div>
-  <div></div>
-  <div>going</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>go</div>
-  <div></div>
-  <div></div>
-  <div>back</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>proposal</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>make</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>bit</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>vague.</div>
+  <div>So I'm going to go back to my proposal to make it a bit more vague.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">32.</div>
   <div><strong>TOM:</strong></div>
-  <div>R</div>
+  <div>Really?</div>
   <div></div>
   <div></div>
-  <div>eally?</div>
-  <div></div>
-  <div></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'ll</div>
-  <div></div>
-  <div></div>
-  <div>change</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>too</div>
-  <div></div>
-  <div></div>
-  <div>then.</div>
+  <div>OK, I'll change that too then.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">33.</div>
   <div><strong>TOM:</strong></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>ne</div>
-  <div></div>
-  <div></div>
-  <div>part</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>project</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'m</div>
-  <div></div>
-  <div></div>
-  <div>unsure</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>where</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>choose</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>paintings</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>birds</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>say</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>mean</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>us.</div>
+  <div>One part of the project I'm unsure about is where we choose some paintings of birds and say what they mean to us.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">34.</div>
   <div></div>
-  <div>L</div>
-  <div></div>
-  <div></div>
-  <div>ike,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>chose</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>painting</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>falcon</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>L</div>
-  <div></div>
-  <div></div>
-  <div>andseer.</div>
+  <div>Like, I chose a painting of a falcon by Landseer.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">35.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>because</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>bird's</div>
-  <div></div>
-  <div></div>
-  <div>standing</div>
-  <div></div>
-  <div></div>
-  <div>there</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>his</div>
-  <div></div>
-  <div></div>
-  <div>head</div>
-  <div></div>
-  <div></div>
-  <div>turned</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>side,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>seems</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>staring</div>
-  <div></div>
-  <div></div>
-  <div>straight</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>you.</div>
+  <div>I like it because the bird's standing there with his head turned to one side, but he seems to be staring straight at you.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">36.</div>
   <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>can't</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>say</div>
-  <div></div>
-  <div></div>
-  <div>it's</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>bit</div>
-  <div></div>
-  <div></div>
-  <div>scary,</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>?</div>
+  <div>But I can't just say it's a bit scary, can I?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">37.</div>
   <div><strong>JESS:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>ou</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>talk</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>possible</div>
-  <div></div>
-  <div></div>
-  <div>danger</div>
-  <div></div>
-  <div></div>
-  <div>suggested</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>bird's</div>
-  <div></div>
-  <div></div>
-  <div>look.</div>
+  <div>You could talk about the possible danger suggested by the bird's look.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">38.</div>
   <div><strong>TOM:</strong></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>h,</div>
-  <div></div>
-  <div></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
+  <div>Oh, OK.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">39.</div>
   <div><strong>JESS:</strong></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>here's</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>picture</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>fish</div>
-  <div></div>
-  <div></div>
-  <div>hawk</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>udubon</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>like.</div>
+  <div>There's a picture of a fish hawk by Audubon I like.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">40.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t's</div>
-  <div></div>
-  <div></div>
-  <div>swooping</div>
-  <div></div>
-  <div></div>
-  <div>over</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>water</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>fish</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>its</div>
-  <div></div>
-  <div></div>
-  <div>talons,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>great</div>
-  <div></div>
-  <div></div>
-  <div>black</div>
-  <div></div>
-  <div></div>
-  <div>wings</div>
-  <div></div>
-  <div></div>
-  <div>which</div>
-  <div></div>
-  <div></div>
-  <div>take</div>
-  <div></div>
-  <div></div>
-  <div>up</div>
-  <div></div>
-  <div></div>
-  <div>most</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>picture.</div>
+  <div>It's swooping over the water with a fish in its talons, and with great black wings which take up most of the picture.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">41.</div>
   <div><strong>TOM:</strong></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>discuss</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>relation</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>predators</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>chains?</div>
+  <div>So you could discuss it in relation to predators and food chains?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">42.</div>
   <div><strong>JESS:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>ell</div>
-  <div></div>
-  <div></div>
-  <div>actually</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'ll</div>
-  <div></div>
-  <div></div>
-  <div>concentrate</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>impression</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>rapid</div>
-  <div></div>
-  <div></div>
-  <div>motion</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>gives.</div>
+  <div>Well actually I think I'll concentrate on the impression of rapid motion it gives.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">43.</div>
   <div><strong>TOM:</strong></div>
-  <div>R</div>
-  <div></div>
-  <div></div>
-  <div>ight.</div>
+  <div>Right.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">44.</div>
   <div><strong>JESS:</strong></div>
-  <div>D</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>know</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>picture</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>kingfisher</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>van</div>
-  <div></div>
-  <div></div>
-  <div>G</div>
-  <div></div>
-  <div></div>
-  <div>ogh</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>it's</div>
-  <div></div>
-  <div></div>
-  <div>perching</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>reed</div>
-  <div></div>
-  <div></div>
-  <div>growing</div>
-  <div></div>
-  <div></div>
-  <div>near</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>stream.</div>
+  <div>Do you know that picture of a kingfisher by van Gogh – it's perching on a reed growing near a stream.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">45.</div>
   <div><strong>TOM:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>es</div>
-  <div></div>
-  <div></div>
-  <div>it's</div>
-  <div></div>
-  <div></div>
-  <div>got</div>
-  <div></div>
-  <div></div>
-  <div>these</div>
-  <div></div>
-  <div></div>
-  <div>beautiful</div>
-  <div></div>
-  <div></div>
-  <div>blue</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>red</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>black</div>
-  <div></div>
-  <div></div>
-  <div>shades.</div>
+  <div>Yes it's got these beautiful blue and red and black shades.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">46.</div>
   <div><strong>JESS:</strong></div>
-  <div>M</div>
+  <div>Mm hm.</div>
   <div></div>
   <div></div>
-  <div>m</div>
-  <div></div>
-  <div></div>
-  <div>hm.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'ve</div>
-  <div></div>
-  <div></div>
-  <div>actually</div>
-  <div></div>
-  <div></div>
-  <div>chosen</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>because</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>saw</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>real</div>
-  <div></div>
-  <div></div>
-  <div>kingfisher</div>
-  <div></div>
-  <div></div>
-  <div>once</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>little,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>out</div>
-  <div></div>
-  <div></div>
-  <div>walking</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>grandfather,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'ve</div>
-  <div></div>
-  <div></div>
-  <div>never</div>
-  <div></div>
-  <div></div>
-  <div>forgotten</div>
-  <div></div>
-  <div></div>
-  <div>it.</div>
+  <div>I've actually chosen it because I saw a real kingfisher once when I was little, I was out walking with my grandfather, and I've never forgotten it.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">47.</div>
   <div><strong>TOM:</strong></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>personal</div>
-  <div></div>
-  <div></div>
-  <div>link?</div>
+  <div>So we can use a personal link?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">48.</div>
   <div><strong>JESS:</strong></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>ure.</div>
+  <div>Sure.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">49.</div>
   <div><strong>TOM:</strong></div>
-  <div>O</div>
+  <div>OK.</div>
   <div></div>
   <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>here's</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>portrait</div>
-  <div></div>
-  <div></div>
-  <div>called</div>
-  <div></div>
-  <div></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>illiam</div>
-  <div></div>
-  <div></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>ells,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>can't</div>
-  <div></div>
-  <div></div>
-  <div>remember</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>artist</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>it's</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>middle-aged</div>
-  <div></div>
-  <div></div>
-  <div>man</div>
-  <div></div>
-  <div></div>
-  <div>who's</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>shot</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>bird.</div>
+  <div>There's a portrait called William Wells, I can't remember the artist but it's a middle-aged man who's just shot a bird.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">50.</div>
   <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>his</div>
-  <div></div>
-  <div></div>
-  <div>expression,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>way</div>
-  <div></div>
-  <div></div>
-  <div>he's</div>
-  <div></div>
-  <div></div>
-  <div>holding</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>bird</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>his</div>
-  <div></div>
-  <div></div>
-  <div>hand</div>
-  <div></div>
-  <div></div>
-  <div>suggests</div>
-  <div></div>
-  <div></div>
-  <div>he's</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>sure</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>he's</div>
-  <div></div>
-  <div></div>
-  <div>done.</div>
+  <div>And his expression, and the way he's holding the bird in his hand suggests he's not sure about what he's done.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">51.</div>
   <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>me</div>
-  <div></div>
-  <div></div>
-  <div>it's</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>ambiguous</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>way</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>exploit</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>natural</div>
-  <div></div>
-  <div></div>
-  <div>world.</div>
+  <div>To me it's about how ambiguous people are in the way they exploit the natural world.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">52.</div>
   <div><strong>JESS:</strong></div>
-  <div>I</div>
+  <div>Interesting.</div>
   <div></div>
   <div></div>
-  <div>nteresting.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>here's</div>
-  <div></div>
-  <div></div>
-  <div>G</div>
-  <div></div>
-  <div></div>
-  <div>auguin's</div>
-  <div></div>
-  <div></div>
-  <div>picture</div>
-  <div></div>
-  <div></div>
-  <div>V</div>
-  <div></div>
-  <div></div>
-  <div>airumati.</div>
+  <div>There's Gauguin's picture Vairumati.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">53.</div>
   <div></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>e</div>
-  <div></div>
-  <div></div>
-  <div>did</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>ahiti.</div>
+  <div>He did it in Tahiti.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">54.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t's</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>woman</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>white</div>
-  <div></div>
-  <div></div>
-  <div>bird</div>
-  <div></div>
-  <div></div>
-  <div>behind</div>
-  <div></div>
-  <div></div>
-  <div>her</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>eating</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>lizard,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>'m</div>
-  <div></div>
-  <div></div>
-  <div>interested</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>idea</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>bird</div>
-  <div></div>
-  <div></div>
-  <div>refers</div>
-  <div></div>
-  <div></div>
-  <div>to.</div>
+  <div>It's a woman with a white bird behind her that is eating a lizard, and what I'm interested in is what idea this bird refers to.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">55.</div>
   <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>pparently,</div>
-  <div></div>
-  <div></div>
-  <div>it's</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>reference</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>never-ending</div>
-  <div></div>
-  <div></div>
-  <div>cycle</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>existence.</div>
+  <div>Apparently, it's a reference to the never-ending cycle of existence.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">56.</div>
   <div><strong>TOM:</strong></div>
-  <div>W</div>
+  <div>Wow.</div>
   <div></div>
   <div></div>
-  <div>ow.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>chose</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>portrait</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>little</div>
-  <div></div>
-  <div></div>
-  <div>boy,</div>
-  <div></div>
-  <div></div>
-  <div>G</div>
-  <div></div>
-  <div></div>
-  <div>iovanni</div>
-  <div></div>
-  <div></div>
-  <div>de</div>
-  <div></div>
-  <div></div>
-  <div>M</div>
-  <div></div>
-  <div></div>
-  <div>edici.</div>
+  <div>I chose a portrait of a little boy, Giovanni de Medici.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">57.</div>
   <div></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>e's</div>
-  <div></div>
-  <div></div>
-  <div>holding</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>tiny</div>
-  <div></div>
-  <div></div>
-  <div>bird</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>fist.</div>
+  <div>He's holding a tiny bird in one fist.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">58.</div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>way</div>
-  <div></div>
-  <div></div>
-  <div>he's</div>
-  <div></div>
-  <div></div>
-  <div>holding</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>carefully</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>doesn't</div>
-  <div></div>
-  <div></div>
-  <div>hurt</div>
-  <div></div>
-  <div></div>
-  <div>it.</div>
+  <div>I like the way he's holding it carefully so he doesn't hurt it.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">59.</div>
   <div><strong>JESS:</strong></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>h</div>
-  <div></div>
-  <div></div>
-  <div>right.</div>
+  <div>Ah right.</div>
 </div>

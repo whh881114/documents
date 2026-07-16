@@ -9,2410 +9,277 @@
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">1.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>haven’t</div>
-  <div></div>
-  <div></div>
-  <div>seen</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>bit,</div>
-  <div></div>
-  <div></div>
-  <div>M</div>
-  <div></div>
-  <div></div>
-  <div>arie.</div>
+  <div>I haven’t seen you for a bit, Marie.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">2.</div>
   <div><strong>MARIE:</strong></div>
-  <div>N</div>
+  <div>No.</div>
   <div></div>
   <div></div>
-  <div>o.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’ve</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>busy</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>project.</div>
+  <div>I’ve been busy with my project.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">3.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>Y</div>
+  <div>You’re making a vegan alternative to eggs, aren’t you?</div>
   <div></div>
   <div></div>
-  <div>ou’re</div>
-  <div></div>
-  <div></div>
-  <div>making</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>vegan</div>
-  <div></div>
-  <div></div>
-  <div>alternative</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>eggs,</div>
-  <div></div>
-  <div></div>
-  <div>aren’t</div>
-  <div></div>
-  <div></div>
-  <div>you?</div>
-  <div></div>
-  <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>omething</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>doesn’t</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>animal</div>
-  <div></div>
-  <div></div>
-  <div>products?</div>
+  <div>Something that doesn’t use animal products?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">4.</div>
   <div><strong>MARIE:</strong></div>
-  <div>Y</div>
+  <div>Yes.</div>
   <div></div>
   <div></div>
-  <div>es.</div>
+  <div>I’m using chickpeas.</div>
   <div></div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’m</div>
-  <div></div>
-  <div></div>
-  <div>using</div>
-  <div></div>
-  <div></div>
-  <div>chickpeas.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>two</div>
-  <div></div>
-  <div></div>
-  <div>main</div>
-  <div></div>
-  <div></div>
-  <div>aims</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>first</div>
-  <div></div>
-  <div></div>
-  <div>started</div>
-  <div></div>
-  <div></div>
-  <div>looking</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>alternative</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>eggs,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>actually</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’ve</div>
-  <div></div>
-  <div></div>
-  <div>found</div>
-  <div></div>
-  <div></div>
-  <div>chickpeas</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>got</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>advantages.</div>
+  <div>I had two main aims when I first started looking for an alternative to eggs, but actually I’ve found chickpeas have got more advantages.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">5.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>R</div>
-  <div></div>
-  <div></div>
-  <div>ight.</div>
+  <div>Right.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">6.</div>
   <div><strong>MARIE:</strong></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>your</div>
-  <div></div>
-  <div></div>
-  <div>project</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>reusing</div>
-  <div></div>
-  <div></div>
-  <div>waste</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>looking</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>bread,</div>
-  <div></div>
-  <div></div>
-  <div>weren’t</div>
-  <div></div>
-  <div></div>
-  <div>you?</div>
+  <div>But how about your project on reusing waste food – you were looking at bread, weren’t you?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">7.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>Y</div>
+  <div>Yes.</div>
   <div></div>
   <div></div>
-  <div>es.</div>
+  <div>It’s been hard work, but I’ve enjoyed it.</div>
   <div></div>
   <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t’s</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>hard</div>
-  <div></div>
-  <div></div>
-  <div>work,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’ve</div>
-  <div></div>
-  <div></div>
-  <div>enjoyed</div>
-  <div></div>
-  <div></div>
-  <div>it.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>basic</div>
-  <div></div>
-  <div></div>
-  <div>process</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>quite</div>
-  <div></div>
-  <div></div>
-  <div>straightforward</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>breaking</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>stale</div>
-  <div></div>
-  <div></div>
-  <div>bread</div>
-  <div></div>
-  <div></div>
-  <div>down</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>paste</div>
-  <div></div>
-  <div></div>
-  <div>then</div>
-  <div></div>
-  <div></div>
-  <div>reforming</div>
-  <div></div>
-  <div></div>
-  <div>it.</div>
+  <div>The basic process was quite straightforward – breaking the stale bread down to a paste then reforming it.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">8.</div>
   <div><strong>MARIE:</strong></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>using</div>
-  <div></div>
-  <div></div>
-  <div>3-D</div>
-  <div></div>
-  <div></div>
-  <div>printing,</div>
-  <div></div>
-  <div></div>
-  <div>weren’t</div>
-  <div></div>
-  <div></div>
-  <div>you,</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>make</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>paste</div>
-  <div></div>
-  <div></div>
-  <div>into</div>
-  <div></div>
-  <div></div>
-  <div>biscuits?</div>
+  <div>But you were using 3-D printing, weren’t you, to make the paste into biscuits?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">9.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>eah,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’d</div>
-  <div></div>
-  <div></div>
-  <div>used</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>before,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>project,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>time</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>play</div>
-  <div></div>
-  <div></div>
-  <div>around</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>different</div>
-  <div></div>
-  <div></div>
-  <div>patterns</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>biscuits</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>finding</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>add</div>
-  <div></div>
-  <div></div>
-  <div>fruit</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>vegetables</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>make</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>appetising</div>
-  <div></div>
-  <div></div>
-  <div>colour,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>really</div>
-  <div></div>
-  <div></div>
-  <div>pleased</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>managed</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>produce.</div>
+  <div>Yeah, I’d used that before, but in this project, I had time to play around with different patterns for the biscuits and finding how I could add fruit and vegetables to make them a more appetising colour, and I was really pleased with what I managed to produce.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">10.</div>
   <div><strong>MARIE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t</div>
-  <div></div>
-  <div></div>
-  <div>must’ve</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>great</div>
-  <div></div>
-  <div></div>
-  <div>feeling</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>make</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>appetising</div>
-  <div></div>
-  <div></div>
-  <div>out</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>bits</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>old</div>
-  <div></div>
-  <div></div>
-  <div>bread</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>would’ve</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>thrown</div>
-  <div></div>
-  <div></div>
-  <div>away</div>
-  <div></div>
-  <div></div>
-  <div>otherwise.</div>
+  <div>It must’ve been a great feeling to make something appetising out of bits of old bread that would’ve been thrown away otherwise.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">11.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>I</div>
+  <div>It was.</div>
   <div></div>
   <div></div>
-  <div>t</div>
+  <div>And I’m hoping that some of the restaurants in town will be interested in the biscuits.</div>
   <div></div>
   <div></div>
-  <div>was.</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’m</div>
-  <div></div>
-  <div></div>
-  <div>hoping</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>restaurants</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>town</div>
-  <div></div>
-  <div></div>
-  <div>will</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>interested</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>biscuits.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’m</div>
-  <div></div>
-  <div></div>
-  <div>going</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>send</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>samples.</div>
+  <div>I’m going to send them some samples.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">12.</div>
   <div><strong>MARIE:</strong></div>
-  <div>I</div>
+  <div>I came across something on the internet yesterday that might interest you.</div>
   <div></div>
   <div></div>
-  <div>came</div>
-  <div></div>
-  <div></div>
-  <div>across</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>internet</div>
-  <div></div>
-  <div></div>
-  <div>yesterday</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>might</div>
-  <div></div>
-  <div></div>
-  <div>interest</div>
-  <div></div>
-  <div></div>
-  <div>you.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>company</div>
-  <div></div>
-  <div></div>
-  <div>that’s</div>
-  <div></div>
-  <div></div>
-  <div>developed</div>
-  <div></div>
-  <div></div>
-  <div>touch-sensitive</div>
-  <div></div>
-  <div></div>
-  <div>sensors</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>labels.</div>
+  <div>It was a company that’s developed touch-sensitive sensors for food labels.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">13.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>M</div>
-  <div></div>
-  <div></div>
-  <div>mm?</div>
+  <div>Mmm?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">14.</div>
   <div><strong>MARIE:</strong></div>
-  <div>I</div>
+  <div>It’s a special sort of label on the food package.</div>
   <div></div>
   <div></div>
-  <div>t’s</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>special</div>
-  <div></div>
-  <div></div>
-  <div>sort</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>label</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>package.</div>
-  <div></div>
-  <div></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hen</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>label’s</div>
-  <div></div>
-  <div></div>
-  <div>smooth,</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>fresh</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>then</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>feel</div>
-  <div></div>
-  <div></div>
-  <div>bumps</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>label,</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>means</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>food’s</div>
-  <div></div>
-  <div></div>
-  <div>gone</div>
-  <div></div>
-  <div></div>
-  <div>bad.</div>
+  <div>When the label’s smooth, the food is fresh and then when you can feel bumps on the label, that means the food’s gone bad.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">15.</div>
   <div><strong>MARIE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t</div>
-  <div></div>
-  <div></div>
-  <div>started</div>
-  <div></div>
-  <div></div>
-  <div>off</div>
-  <div></div>
-  <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>project</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>help</div>
-  <div></div>
-  <div></div>
-  <div>visually</div>
-  <div></div>
-  <div></div>
-  <div>impaired</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>know</div>
-  <div></div>
-  <div></div>
-  <div>whether</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>fit</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>eat</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>not.</div>
+  <div>It started off as a project to help visually impaired people know whether food was fit to eat or not.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">16.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>I</div>
+  <div>Interesting.</div>
   <div></div>
   <div></div>
-  <div>nteresting.</div>
-  <div></div>
-  <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>solid</div>
-  <div></div>
-  <div></div>
-  <div>food?</div>
+  <div>So just solid food?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">17.</div>
   <div><strong>MARIE:</strong></div>
-  <div>N</div>
+  <div>No, things like milk and juice as well.</div>
   <div></div>
   <div></div>
-  <div>o,</div>
-  <div></div>
-  <div></div>
-  <div>things</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>milk</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>juice</div>
-  <div></div>
-  <div></div>
-  <div>as</div>
-  <div></div>
-  <div></div>
-  <div>well.</div>
-  <div></div>
-  <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>actually,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>thought</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>might</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>really</div>
-  <div></div>
-  <div></div>
-  <div>good</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>drug</div>
-  <div></div>
-  <div></div>
-  <div>storage</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>hospitals</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>pharmacies.</div>
+  <div>But actually, I thought it might be really good for drug storage in hospitals and pharmacies.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">18.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>R</div>
+  <div>Right.</div>
   <div></div>
   <div></div>
-  <div>ight.</div>
+  <div>And coming back to food, maybe it’d be possible to use it for other things besides freshness.</div>
   <div></div>
   <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>coming</div>
-  <div></div>
-  <div></div>
-  <div>back</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>food,</div>
-  <div></div>
-  <div></div>
-  <div>maybe</div>
-  <div></div>
-  <div></div>
-  <div>it’d</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>possible</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>other</div>
-  <div></div>
-  <div></div>
-  <div>things</div>
-  <div></div>
-  <div></div>
-  <div>besides</div>
-  <div></div>
-  <div></div>
-  <div>freshness.</div>
-  <div></div>
-  <div></div>
-  <div>L</div>
-  <div></div>
-  <div></div>
-  <div>ike</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>many</div>
-  <div></div>
-  <div></div>
-  <div>kilograms</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>joint</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>meat</div>
-  <div></div>
-  <div></div>
-  <div>is,</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>example.</div>
+  <div>Like how many kilograms a joint of meat is, for example.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">19.</div>
   <div><strong>MARIE:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>es,</div>
-  <div></div>
-  <div></div>
-  <div>there’s</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>sorts</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>possibilities.</div>
+  <div>Yes, there’s all sorts of possibilities.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">20.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>reading</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>article</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>trends</div>
-  <div></div>
-  <div></div>
-  <div>predicting</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>eating</div>
-  <div></div>
-  <div></div>
-  <div>habits</div>
-  <div></div>
-  <div></div>
-  <div>might</div>
-  <div></div>
-  <div></div>
-  <div>change</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>next</div>
-  <div></div>
-  <div></div>
-  <div>few</div>
-  <div></div>
-  <div></div>
-  <div>years.</div>
+  <div>I was reading an article about food trends predicting how eating habits might change in the next few years.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">21.</div>
   <div><strong>MARIE:</strong></div>
-  <div>O</div>
+  <div>Oh – things like more focus on local products?</div>
   <div></div>
   <div></div>
-  <div>h</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>things</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>focus</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>local</div>
-  <div></div>
-  <div></div>
-  <div>products?</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>seems</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>obvious,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>shops</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>still</div>
-  <div></div>
-  <div></div>
-  <div>full</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>imported</div>
-  <div></div>
-  <div></div>
-  <div>foods.</div>
+  <div>That seems so obvious, but the shops are still full of imported foods.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">22.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>es,</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>need</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>proactive</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>address</div>
-  <div></div>
-  <div></div>
-  <div>that.</div>
+  <div>Yes, they need to be more proactive to address that.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">23.</div>
   <div><strong>MARIE:</strong></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>somehow</div>
-  <div></div>
-  <div></div>
-  <div>motivate</div>
-  <div></div>
-  <div></div>
-  <div>consumers</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>change,</div>
-  <div></div>
-  <div></div>
-  <div>yes.</div>
+  <div>And somehow motivate consumers to change, yes.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">24.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>O</div>
+  <div>One thing everyone’s aware of is the need for a reduction in unnecessary packaging – but just about everything you buy in supermarkets is still covered in plastic.</div>
   <div></div>
   <div></div>
-  <div>ne</div>
-  <div></div>
-  <div></div>
-  <div>thing</div>
-  <div></div>
-  <div></div>
-  <div>everyone’s</div>
-  <div></div>
-  <div></div>
-  <div>aware</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>need</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>reduction</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>unnecessary</div>
-  <div></div>
-  <div></div>
-  <div>packaging</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>everything</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>buy</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>supermarkets</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>still</div>
-  <div></div>
-  <div></div>
-  <div>covered</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>plastic.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>government</div>
-  <div></div>
-  <div></div>
-  <div>needs</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>it.</div>
+  <div>The government needs to do something about it.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">25.</div>
   <div><strong>MARIE:</strong></div>
-  <div>A</div>
+  <div>Absolutely.</div>
   <div></div>
   <div></div>
-  <div>bsolutely.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t’s</div>
-  <div></div>
-  <div></div>
-  <div>got</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>change.</div>
+  <div>It’s got to change.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">26.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>D</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>there’ll</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>interest</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>gluten-</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>lactose-free</div>
-  <div></div>
-  <div></div>
-  <div>food?</div>
+  <div>Do you think there’ll be more interest in gluten- and lactose-free food?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">27.</div>
   <div><strong>MARIE:</strong></div>
-  <div>F</div>
+  <div>For people with allergies or food intolerances?</div>
   <div></div>
   <div></div>
-  <div>or</div>
+  <div>I don’t know.</div>
   <div></div>
   <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>allergies</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>intolerances?</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>know.</div>
-  <div></div>
-  <div></div>
-  <div>L</div>
-  <div></div>
-  <div></div>
-  <div>ots</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>know</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>buying</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>type</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>food</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>years</div>
-  <div></div>
-  <div></div>
-  <div>now.</div>
+  <div>Lots of people I know  have been buying that type of food for years now.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">28.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>es,</div>
-  <div></div>
-  <div></div>
-  <div>even</div>
-  <div></div>
-  <div></div>
-  <div>if</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>haven’t</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>diagnosed</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>allergy.</div>
+  <div>Yes, even if they haven’t been diagnosed with an allergy.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">29.</div>
   <div><strong>MARIE:</strong></div>
-  <div>T</div>
+  <div>That’s right.</div>
   <div></div>
   <div></div>
-  <div>hat’s</div>
-  <div></div>
-  <div></div>
-  <div>right.</div>
-  <div></div>
-  <div></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>ne</div>
-  <div></div>
-  <div></div>
-  <div>thing</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’ve</div>
-  <div></div>
-  <div></div>
-  <div>noticed</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>number</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>branded</div>
-  <div></div>
-  <div></div>
-  <div>products</div>
-  <div></div>
-  <div></div>
-  <div>related</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>celebrity</div>
-  <div></div>
-  <div></div>
-  <div>chefs</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>watch</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>cooking</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>V</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>then</div>
-  <div></div>
-  <div></div>
-  <div>buy</div>
-  <div></div>
-  <div></div>
-  <div>things</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>spice</div>
-  <div></div>
-  <div></div>
-  <div>mixes</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>frozen</div>
-  <div></div>
-  <div></div>
-  <div>foods</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>chef’s</div>
-  <div></div>
-  <div></div>
-  <div>name</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
+  <div>One thing I’ve noticed is the number of branded products related to celebrity chefs – people watch them cooking on TV and then buy things like spice mixes or frozen foods with the chef’s name on . . .</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">30.</div>
   <div><strong>MARIE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>bought</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>once,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>won’t</div>
-  <div></div>
-  <div></div>
-  <div>again.</div>
+  <div>I bought something like that  once, but I won’t again.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">31.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>eah</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>bought</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>ready-made</div>
-  <div></div>
-  <div></div>
-  <div>spice</div>
-  <div></div>
-  <div></div>
-  <div>mix</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>chicken</div>
-  <div></div>
-  <div></div>
-  <div>which</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>supposed</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>used</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>chef</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’d</div>
-  <div></div>
-  <div></div>
-  <div>seen</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>television,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>didn’t</div>
-  <div></div>
-  <div></div>
-  <div>actually</div>
-  <div></div>
-  <div></div>
-  <div>taste</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>anything.</div>
+  <div>Yeah – I bought a ready-made spice mix for chicken which was supposed to be used by a chef I’d seen on television, and it didn’t actually taste of anything.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">32.</div>
   <div><strong>MARIE:</strong></div>
-  <div>M</div>
+  <div>Mm.</div>
   <div></div>
   <div></div>
-  <div>m.</div>
-  <div></div>
-  <div></div>
-  <div>D</div>
-  <div></div>
-  <div></div>
-  <div>id</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>article</div>
-  <div></div>
-  <div></div>
-  <div>mention</div>
-  <div></div>
-  <div></div>
-  <div>‘ghost</div>
-  <div></div>
-  <div></div>
-  <div>kitchens’</div>
-  <div></div>
-  <div></div>
-  <div>used</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>produce</div>
-  <div></div>
-  <div></div>
-  <div>takeaway</div>
-  <div></div>
-  <div></div>
-  <div>food?</div>
+  <div>Did the article mention ‘ghost kitchens’ used to produce takeaway food?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">33.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>N</div>
+  <div>No.</div>
   <div></div>
   <div></div>
-  <div>o.</div>
-  <div></div>
-  <div></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>they?</div>
+  <div>What are they?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">34.</div>
   <div><strong>MARIE:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>ell,</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>might</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>name</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>restaurant,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>actually</div>
-  <div></div>
-  <div></div>
-  <div>they’re</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>cooking</div>
-  <div></div>
-  <div></div>
-  <div>facility</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>delivery</div>
-  <div></div>
-  <div></div>
-  <div>meals</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>public</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>ever</div>
-  <div></div>
-  <div></div>
-  <div>go</div>
-  <div></div>
-  <div></div>
-  <div>there.</div>
+  <div>Well, they might have the name of a restaurant, but actually they’re a cooking facility just for delivery meals – the public don’t ever go there.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">35.</div>
   <div><strong>MARIE:</strong></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>aren’t</div>
-  <div></div>
-  <div></div>
-  <div>aware</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>it’s</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>kept</div>
-  <div></div>
-  <div></div>
-  <div>very</div>
-  <div></div>
-  <div></div>
-  <div>quiet.</div>
+  <div>But people aren’t aware of that  – it’s all kept very quiet.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">36.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>realise</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>food’s</div>
-  <div></div>
-  <div></div>
-  <div>not</div>
-  <div></div>
-  <div></div>
-  <div>actually</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>restaurant?</div>
+  <div>So people don’t realise the food’s not actually from the restaurant?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">37.</div>
   <div><strong>MARIE:</strong></div>
-  <div>R</div>
-  <div></div>
-  <div></div>
-  <div>ight.</div>
+  <div>Right.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">38.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>D</div>
+  <div>Did you know more and more people are using all sorts of different mushrooms now, to treat different health concerns?</div>
   <div></div>
   <div></div>
-  <div>id</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>know</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>using</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>sorts</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>different</div>
-  <div></div>
-  <div></div>
-  <div>mushrooms</div>
-  <div></div>
-  <div></div>
-  <div>now,</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>treat</div>
-  <div></div>
-  <div></div>
-  <div>different</div>
-  <div></div>
-  <div></div>
-  <div>health</div>
-  <div></div>
-  <div></div>
-  <div>concerns?</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hings</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>heart</div>
-  <div></div>
-  <div></div>
-  <div>problems?</div>
+  <div>Things like heart problems?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">39.</div>
   <div><strong>MARIE:</strong></div>
-  <div>H</div>
+  <div>Hmm.</div>
   <div></div>
   <div></div>
-  <div>mm.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hey</div>
-  <div></div>
-  <div></div>
-  <div>might</div>
-  <div></div>
-  <div></div>
-  <div>betaking</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>big</div>
-  <div></div>
-  <div></div>
-  <div>risk</div>
-  <div></div>
-  <div></div>
-  <div>there.</div>
+  <div>They might betaking a big risk there.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">40.</div>
   <div><strong>COLLIN:</strong></div>
-  <div>Y</div>
+  <div>Yes, it’s hard to know which varieties are safe to eat.</div>
   <div></div>
   <div></div>
-  <div>es,</div>
-  <div></div>
-  <div></div>
-  <div>it’s</div>
-  <div></div>
-  <div></div>
-  <div>hard</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>know</div>
-  <div></div>
-  <div></div>
-  <div>which</div>
-  <div></div>
-  <div></div>
-  <div>varieties</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>safe</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>eat.</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nyway</div>
-  <div></div>
-  <div></div>
-  <div>maybe</div>
-  <div></div>
-  <div></div>
-  <div>now</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
+  <div>Anyway maybe now . . .</div>
 </div>
 
 > Note: Sentence 40 is truncated this way on the source page.

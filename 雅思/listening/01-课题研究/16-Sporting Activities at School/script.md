@@ -9,2617 +9,324 @@
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">1.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>i</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>homas,</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>are</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>enjoying</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>course</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>far?</div>
+  <div>Hi Thomas, how are you enjoying the course so far?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">2.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>eah,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>it’s</div>
-  <div></div>
-  <div></div>
-  <div>good.</div>
+  <div>Yeah, I think it’s good.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">3.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>R</div>
+  <div>Remind me – why did you decide to study sports science?</div>
   <div></div>
   <div></div>
-  <div>emind</div>
-  <div></div>
-  <div></div>
-  <div>me</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>why</div>
-  <div></div>
-  <div></div>
-  <div>did</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>decide</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>study</div>
-  <div></div>
-  <div></div>
-  <div>sports</div>
-  <div></div>
-  <div></div>
-  <div>science?</div>
-  <div></div>
-  <div></div>
-  <div>D</div>
-  <div></div>
-  <div></div>
-  <div>idn’t</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>want</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>professional</div>
-  <div></div>
-  <div></div>
-  <div>athlete</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>school?</div>
+  <div>Didn’t you want to be a professional athlete when you were at school?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">4.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>eah</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>goal,</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>classmates</div>
-  <div></div>
-  <div></div>
-  <div>assumed</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>achieve</div>
-  <div></div>
-  <div></div>
-  <div>it;</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>thought</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>brilliant.</div>
+  <div>Yeah – that was my goal, and all my classmates assumed I would achieve it; they thought I was brilliant.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">5.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>must</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>nice</div>
-  <div></div>
-  <div></div>
-  <div>feeling.</div>
+  <div>That must have been a nice feeling.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">6.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>M</div>
+  <div>Mm, I thought I could win anything.</div>
   <div></div>
   <div></div>
-  <div>m,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>thought</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>win</div>
-  <div></div>
-  <div></div>
-  <div>anything.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>here</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>no</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>who</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>run</div>
-  <div></div>
-  <div></div>
-  <div>faster</div>
-  <div></div>
-  <div></div>
-  <div>than</div>
-  <div></div>
-  <div></div>
-  <div>me.</div>
+  <div>There was no one who could run faster than me.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">7.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>E</div>
+  <div>Exactly – so what happened?</div>
   <div></div>
   <div></div>
-  <div>xactly</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>happened?</div>
-  <div></div>
-  <div></div>
-  <div>D</div>
-  <div></div>
-  <div></div>
-  <div>id</div>
-  <div></div>
-  <div></div>
-  <div>your</div>
-  <div></div>
-  <div></div>
-  <div>mum</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>dad</div>
-  <div></div>
-  <div></div>
-  <div>want</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>‘academic’?</div>
+  <div>Did your mum and dad want you to be more ‘academic’?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">8.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>N</div>
+  <div>Not at all.</div>
   <div></div>
   <div></div>
-  <div>ot</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>all.</div>
-  <div></div>
-  <div></div>
-  <div>P</div>
-  <div></div>
-  <div></div>
-  <div>erhaps</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>should</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>pushed</div>
-  <div></div>
-  <div></div>
-  <div>me</div>
-  <div></div>
-  <div></div>
-  <div>harder,</div>
-  <div></div>
-  <div></div>
-  <div>though.</div>
+  <div>Perhaps they should have pushed me harder, though.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">9.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>mean?</div>
+  <div>What do you mean?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">10.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>should</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>practised</div>
-  <div></div>
-  <div></div>
-  <div>more.</div>
+  <div>I think I should have practised more.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">11.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>makes</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>say</div>
-  <div></div>
-  <div></div>
-  <div>that?</div>
+  <div>What makes you say that?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">12.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>ell,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>went</div>
-  <div></div>
-  <div></div>
-  <div>out</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>enya</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>couple</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>weeks</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>train</div>
-  <div></div>
-  <div></div>
-  <div>…</div>
+  <div>Well, I went out to Kenya for a couple of weeks to train …</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">13.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>R</div>
+  <div>Really!</div>
   <div></div>
   <div></div>
-  <div>eally!</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>didn’t</div>
-  <div></div>
-  <div></div>
-  <div>know</div>
-  <div></div>
-  <div></div>
-  <div>that.</div>
+  <div>I didn’t know that.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">14.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>I</div>
+  <div>I was chosen to go there out of loads of kids and run with some of the top teenage athletes in the world.</div>
   <div></div>
   <div></div>
-  <div>was</div>
+  <div>And …</div>
   <div></div>
   <div></div>
-  <div>chosen</div>
+  <div>I was so calm about it.</div>
   <div></div>
   <div></div>
-  <div>to</div>
+  <div>I just kept thinking how fortunate I was.</div>
   <div></div>
   <div></div>
-  <div>go</div>
+  <div>What a great chance this was!</div>
   <div></div>
   <div></div>
-  <div>there</div>
+  <div>Everyone back home was so proud of me.</div>
   <div></div>
   <div></div>
-  <div>out</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>loads</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>kids</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>run</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>top</div>
-  <div></div>
-  <div></div>
-  <div>teenage</div>
-  <div></div>
-  <div></div>
-  <div>athletes</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>world.</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>nd</div>
-  <div></div>
-  <div></div>
-  <div>…</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>calm</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>it.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>kept</div>
-  <div></div>
-  <div></div>
-  <div>thinking</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>fortunate</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was.</div>
-  <div></div>
-  <div></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>great</div>
-  <div></div>
-  <div></div>
-  <div>chance</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>was!</div>
-  <div></div>
-  <div></div>
-  <div>E</div>
-  <div></div>
-  <div></div>
-  <div>veryone</div>
-  <div></div>
-  <div></div>
-  <div>back</div>
-  <div></div>
-  <div></div>
-  <div>home</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>proud</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>me.</div>
-  <div></div>
-  <div></div>
-  <div>B</div>
-  <div></div>
-  <div></div>
-  <div>ut</div>
-  <div></div>
-  <div></div>
-  <div>once</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>started</div>
-  <div></div>
-  <div></div>
-  <div>competing,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>very</div>
-  <div></div>
-  <div></div>
-  <div>quickly</div>
-  <div></div>
-  <div></div>
-  <div>realised</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>wasn’t</div>
-  <div></div>
-  <div></div>
-  <div>good</div>
-  <div></div>
-  <div></div>
-  <div>enough.</div>
+  <div>But once we started competing, I very quickly realised I wasn’t good enough.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">15.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>must</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>been</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>huge</div>
-  <div></div>
-  <div></div>
-  <div>shock.</div>
+  <div>That must have been a huge shock.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">16.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>I</div>
+  <div>I thought ‘this can’t be happening’!</div>
   <div></div>
   <div></div>
-  <div>thought</div>
-  <div></div>
-  <div></div>
-  <div>‘this</div>
-  <div></div>
-  <div></div>
-  <div>can’t</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>happening’!</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>used</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>winning.</div>
+  <div>I was used to winning.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">17.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’m</div>
-  <div></div>
-  <div></div>
-  <div>sorry</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>hear</div>
-  <div></div>
-  <div></div>
-  <div>that.</div>
+  <div>I’m sorry to hear that.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">18.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>I</div>
+  <div>It’s OK.</div>
   <div></div>
   <div></div>
-  <div>t’s</div>
+  <div>I’m over it now and I think it’s much better to do a university course and this one has such a variety of sports-related areas.</div>
   <div></div>
   <div></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’m</div>
-  <div></div>
-  <div></div>
-  <div>over</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>now</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>it’s</div>
-  <div></div>
-  <div></div>
-  <div>much</div>
-  <div></div>
-  <div></div>
-  <div>better</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>do</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>university</div>
-  <div></div>
-  <div></div>
-  <div>course</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>this</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>has</div>
-  <div></div>
-  <div></div>
-  <div>such</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>variety</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>sports-related</div>
-  <div></div>
-  <div></div>
-  <div>areas.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t’s</div>
-  <div></div>
-  <div></div>
-  <div>going</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>good.</div>
+  <div>It’s going to be good.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">19.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>h,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>agree</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>chose</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>because</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>that.</div>
+  <div>Oh, I agree – I chose it because of that.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">20.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>J</div>
-  <div></div>
-  <div></div>
-  <div>eanne</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>thought</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>any</div>
-  <div></div>
-  <div></div>
-  <div>ideas</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>discussion</div>
-  <div></div>
-  <div></div>
-  <div>session</div>
-  <div></div>
-  <div></div>
-  <div>next</div>
-  <div></div>
-  <div></div>
-  <div>week</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>technology</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>sport?</div>
+  <div>So Jeanne – have you thought of any ideas for the discussion session next week on technology and sport?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">21.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>e</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>cover</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>than</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>sport,</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>we?</div>
+  <div>We have to cover more than one sport, don’t we?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">22.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>eah.</div>
+  <div>Yeah.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">23.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>ou</div>
-  <div></div>
-  <div></div>
-  <div>know</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>always</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>technology</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>future,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>could</div>
-  <div></div>
-  <div></div>
-  <div>gather</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>ideas</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>past</div>
-  <div></div>
-  <div></div>
-  <div>developments</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>sport.</div>
+  <div>You know – we always think technology is about the future, but we could gather some ideas about past developments in sport.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">24.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>L</div>
+  <div>Look at early types of equipment perhaps?</div>
   <div></div>
   <div></div>
-  <div>ook</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>early</div>
-  <div></div>
-  <div></div>
-  <div>types</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>equipment</div>
-  <div></div>
-  <div></div>
-  <div>perhaps?</div>
-  <div></div>
-  <div></div>
-  <div>U</div>
-  <div></div>
-  <div></div>
-  <div>h,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>remember</div>
-  <div></div>
-  <div></div>
-  <div>reading</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>table</div>
-  <div></div>
-  <div></div>
-  <div>tennis</div>
-  <div></div>
-  <div></div>
-  <div>bats</div>
-  <div></div>
-  <div></div>
-  <div>once</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>how</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>ended</div>
-  <div></div>
-  <div></div>
-  <div>up</div>
-  <div></div>
-  <div></div>
-  <div>being</div>
-  <div></div>
-  <div></div>
-  <div>covered</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>pimpled</div>
-  <div></div>
-  <div></div>
-  <div>rubber.</div>
+  <div>Uh, I remember reading something about table tennis bats once – how they ended up being covered with pimpled rubber.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">25.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>C</div>
-  <div></div>
-  <div></div>
-  <div>os</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>wooden</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>first,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’d</div>
-  <div></div>
-  <div></div>
-  <div>imagine.</div>
+  <div>Cos they were just wooden at first, I’d imagine.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">26.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>Y</div>
+  <div>Yeah.</div>
   <div></div>
   <div></div>
-  <div>eah.</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>n</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>1920s,</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>factory</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>making</div>
-  <div></div>
-  <div></div>
-  <div>rolls</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>rubber</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>bulk</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>something</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>horse</div>
-  <div></div>
-  <div></div>
-  <div>harnesses.</div>
+  <div>In about the 1920s, a factory was making rolls of the rubber in bulk for something like horse harnesses.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">27.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>R</div>
-  <div></div>
-  <div></div>
-  <div>eally!</div>
+  <div>Really!</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">28.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>eah</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>someone</div>
-  <div></div>
-  <div></div>
-  <div>realised</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>it’d</div>
-  <div></div>
-  <div></div>
-  <div>make</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>perfect</div>
-  <div></div>
-  <div></div>
-  <div>covering</div>
-  <div></div>
-  <div></div>
-  <div>for</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>wooden</div>
-  <div></div>
-  <div></div>
-  <div>bats.</div>
+  <div>Yeah – and someone realised that it’d make a perfect covering for the wooden bats.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">29.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>S</div>
+  <div>So what about cricket – that’s had a few innovative changes.</div>
   <div></div>
   <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>what</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>cricket</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>that’s</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>few</div>
-  <div></div>
-  <div></div>
-  <div>innovative</div>
-  <div></div>
-  <div></div>
-  <div>changes.</div>
-  <div></div>
-  <div></div>
-  <div>M</div>
-  <div></div>
-  <div></div>
-  <div>aybe</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>pads</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>wear</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>their</div>
-  <div></div>
-  <div></div>
-  <div>legs?</div>
+  <div>Maybe the pads they wear on their legs?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">30.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>they’ve</div>
-  <div></div>
-  <div></div>
-  <div>changed</div>
-  <div></div>
-  <div></div>
-  <div>much</div>
-  <div></div>
-  <div></div>
-  <div>but,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>’m</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>looking</div>
-  <div></div>
-  <div></div>
-  <div>on</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>internet</div>
-  <div></div>
-  <div></div>
-  <div>…</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>says</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>first</div>
-  <div></div>
-  <div></div>
-  <div>cricket</div>
-  <div></div>
-  <div></div>
-  <div>helmet</div>
-  <div></div>
-  <div></div>
-  <div>came</div>
-  <div></div>
-  <div></div>
-  <div>in,</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>1978,</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>A</div>
-  <div></div>
-  <div></div>
-  <div>ustralian</div>
-  <div></div>
-  <div></div>
-  <div>batsman</div>
-  <div></div>
-  <div></div>
-  <div>who</div>
-  <div></div>
-  <div></div>
-  <div>first</div>
-  <div></div>
-  <div></div>
-  <div>wore</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>booed</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>jeered</div>
-  <div></div>
-  <div></div>
-  <div>by</div>
-  <div></div>
-  <div></div>
-  <div>people</div>
-  <div></div>
-  <div></div>
-  <div>watching</div>
-  <div></div>
-  <div></div>
-  <div>because</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>ugly!</div>
+  <div>I don’t think they’ve changed much but, I’m just looking on the internet … and it says that when the first cricket helmet came in, in 1978, the Australian batsman who first wore it was booed and jeered by people watching because it was so ugly!</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">31.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>W</div>
+  <div>Wow, players have to protect themselves from getting hurt!</div>
   <div></div>
   <div></div>
-  <div>ow,</div>
-  <div></div>
-  <div></div>
-  <div>players</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>protect</div>
-  <div></div>
-  <div></div>
-  <div>themselves</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>getting</div>
-  <div></div>
-  <div></div>
-  <div>hurt!</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>mean</div>
-  <div></div>
-  <div></div>
-  <div>everyone</div>
-  <div></div>
-  <div></div>
-  <div>wears</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>now.</div>
+  <div>I mean everyone wears one now.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">32.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>M</div>
-  <div></div>
-  <div></div>
-  <div>m,</div>
-  <div></div>
-  <div></div>
-  <div>unlike</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>cycle</div>
-  <div></div>
-  <div></div>
-  <div>helmet.</div>
+  <div>Mm, unlike the cycle helmet.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">33.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>ell,</div>
-  <div></div>
-  <div></div>
-  <div>unless</div>
-  <div></div>
-  <div></div>
-  <div>you’re</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>professional,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>you’re</div>
-  <div></div>
-  <div></div>
-  <div>right,</div>
-  <div></div>
-  <div></div>
-  <div>many</div>
-  <div></div>
-  <div></div>
-  <div>ordinary</div>
-  <div></div>
-  <div></div>
-  <div>bikers</div>
-  <div></div>
-  <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>wear</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>helmet.</div>
+  <div>Well, unless you’re a professional, but you’re right, many ordinary bikers don’t wear a helmet.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">34.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>H</div>
+  <div>Hey, look at these pictures of original helmet designs.</div>
   <div></div>
   <div></div>
-  <div>ey,</div>
-  <div></div>
-  <div></div>
-  <div>look</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>these</div>
-  <div></div>
-  <div></div>
-  <div>pictures</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>original</div>
-  <div></div>
-  <div></div>
-  <div>helmet</div>
-  <div></div>
-  <div></div>
-  <div>designs.</div>
-  <div></div>
-  <div></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>his</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>looks</div>
-  <div></div>
-  <div></div>
-  <div>like</div>
-  <div></div>
-  <div></div>
-  <div>an</div>
-  <div></div>
-  <div></div>
-  <div>upside-down</div>
-  <div></div>
-  <div></div>
-  <div>bowl!</div>
+  <div>This one looks like an upside-down bowl!</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">35.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>et,</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>woman’s</div>
-  <div></div>
-  <div></div>
-  <div>laughing</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>she’s</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>proud</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>wearing</div>
-  <div></div>
-  <div></div>
-  <div>it!</div>
+  <div>Yet, the woman’s laughing – she’s so proud to be wearing it!</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">36.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>t</div>
-  <div></div>
-  <div></div>
-  <div>says</div>
-  <div></div>
-  <div></div>
-  <div>serious</div>
-  <div></div>
-  <div></div>
-  <div>cyclists</div>
-  <div></div>
-  <div></div>
-  <div>ended</div>
-  <div></div>
-  <div></div>
-  <div>up</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>wet</div>
-  <div></div>
-  <div></div>
-  <div>hair</div>
-  <div></div>
-  <div></div>
-  <div>from</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>hard</div>
-  <div></div>
-  <div></div>
-  <div>exercise.</div>
+  <div>It says serious cyclists ended up with wet hair from all the hard exercise.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">37.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>guess</div>
-  <div></div>
-  <div></div>
-  <div>that’s</div>
-  <div></div>
-  <div></div>
-  <div>why</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>large</div>
-  <div></div>
-  <div></div>
-  <div>air</div>
-  <div></div>
-  <div></div>
-  <div>vents</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>now</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>skin</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>breathe</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>easily.</div>
+  <div>I guess that’s why they have large air vents in them now so that the skin can breathe more easily.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">38.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>O</div>
+  <div>OK, so we’ve done helmets.</div>
   <div></div>
   <div></div>
-  <div>K</div>
-  <div></div>
-  <div></div>
-  <div>,</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>we’ve</div>
-  <div></div>
-  <div></div>
-  <div>done</div>
-  <div></div>
-  <div></div>
-  <div>helmets.</div>
-  <div></div>
-  <div></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>golf</div>
-  <div></div>
-  <div></div>
-  <div>balls</div>
-  <div></div>
-  <div></div>
-  <div>or</div>
-  <div></div>
-  <div></div>
-  <div>better</div>
-  <div></div>
-  <div></div>
-  <div>still</div>
-  <div></div>
-  <div></div>
-  <div>golf</div>
-  <div></div>
-  <div></div>
-  <div>clubs</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>they’ve</div>
-  <div></div>
-  <div></div>
-  <div>changed</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>lot.</div>
+  <div>What about golf balls or better still golf clubs – they’ve changed a lot.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">39.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>eah</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>remember</div>
-  <div></div>
-  <div></div>
-  <div>my</div>
-  <div></div>
-  <div></div>
-  <div>great</div>
-  <div></div>
-  <div></div>
-  <div>grandfather</div>
-  <div></div>
-  <div></div>
-  <div>telling</div>
-  <div></div>
-  <div></div>
-  <div>me</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>because</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>club</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>made</div>
-  <div></div>
-  <div></div>
-  <div>entirely</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>wood,</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>easily</div>
-  <div></div>
-  <div></div>
-  <div>break</div>
-  <div></div>
-  <div></div>
-  <div>and</div>
-  <div></div>
-  <div></div>
-  <div>players</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>get</div>
-  <div></div>
-  <div></div>
-  <div>another.</div>
+  <div>Yeah – I remember my great grandfather telling me that because a club was made entirely of wood, it would easily break and players had to get another.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">40.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>here’s</div>
-  <div></div>
-  <div></div>
-  <div>no</div>
-  <div></div>
-  <div></div>
-  <div>wood</div>
-  <div></div>
-  <div></div>
-  <div>at</div>
-  <div></div>
-  <div></div>
-  <div>all</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>now,</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>there?</div>
+  <div>There’s no wood at all in them now, is there?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">41.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>N</div>
-  <div></div>
-  <div></div>
-  <div>o</div>
-  <div></div>
-  <div></div>
-  <div>–</div>
-  <div></div>
-  <div></div>
-  <div>they’re</div>
-  <div></div>
-  <div></div>
-  <div>much</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>powerful.</div>
+  <div>No – they’re much more powerful.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">42.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>T</div>
-  <div></div>
-  <div></div>
-  <div>he</div>
-  <div></div>
-  <div></div>
-  <div>same</div>
-  <div></div>
-  <div></div>
-  <div>must</div>
-  <div></div>
-  <div></div>
-  <div>be</div>
-  <div></div>
-  <div></div>
-  <div>true</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>hockey</div>
-  <div></div>
-  <div></div>
-  <div>sticks.</div>
+  <div>The same must be true of hockey sticks.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">43.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>I</div>
+  <div>I don’t think so because players still use wooden sticks today.</div>
   <div></div>
   <div></div>
-  <div>don’t</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>so</div>
-  <div></div>
-  <div></div>
-  <div>because</div>
-  <div></div>
-  <div></div>
-  <div>players</div>
-  <div></div>
-  <div></div>
-  <div>still</div>
-  <div></div>
-  <div></div>
-  <div>use</div>
-  <div></div>
-  <div></div>
-  <div>wooden</div>
-  <div></div>
-  <div></div>
-  <div>sticks</div>
-  <div></div>
-  <div></div>
-  <div>today.</div>
-  <div></div>
-  <div></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>does</div>
-  <div></div>
-  <div></div>
-  <div>say</div>
-  <div></div>
-  <div></div>
-  <div>here,</div>
-  <div></div>
-  <div></div>
-  <div>though,</div>
-  <div></div>
-  <div></div>
-  <div>is</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>game</div>
-  <div></div>
-  <div></div>
-  <div>started</div>
-  <div></div>
-  <div></div>
-  <div>you</div>
-  <div></div>
-  <div></div>
-  <div>had</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>produce</div>
-  <div></div>
-  <div></div>
-  <div>a</div>
-  <div></div>
-  <div></div>
-  <div>stick</div>
-  <div></div>
-  <div></div>
-  <div>yourself.</div>
+  <div>What it does say here, though, is that when the game started you had to produce a stick yourself.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">44.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>I</div>
+  <div>I guess they just weren’t being manufactured.</div>
   <div></div>
   <div></div>
-  <div>guess</div>
+  <div>So, one more perhaps.</div>
   <div></div>
   <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>just</div>
-  <div></div>
-  <div></div>
-  <div>weren’t</div>
-  <div></div>
-  <div></div>
-  <div>being</div>
-  <div></div>
-  <div></div>
-  <div>manufactured.</div>
-  <div></div>
-  <div></div>
-  <div>S</div>
-  <div></div>
-  <div></div>
-  <div>o,</div>
-  <div></div>
-  <div></div>
-  <div>one</div>
-  <div></div>
-  <div></div>
-  <div>more</div>
-  <div></div>
-  <div></div>
-  <div>perhaps.</div>
-  <div></div>
-  <div></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>hat</div>
-  <div></div>
-  <div></div>
-  <div>about</div>
-  <div></div>
-  <div></div>
-  <div>football?</div>
+  <div>What about football?</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">45.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>W</div>
-  <div></div>
-  <div></div>
-  <div>ell,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>know</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>first</div>
-  <div></div>
-  <div></div>
-  <div>balls</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>made</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>animal</div>
-  <div></div>
-  <div></div>
-  <div>skin.</div>
+  <div>Well, I know the first balls were made of animal skin.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">46.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>eah,</div>
-  <div></div>
-  <div></div>
-  <div>they</div>
-  <div></div>
-  <div></div>
-  <div>covered</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>with</div>
-  <div></div>
-  <div></div>
-  <div>pieces</div>
-  <div></div>
-  <div></div>
-  <div>of</div>
-  <div></div>
-  <div></div>
-  <div>leather</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>were</div>
-  <div></div>
-  <div></div>
-  <div>stitched</div>
-  <div></div>
-  <div></div>
-  <div>together,</div>
-  <div></div>
-  <div></div>
-  <div>but</div>
-  <div></div>
-  <div></div>
-  <div>…</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>balls</div>
-  <div></div>
-  <div></div>
-  <div>let</div>
-  <div></div>
-  <div></div>
-  <div>in</div>
-  <div></div>
-  <div></div>
-  <div>water</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>it</div>
-  <div></div>
-  <div></div>
-  <div>rained.</div>
+  <div>Yeah, they covered them with pieces of leather that were stitched together, but … the balls let in water when it rained.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">47.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>O</div>
-  <div></div>
-  <div></div>
-  <div>h,</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>would</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>made</div>
-  <div></div>
-  <div></div>
-  <div>them</div>
-  <div></div>
-  <div></div>
-  <div>much</div>
-  <div></div>
-  <div></div>
-  <div>heavier.</div>
+  <div>Oh, that would have made them much heavier.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">48.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>T</div>
+  <div>That’s right.</div>
   <div></div>
   <div></div>
-  <div>hat’s</div>
-  <div></div>
-  <div></div>
-  <div>right.</div>
-  <div></div>
-  <div></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>ou</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>imagine</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>damage</div>
-  <div></div>
-  <div></div>
-  <div>to</div>
-  <div></div>
-  <div></div>
-  <div>players’</div>
-  <div></div>
-  <div></div>
-  <div>necks</div>
-  <div></div>
-  <div></div>
-  <div>when</div>
-  <div></div>
-  <div></div>
-  <div>the</div>
-  <div></div>
-  <div></div>
-  <div>ball</div>
-  <div></div>
-  <div></div>
-  <div>was</div>
-  <div></div>
-  <div></div>
-  <div>headed.</div>
+  <div>You can imagine the damage to players’ necks when the ball was headed.</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">49.</div>
   <div><strong>JEANNE:</strong></div>
-  <div>H</div>
-  <div></div>
-  <div></div>
-  <div>ow</div>
-  <div></div>
-  <div></div>
-  <div>painful</div>
-  <div></div>
-  <div></div>
-  <div>that</div>
-  <div></div>
-  <div></div>
-  <div>must</div>
-  <div></div>
-  <div></div>
-  <div>have</div>
-  <div></div>
-  <div></div>
-  <div>been!</div>
+  <div>How painful that must have been!</div>
 </div>
-
 <div style="display:grid;grid-template-columns:2.5em 4.5em minmax(0,1fr);column-gap:0.25em;margin:0.35em 0;">
   <div style="text-align:right;">50.</div>
   <div><strong>THOMAS:</strong></div>
-  <div>Y</div>
-  <div></div>
-  <div></div>
-  <div>eah,</div>
-  <div></div>
-  <div></div>
-  <div>well,</div>
-  <div></div>
-  <div></div>
-  <div>I</div>
-  <div></div>
-  <div></div>
-  <div>think</div>
-  <div></div>
-  <div></div>
-  <div>we</div>
-  <div></div>
-  <div></div>
-  <div>can</div>
-  <div></div>
-  <div></div>
-  <div>put</div>
-  <div></div>
-  <div></div>
-  <div>together</div>
-  <div></div>
-  <div></div>
-  <div>some</div>
-  <div></div>
-  <div></div>
-  <div>useful</div>
-  <div></div>
-  <div></div>
-  <div>ideas</div>
-  <div></div>
-  <div></div>
-  <div>…</div>
+  <div>Yeah, well, I think we can put together some useful ideas …</div>
 </div>
 
 > Note: Sentence 50 is truncated this way on the source page.
