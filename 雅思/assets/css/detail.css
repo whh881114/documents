@@ -1,0 +1,368 @@
+﻿.question-section,
+.history-section {
+  padding-top: 44px;
+  border-top: 1px solid var(--border);
+}
+
+.detail-layout {
+  display: grid;
+  --question-panel-width: 46%;
+  grid-template-columns: minmax(340px, var(--question-panel-width)) 12px minmax(440px, 1fr);
+  gap: 22px;
+  align-items: start;
+}
+
+.panel-resizer {
+  position: sticky;
+  top: 24px;
+  display: grid;
+  height: calc(100vh - 48px);
+  place-items: center;
+  border-radius: 999px;
+  cursor: col-resize;
+  touch-action: none;
+}
+
+.panel-resizer span {
+  width: 3px;
+  height: 72px;
+  border-radius: 99px;
+  background: var(--border);
+  transition: width 120ms ease, background 120ms ease;
+}
+
+.panel-resizer:hover span,
+.panel-resizer:focus-visible span,
+.is-resizing .panel-resizer span {
+  width: 5px;
+  background: var(--accent);
+}
+
+.is-resizing {
+  cursor: col-resize;
+  user-select: none;
+}
+
+.detail-layout .question-section {
+  position: sticky;
+  top: 24px;
+  max-height: calc(100vh - 48px);
+  overflow-y: auto;
+  padding-right: 12px;
+}
+
+.detail-layout .question-body {
+  gap: 22px;
+}
+
+.detail-layout .question-body > div {
+  font-size: 1.25rem;
+  line-height: 1.85;
+}
+
+.detail-layout .question-body img {
+  max-height: 58vh;
+  object-fit: contain;
+  object-position: top left;
+  background: #fff;
+}
+
+.question-image-wrap {
+  position: relative;
+}
+
+.image-action {
+  position: absolute;
+  z-index: 1;
+  top: 10px;
+  right: 10px;
+  padding: 7px 12px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: rgb(255 255 255 / 94%);
+  color: #202020;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 8%);
+}
+
+.image-action:hover,
+.image-action:focus-visible {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.image-dialog {
+  width: min(96vw, 2100px);
+  max-width: none;
+  height: 94vh;
+  max-height: none;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fff;
+  color: #202020;
+}
+
+.image-dialog::backdrop {
+  background: rgb(0 0 0 / 72%);
+}
+
+.image-dialog header {
+  position: sticky;
+  z-index: 2;
+  top: 0;
+  display: flex;
+  min-height: 56px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 18px;
+  border-bottom: 1px solid var(--border);
+  background: #fff;
+}
+
+.image-dialog header button {
+  padding: 7px 12px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: #fff;
+  cursor: pointer;
+}
+
+.original-image-canvas {
+  min-width: 100%;
+  min-height: calc(100% - 56px);
+  overflow: auto;
+  padding: 28px;
+  background: #eee;
+  text-align: center;
+}
+
+.original-image-canvas img {
+  display: inline-block;
+  width: auto;
+  max-width: none;
+  height: auto;
+  border: 1px solid #ccc;
+  background: #fff;
+}
+
+.detail-layout .history-section {
+  margin-top: 0;
+}
+
+.question-section h2,
+.history-section h2 {
+  margin: 0 0 26px;
+  font-size: 1.85rem;
+}
+
+.question-body {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 32px;
+  align-items: start;
+}
+
+.question-body > div {
+  max-width: 920px;
+  font-size: 1.08rem;
+}
+
+.question-body p:first-child {
+  margin-top: 0;
+}
+
+.question-body img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--border);
+}
+
+.history-section {
+  margin-top: 80px;
+}
+
+.history-heading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 30px;
+  margin-bottom: 22px;
+}
+
+.history-heading h2 {
+  margin-bottom: 3px;
+}
+
+.history-heading p {
+  margin: 0;
+  font-size: .9rem;
+}
+
+.history-heading label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--muted);
+  font-size: .85rem;
+}
+
+.history-heading select {
+  padding: 7px 30px 7px 10px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--background);
+  color: var(--text);
+}
+
+.version-card {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.version-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 24px 28px;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.version-header span,
+.version-header time {
+  color: var(--muted);
+  font-size: .82rem;
+}
+
+.version-header h3 {
+  margin: 3px 0 0;
+  font-size: 1.45rem;
+}
+
+.record-block {
+  padding: 30px 28px;
+  border-bottom: 1px solid var(--border);
+}
+
+.record-block:last-child {
+  border-bottom: 0;
+}
+
+.record-block h4 {
+  margin: 0 0 16px;
+  font-size: 1.05rem;
+}
+
+.record-block .prose {
+  font-size: 1.25rem;
+  line-height: 1.85;
+}
+
+.record-block .prose > :first-child {
+  margin-top: 0;
+}
+
+.record-block .prose > :last-child {
+  margin-bottom: 0;
+}
+
+.thoughts-block {
+  background: var(--thoughts);
+}
+
+.feedback-block {
+  background: var(--feedback);
+}
+
+.revision-block {
+  background: #f2f7f3;
+}
+
+.prose p,
+.prose ul {
+  margin: 10px 0;
+}
+
+.prose ul {
+  padding-left: 22px;
+}
+
+.prose h5 {
+  margin: 24px 0 10px;
+  font-size: 1rem;
+}
+
+.prose blockquote {
+  margin: 14px 0;
+  padding: 10px 16px;
+  border-left: 3px solid var(--accent);
+  color: var(--muted);
+}
+
+.placeholder-text {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.empty-history {
+  margin: 0;
+  padding: 44px 28px;
+  color: var(--muted);
+  text-align: center;
+}
+
+.pagination {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 18px;
+  align-items: center;
+  margin-top: 24px;
+}
+
+.pagination button {
+  min-height: 40px;
+  padding: 7px 13px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--background);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.pagination button:hover:not(:disabled),
+.pagination button:focus-visible,
+.page-numbers button[aria-current="page"] {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.pagination button:disabled {
+  color: #aaa;
+  cursor: not-allowed;
+}
+
+.page-numbers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+}
+
+.page-numbers button {
+  min-width: 40px;
+  padding-inline: 8px;
+}
+
+footer {
+  width: min(var(--page-width), calc(100% - 40px));
+  margin: 0 auto;
+  padding: 24px 0;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: .8rem;
+}
+

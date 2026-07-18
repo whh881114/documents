@@ -5,6 +5,18 @@ $writingRoot = Join-Path $repoRoot 'writing'
 $outputDir = Join-Path $repoRoot 'assets\data'
 $outputFile = Join-Path $outputDir 'writing-catalog.js'
 
+function Get-MarkdownSection {
+    param(
+        [string]$Text,
+        [string]$Heading
+    )
+
+    $escapedHeading = [regex]::Escape($Heading)
+    $match = [regex]::Match($Text, "(?ms)^##\s+$escapedHeading\s*\r?\n(.*?)(?=^##\s+|\z)")
+    if ($match.Success) { return $match.Groups[1].Value.Trim() }
+    return ''
+}
+
 $catalog = Get-ChildItem -LiteralPath $writingRoot -Directory |
     Where-Object { $_.Name -match '^T[12]-\d{2}-' } |
     Sort-Object Name |
@@ -16,16 +28,32 @@ $catalog = Get-ChildItem -LiteralPath $writingRoot -Directory |
             Sort-Object Name |
             ForEach-Object {
                 $questionId = $_.BaseName
+                $questionText = [System.IO.File]::ReadAllText($_.FullName, [System.Text.Encoding]::UTF8)
                 $versionFiles = if (Test-Path -LiteralPath $essayDirectory) {
                     @(Get-ChildItem -LiteralPath $essayDirectory -File -Filter ($questionId + '-Essay-V*.md') | Sort-Object Name)
                 } else {
                     @()
                 }
+                $versions = @($versionFiles | ForEach-Object {
+                    $versionFile = $_
+                    $versionText = [System.IO.File]::ReadAllText($versionFile.FullName, [System.Text.Encoding]::UTF8)
+                    $versionNumber = if ($versionFile.BaseName -match '-V(\d+)$') { [int]$Matches[1] } else { 0 }
+                    [ordered]@{
+                        version = $versionNumber
+                        filename = $versionFile.Name
+                        date = $versionFile.LastWriteTime.ToString('yyyy-MM-dd')
+                        essay = Get-MarkdownSection -Text $versionText -Heading 'Essay'
+                        thoughts = Get-MarkdownSection -Text $versionText -Heading 'My thoughts'
+                        feedback = Get-MarkdownSection -Text $versionText -Heading 'ChatGPT feedback'
+                        revision_notes = Get-MarkdownSection -Text $versionText -Heading 'Revision notes'
+                    }
+                })
                 [ordered]@{
                     id = $questionId
                     written = ($versionFiles.Count -gt 0)
                     version_count = $versionFiles.Count
-                    versions = @($versionFiles | ForEach-Object { $_.FullName.Substring($repoRoot.Length + 1).Replace('\', '/') })
+                    instructions = Get-MarkdownSection -Text $questionText -Heading 'Instructions'
+                    versions = $versions
                 }
             }
 
@@ -43,6 +71,6 @@ if (-not (Test-Path -LiteralPath $outputDir)) {
     New-Item -ItemType Directory -Path $outputDir | Out-Null
 }
 
-$json = @($catalog) | ConvertTo-Json -Depth 5 -Compress
+$json = @($catalog) | ConvertTo-Json -Depth 8 -Compress
 [System.IO.File]::WriteAllText($outputFile, "window.writingCatalog = $json;", [System.Text.UTF8Encoding]::new($false))
 Write-Output "Generated $outputFile"

@@ -1,0 +1,78 @@
+﻿:root {
+  --background: #ffffff;
+  --surface: #f7f7f5;
+  --text: #202020;
+  --muted: #6b6b68;
+  --border: #ddddda;
+  --accent: #245f4d;
+  --accent-soft: #edf5f1;
+  --feedback: #f3f6fb;
+  --thoughts: #fff9e9;
+  --page-width: 1320px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+a {
+  color: inherit;
+}
+
+button,
+select {
+  font: inherit;
+}
+
+.site-header {
+  display: flex;
+  width: min(var(--page-width), calc(100% - 40px));
+  min-height: 68px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  margin: 0 auto;
+  border-bottom: 1px solid var(--border);
+}
+
+.site-name {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-header nav {
+  display: flex;
+  gap: 28px;
+}
+
+.site-header nav a {
+  color: var(--muted);
+  font-size: 1rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-header nav a:hover,
+.site-header nav a.is-current {
+  color: var(--accent);
+}
+
+.home-main,
+.writing-main {
+  width: min(var(--page-width), calc(100% - 40px));
+  margin: 0 auto;
+}
+
