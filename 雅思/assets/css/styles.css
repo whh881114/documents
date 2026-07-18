@@ -80,6 +80,89 @@ select {
   padding: 100px 0;
 }
 
+.home-page {
+  background: #f5f8f7;
+}
+
+.home-page .site-header {
+  border-bottom-color: #d4dfda;
+}
+
+.home-page .home-main {
+  padding-top: 112px;
+}
+
+.home-page .home-main h1 {
+  max-width: 760px;
+  color: #183d32;
+}
+
+.home-page .skill-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin-top: 76px;
+  border-top: 0;
+}
+
+.home-page .skill-link {
+  min-height: 148px;
+  padding: 28px 30px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.home-page .skill-link:nth-child(1) {
+  border-color: #cfe0ec;
+  background: #eef6fb;
+}
+
+.home-page .skill-link:nth-child(2) {
+  border-color: #eadbc5;
+  background: #fbf4e9;
+}
+
+.home-page .skill-link:nth-child(3) {
+  border-color: #ddd6e9;
+  background: #f5f1fa;
+}
+
+.home-page .skill-link:nth-child(4) {
+  border-color: #bdd9cc;
+  background: #eaf5f0;
+}
+
+.home-page .skill-link.is-ready:hover,
+.home-page .skill-link.is-ready:focus-visible {
+  padding: 28px 30px;
+  border-color: #6fa88f;
+  background: #dff0e8;
+  box-shadow: 0 12px 30px rgb(36 95 77 / 12%);
+  transform: translateY(-3px);
+}
+
+.home-page .skill-link:nth-child(1) span,
+.home-page .skill-link:nth-child(1) small {
+  color: #477895;
+}
+
+.home-page .skill-link:nth-child(2) span,
+.home-page .skill-link:nth-child(2) small {
+  color: #9a6a2d;
+}
+
+.home-page .skill-link:nth-child(3) span,
+.home-page .skill-link:nth-child(3) small {
+  color: #745990;
+}
+
+.home-page .skill-link:nth-child(4) span,
+.home-page .skill-link:nth-child(4) small,
+.home-page .skill-link:nth-child(4) em {
+  color: var(--accent);
+}
+
 .home-main h1,
 .page-title h1 {
   margin: 0;
@@ -744,6 +827,15 @@ footer {
 
   .home-main {
     padding: 70px 0;
+  }
+
+  .home-page .home-main {
+    padding-top: 70px;
+  }
+
+  .home-page .skill-list {
+    grid-template-columns: 1fr;
+    margin-top: 54px;
   }
 
   .skill-link {

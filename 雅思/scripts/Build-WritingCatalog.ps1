@@ -15,14 +15,14 @@ $catalog = Get-ChildItem -LiteralPath $writingRoot -Directory |
         $questions = Get-ChildItem -LiteralPath $categoryDirectory.FullName -File -Filter '*.md' |
             Sort-Object Name |
             ForEach-Object {
-                $questionDirectory = Join-Path $essayDirectory $_.BaseName
-                $versionFiles = if (Test-Path -LiteralPath $questionDirectory) {
-                    @(Get-ChildItem -LiteralPath $questionDirectory -File -Filter ($_.BaseName + '-Essay-V*.md') | Sort-Object Name)
+                $questionId = $_.BaseName
+                $versionFiles = if (Test-Path -LiteralPath $essayDirectory) {
+                    @(Get-ChildItem -LiteralPath $essayDirectory -File -Filter ($questionId + '-Essay-V*.md') | Sort-Object Name)
                 } else {
                     @()
                 }
                 [ordered]@{
-                    id = $_.BaseName
+                    id = $questionId
                     written = ($versionFiles.Count -gt 0)
                     version_count = $versionFiles.Count
                     versions = @($versionFiles | ForEach-Object { $_.FullName.Substring($repoRoot.Length + 1).Replace('\', '/') })
