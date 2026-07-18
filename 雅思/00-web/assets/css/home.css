@@ -65,6 +65,14 @@
   transform: translateY(-3px);
 }
 
+.home-page .skill-link:nth-child(1):hover,
+.home-page .skill-link:nth-child(1):focus-visible {
+  border-color: #79b2d5;
+  background: #e5f2fa;
+  color: var(--muted);
+  box-shadow: 0 12px 30px rgb(45 112 152 / 12%);
+}
+
 .home-page .skill-link:nth-child(1) span,
 .home-page .skill-link:nth-child(1) small {
   color: #2d7098;

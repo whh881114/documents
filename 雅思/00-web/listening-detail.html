@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="IELTS 听力原文与复盘记录。">
+    <title>听力复盘｜IELTS 学习</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="assets/data/listening-review-data.js" defer></script>
+    <script src="assets/js/detail-layout.js" defer></script>
+    <script src="assets/js/listening-detail.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-name" href="index.html">IELTS 学习</a>
+      <nav aria-label="主导航">
+        <a class="is-current" href="listening.html">听力</a>
+        <a href="index.html#speaking">口语</a>
+        <a href="index.html#reading">阅读</a>
+        <a href="writing.html">写作</a>
+      </nav>
+    </header>
+
+    <main class="writing-main detail-page listening-detail-page">
+      <div class="page-title">
+        <div>
+          <a id="listening-detail-back" class="back-link" href="listening.html">← 返回听力列表</a>
+          <h1>听力复盘</h1>
+          <p id="listening-detail-subtitle">加载中…</p>
+        </div>
+      </div>
+
+      <div class="detail-layout">
+        <section class="question-section" aria-labelledby="transcript-title">
+          <h2 id="transcript-title">听力原文</h2>
+          <p id="transcript-meta" class="transcript-meta"></p>
+          <div class="question-body"><div id="transcript-body" class="transcript-body"></div></div>
+        </section>
+
+        <div id="panel-resizer" class="panel-resizer" role="separator" aria-label="调整原文与复盘区域宽度" aria-orientation="vertical" aria-valuemin="28" aria-valuemax="72" aria-valuenow="46" tabindex="0"><span></span></div>
+
+        <section class="history-section" aria-labelledby="review-title">
+          <div class="history-heading"><div><h2 id="review-title">复盘记录</h2><p>来自同目录的 review.md</p></div></div>
+          <article class="version-card">
+            <header class="version-header"><div><span>Listening Review</span><h3 id="review-card-title">复盘内容</h3></div><time id="review-date"></time></header>
+            <div class="record-block feedback-block"><div id="review-body" class="prose review-prose"></div></div>
+          </article>
+        </section>
+      </div>
+    </main>
+    <footer>个人 IELTS 学习记录</footer>
+  </body>
+</html>

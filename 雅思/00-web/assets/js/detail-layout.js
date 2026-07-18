@@ -39,13 +39,18 @@ const imageDialog = document.querySelector("#image-dialog");
 const questionImage = document.querySelector("#question-image");
 const originalImage = document.querySelector("#original-image");
 
-document.querySelector("#open-original-image").addEventListener("click", () => {
-  originalImage.src = questionImage.currentSrc || questionImage.src;
-  originalImage.alt = questionImage.alt;
-  imageDialog.showModal();
-});
+const openOriginalImage = document.querySelector("#open-original-image");
+const closeOriginalImage = document.querySelector("#close-original-image");
 
-document.querySelector("#close-original-image").addEventListener("click", () => imageDialog.close());
-imageDialog.addEventListener("click", (event) => {
-  if (event.target === imageDialog) imageDialog.close();
-});
+if (imageDialog && questionImage && originalImage && openOriginalImage && closeOriginalImage) {
+  openOriginalImage.addEventListener("click", () => {
+    originalImage.src = questionImage.currentSrc || questionImage.src;
+    originalImage.alt = questionImage.alt;
+    imageDialog.showModal();
+  });
+
+  closeOriginalImage.addEventListener("click", () => imageDialog.close());
+  imageDialog.addEventListener("click", (event) => {
+    if (event.target === imageDialog) imageDialog.close();
+  });
+}

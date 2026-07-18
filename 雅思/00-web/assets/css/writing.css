@@ -154,11 +154,22 @@ a.topic-summary:focus-visible {
 
 .question-row.is-written:hover,
 .question-row.is-written:focus-visible {
-  background: var(--accent-soft);
+  background: #d5eddb;
 }
 
 .question-row.is-written em {
-  color: var(--accent);
+  color: var(--text);
+  font-weight: 700;
+}
+
+.question-row.is-written {
+  background: #e3f3e7;
+}
+
+.question-row.is-written span,
+.question-row.is-written strong {
+  color: var(--text);
+  font-weight: 700;
 }
 
 .topic-block h3 {

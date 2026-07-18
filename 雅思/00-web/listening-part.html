@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="IELTS 听力分类与原文列表。">
+    <title>听力 Part｜IELTS 学习</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="assets/data/listening-catalog.js" defer></script>
+    <script src="assets/js/listening-part.js" defer></script>
+  </head>
+  <body class="listening-page">
+    <header class="site-header">
+      <a class="site-name" href="index.html">IELTS 学习</a>
+      <nav aria-label="主导航">
+        <a class="is-current" href="listening.html" aria-current="page">听力</a>
+        <a href="index.html#speaking">口语</a>
+        <a href="index.html#reading">阅读</a>
+        <a href="writing.html">写作</a>
+      </nav>
+    </header>
+
+    <main class="listening-main list-page">
+      <div class="page-title">
+        <div>
+          <a class="back-link" href="listening.html">← 返回 Part 列表</a>
+          <h1 id="part-title">听力 Part</h1>
+          <p id="part-summary">按分类目录顺序浏览听力原文。</p>
+        </div>
+      </div>
+      <div id="category-tabs" class="category-tabs" role="tablist" aria-label="听力分类"></div>
+      <div id="category-list" class="listening-categories"></div>
+    </main>
+    <footer>个人 IELTS 学习记录</footer>
+  </body>
+</html>

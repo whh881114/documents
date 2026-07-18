@@ -1,5 +1,13 @@
 # IELTS Listening Scripts Processing Guide
 
+## 当前目录命名规则（2026-07-18 起生效）
+
+- 第一层目录固定为 `Part1`、`Part2`、`Part3`、`Part4`，`Part` 与数字之间不留空格。
+- 每个 Part 下的主题分类按当前展示顺序从 `01` 开始连续编号，例如 `01-活动介绍`、`02-咨询申请`。
+- 课题目录使用 `C{册号}-TEST{测试号}-PART{部分号}-{标题}`，例如 `C19-TEST1-PART1-Hinchingbrooke Country Park`。
+- 册号和测试号取自 `script.md` 的 `Source`，部分号取自 `Part`；分类目录改名时必须同步更新 `Category`。
+- 本节为最新规则；与下方旧的 `Part 1` 或 `NN-XXXX` 示例冲突时，以本节为准。
+
 本目录用于按课题整理雅思听力真题及其英文原文（script）。后续处理本目录中的课题时，统一遵循以下流程和格式。
 
 ## 一、目录与文件规则
