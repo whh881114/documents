@@ -27,7 +27,7 @@ if (detailCategory) {
   renderInstructions(questionCopy, detailQuestion?.instructions);
 
   if (detailCategory.task === 1) {
-    image.src = `writing/${detailCategory.key}/images/${detailQuestionId}.png`;
+    image.src = `../writing/${detailCategory.key}/images/${detailQuestionId}.png`;
     image.alt = `${detailQuestionId} 原题图片`;
     image.hidden = false;
     imageWrap.hidden = false;

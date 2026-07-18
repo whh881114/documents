@@ -37,23 +37,23 @@
 }
 
 .home-page .skill-link:nth-child(1) {
-  border-color: #cfe0ec;
-  background: #eef6fb;
+  border-color: #9bc7e2;
+  background: #e5f2fa;
 }
 
 .home-page .skill-link:nth-child(2) {
-  border-color: #eadbc5;
-  background: #fbf4e9;
+  border-color: #e5bc7e;
+  background: #fdf0dd;
 }
 
 .home-page .skill-link:nth-child(3) {
-  border-color: #ddd6e9;
-  background: #f5f1fa;
+  border-color: #d9a3c2;
+  background: #f8e5f0;
 }
 
 .home-page .skill-link:nth-child(4) {
-  border-color: #bdd9cc;
-  background: #eaf5f0;
+  border-color: #8fc5aa;
+  background: #e2f3ea;
 }
 
 .home-page .skill-link.is-ready:hover,
@@ -67,23 +67,23 @@
 
 .home-page .skill-link:nth-child(1) span,
 .home-page .skill-link:nth-child(1) small {
-  color: #477895;
+  color: #2d7098;
 }
 
 .home-page .skill-link:nth-child(2) span,
 .home-page .skill-link:nth-child(2) small {
-  color: #9a6a2d;
+  color: #a45f13;
 }
 
 .home-page .skill-link:nth-child(3) span,
 .home-page .skill-link:nth-child(3) small {
-  color: #745990;
+  color: #944a75;
 }
 
 .home-page .skill-link:nth-child(4) span,
 .home-page .skill-link:nth-child(4) small,
 .home-page .skill-link:nth-child(4) em {
-  color: var(--accent);
+  color: #246d50;
 }
 
 .home-main h1,
