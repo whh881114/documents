@@ -4,7 +4,9 @@
 
 ## 一、目录与文件规则
 
-- 课题目录保持 `NN-XXXX` 格式，例如 `01-Human Geography`。
+- 第一层目录按听力部分划分，固定为 `Part 1`、`Part 2`、`Part 3`、`Part 4`。
+- 第二层目录按内容场景分类，沿用已经确认的主题类别，例如 `01-课题研究`、`03-活动介绍`。
+- 课题目录位于对应的 Part 和主题类别之下，并保持 `NN-XXXX` 格式，例如 `Part 3/01-课题研究/01-Human Geography`。
 - 每篇听力原文保存到对应课题目录下，文件名统一为 `script.md`。
 - 不修改已经确认过的课题目录名称。
 - 默认只保存英文原文，不混入中文翻译。
@@ -70,6 +72,8 @@
 # Human Geography
 
 - Source: 剑雅20 Test 2-Section 3
+- Part: 3
+- Category: 01-课题研究
 - Script: https://ieltscat.xdf.cn/intensive/intensive/1824/2/1
 - Sentence count: 40
 
@@ -135,7 +139,7 @@
 
 完成一篇后至少验证以下内容：
 
-1. `script.md` 已写入正确的 `NN-XXXX` 目录。
+1. `script.md` 已写入正确的 `Part N/主题类别/NN-XXXX` 目录。
 2. 元数据中的课题、真题名称、URL 和句子数正确。
 3. CSS Grid 条目数量与页面句子数量一致。
 4. 文件内不存在 Markdown 表格行。
