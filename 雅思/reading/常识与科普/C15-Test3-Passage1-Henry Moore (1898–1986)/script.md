@@ -1,6 +1,5 @@
-# Henry Moore (1898–1986)
+﻿# Henry Moore (1898–1986)
 
-Henry Moore (1898–1986)
 The British sculptor Henry Moore was a leading figure in the 20th-century art world
 
 Henry Moore was born in Castleford, a small town near Leeds in the north of England. He was the seventh child of Raymond Moore and his wife Mary Baker. He studied at Castleford Grammar School from 1909 to 1915, where his early interest in art was encouraged by his teacher Alice Gostick. After leaving school, Moore hoped to become a sculptor, but instead he complied with his father’s wish that he train as a schoolteacher. He had to abandon his training in 1917 when he was sent to France to fight in the First World War.

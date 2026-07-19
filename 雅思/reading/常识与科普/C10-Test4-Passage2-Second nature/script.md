@@ -1,6 +1,5 @@
-# Second nature
+﻿# Second nature
 
-Second nature
 Your personality isn't necessarily set in stone. With a little experimentation,
 people can reshape their temperaments and inject passion, optimism, joy and
 courage into their lives

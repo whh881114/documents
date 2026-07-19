@@ -1,6 +1,5 @@
-# The return of the huarango
+﻿# The return of the huarango
 
-The return of the huarango
 The arid valleys of southern Peru are welcoming the return of a native plant
 
 The south coast of Peru is a narrow, 2,000-kilometre-long strip of desert squeezed between the Andes and the Pacific Ocean. It is also one of the most fragile ecosystems on Earth. It hardly ever rains there, and the only year-round source of water is located tens of metres below the surface.

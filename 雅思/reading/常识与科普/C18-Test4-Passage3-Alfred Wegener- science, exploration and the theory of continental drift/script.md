@@ -1,6 +1,5 @@
-# Alfred Wegener: science, exploration and the theory of continental drift
+﻿# Alfred Wegener: science, exploration and the theory of continental drift
 
-Alfred Wegener: science, exploration and the theory of continental drift
 by Mott T Greene
 
 Introduction

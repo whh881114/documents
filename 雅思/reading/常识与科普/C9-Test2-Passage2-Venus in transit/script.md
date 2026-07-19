@@ -1,6 +1,5 @@
-# Venus in transit
+﻿# Venus in transit
 
-Venus in transit
 June 2004 saw the first passage, known as a 'transit' , of the planet Venus across the face of the Sun in 122 year. Transits have helped shape our view of the whole Universe, as Healther Cooper and Nigel Henbest explain
 
 A    On 8 June 2004, more than half the population of the world were treated to a rare astronomical event. For over six hours, the planet Venus steadily inched its way over the surface of the Sun. This 'transit' of Venus was the first since 6 December 1882. On that occasion, the American astronomer Professor Simon Newcomb led a party to South Africa to observe the event. They were based at a girl's school, where—it is alleged—the combined forces of three schoolmistresses outperformed the professionals with the accuracy of their observations.
