@@ -671,7 +671,7 @@ window.listeningCatalog = [
                                                  "source":  "剑雅20 Test 2-Section 2",
                                                  "book":  20,
                                                  "test":  2,
-                                                 "reviewed":  false,
+                                                 "reviewed":  true,
                                                  "scriptPath":  "../listening/Part2/01-%E6%B4%BB%E5%8A%A8%E4%BB%8B%E7%BB%8D/C20-TEST2-PART2-Volunteers/script.md"
                                              },
                                              {
@@ -1287,7 +1287,7 @@ window.listeningCatalog = [
                                                  "source":  "剑雅20 Test 2-Section 3",
                                                  "book":  20,
                                                  "test":  2,
-                                                 "reviewed":  false,
+                                                 "reviewed":  true,
                                                  "scriptPath":  "../listening/Part3/01-%E8%AF%BE%E9%A2%98%E7%A0%94%E7%A9%B6/C20-TEST2-PART3-Human%20Geography/script.md"
                                              },
                                              {
@@ -1914,7 +1914,7 @@ window.listeningCatalog = [
                                                  "source":  "剑雅20 Test 2-Section 4",
                                                  "book":  20,
                                                  "test":  2,
-                                                 "reviewed":  false,
+                                                 "reviewed":  true,
                                                  "scriptPath":  "../listening/Part4/01-%E5%AD%A6%E6%9C%AF%E5%9C%BA%E6%99%AF/C20-TEST2-PART4-Developing%20food%20trends/script.md"
                                              },
                                              {
