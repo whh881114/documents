@@ -25,7 +25,7 @@ window.listeningCatalog = [
                                                  "source":  "剑雅20 Test 2-Section 1",
                                                  "book":  20,
                                                  "test":  2,
-                                                 "reviewed":  false,
+                                                 "reviewed":  true,
                                                  "scriptPath":  "../listening/Part1/01-%E5%92%A8%E8%AF%A2%E7%94%B3%E8%AF%B7/C20-TEST2-PART1-Help%20for%20carers/script.md"
                                              },
                                              {
