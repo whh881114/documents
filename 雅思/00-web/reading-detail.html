@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="IELTS 阅读文章正文。">
+    <title>阅读文章｜IELTS 学习</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="assets/data/reading-catalog.js" defer></script>
+    <script src="assets/js/detail-layout.js" defer></script>
+    <script src="assets/js/reading-detail.js" defer></script>
+  </head>
+  <body class="reading-detail-page">
+    <header class="site-header">
+      <a class="site-name" href="index.html">IELTS 学习</a>
+      <nav aria-label="主导航">
+        <a href="listening.html">听力</a>
+        <a href="index.html#speaking">口语</a>
+        <a class="is-current" href="reading.html" aria-current="page">阅读</a>
+        <a href="writing.html">写作</a>
+      </nav>
+    </header>
+    <main class="writing-main detail-page reading-detail-page">
+      <div class="page-title"><div>
+        <a id="reading-detail-back" class="back-link" href="reading.html">← 返回阅读列表</a>
+        <h1 id="reading-title">阅读文章</h1>
+        <p id="reading-meta">加载中…</p>
+      </div></div>
+      <div class="detail-layout reading-detail-layout">
+        <section class="question-section" aria-labelledby="article-title">
+          <h2 id="article-title">阅读原文</h2>
+          <p id="article-meta" class="transcript-meta"></p>
+          <div class="question-body"><div id="reading-body" class="prose reading-prose"></div></div>
+        </section>
+
+        <div id="panel-resizer" class="panel-resizer" role="separator" aria-label="调整原文与复盘区域宽度" aria-orientation="vertical" aria-valuemin="28" aria-valuemax="72" aria-valuenow="46" tabindex="0"><span></span></div>
+
+        <section class="history-section" aria-labelledby="review-title">
+          <div class="history-heading"><div><h2 id="review-title">复盘记录</h2><p>来自文章同目录的 review.md</p></div></div>
+          <article id="review-card" class="version-card">
+            <header class="version-header"><div><span>Reading Review</span><h3 id="review-card-title">复盘内容</h3></div><time id="review-date"></time></header>
+            <div class="record-block feedback-block"><div id="review-body" class="prose review-prose"></div></div>
+          </article>
+          <p id="empty-review" class="empty-history" hidden>这篇文章还没有复盘记录。添加同目录的 review.md 并重新生成阅读目录后，会在这里显示。</p>
+        </section>
+      </div>
+    </main>
+    <footer>个人 IELTS 学习记录</footer>
+  </body>
+</html>

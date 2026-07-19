@@ -1,0 +1,16 @@
+.reading-main { width: min(var(--page-width), calc(100% - 40px)); margin: 0 auto; padding: 60px 0 100px; }
+.reading-categories { margin-top: 28px; }
+.reading-category[hidden] { display: none; }
+.reading-page .listening-row { grid-template-columns: 180px minmax(0, 1fr) auto; }
+.reading-page .listening-row:hover, .reading-page .listening-row:focus-visible { background: var(--accent-soft); }
+.reading-detail-layout .question-section { min-width: 0; }
+.reading-detail-layout .empty-history { border: 1px solid var(--border); border-radius: 6px; background: var(--surface); }
+.reading-detail-page .question-body { display: block; }
+.reading-prose p { margin: 0 0 1.35em; }
+.reading-prose figure { margin: 30px 0; }
+.reading-prose img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
+@media (max-width: 760px) {
+  .reading-page .listening-row { grid-template-columns: 1fr auto; }
+  .reading-page .listening-row span { grid-column: 1 / -1; }
+}
+@media (max-width: 420px) { .reading-main { width: min(100% - 28px, var(--page-width)); } }
