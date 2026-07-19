@@ -662,7 +662,7 @@ window.listeningCatalog = [
                                                  "source":  "剑雅20 Test 1-Section 2",
                                                  "book":  20,
                                                  "test":  1,
-                                                 "reviewed":  false,
+                                                 "reviewed":  true,
                                                  "scriptPath":  "../listening/Part2/01-%E6%B4%BB%E5%8A%A8%E4%BB%8B%E7%BB%8D/C20-TEST1-PART2-Pottery/script.md"
                                              },
                                              {
