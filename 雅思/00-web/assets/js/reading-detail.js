@@ -1,6 +1,7 @@
 const categories = window.readingCatalog || [];
 const params = new URLSearchParams(window.location.search);
 const requestedView = params.get("view") || "review";
+const returnToScores = params.get("from") === "scores";
 const record = categories.flatMap((category) => category.items.map((item) => ({ ...item, category })))
   .find((item) => item.id === params.get("id"));
 const escapeHtml = (value) => value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;");
@@ -79,7 +80,15 @@ if (!record) {
   document.querySelector("#reading-meta").textContent = `${record.source} · ${record.category.name}`;
   document.querySelector("#article-meta").textContent = `${record.source} · ${record.title}`;
   document.querySelector("#reading-body").innerHTML = renderArticle(record.content, record.assetBase);
-  document.querySelector("#reading-detail-back").href = `reading.html#${encodeURIComponent(record.category.key)}`;
+  const backLink = document.querySelector("#reading-detail-back");
+  if (returnToScores) {
+    const book = params.get("book") || "";
+    const test = params.get("test") || "";
+    backLink.textContent = "← 返回阅读成绩";
+    backLink.href = `reading-scores.html?book=${encodeURIComponent(book)}&test=${encodeURIComponent(test)}`;
+  } else {
+    backLink.href = `reading.html#${encodeURIComponent(record.category.key)}`;
+  }
   const showReview = requestedView === "review" && record.reviewed;
   if (showReview) {
     document.querySelector("#review-card-title").textContent = record.title;

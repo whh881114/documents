@@ -82,6 +82,20 @@
   font-weight: 750;
 }
 
+.home-score-card.is-reading-score {
+  border-color: #d9a3c2;
+  background: #f8e5f0;
+}
+
+.home-score-card.is-reading-score:hover,
+.home-score-card.is-reading-score:focus-visible {
+  box-shadow: 0 12px 30px rgb(148 74 117 / 12%);
+}
+
+.home-score-card.is-reading-score em {
+  color: #944a75;
+}
+
 .listening-score-list {
   display: grid;
   gap: 24px;
@@ -170,6 +184,25 @@
   font-size: .8rem;
 }
 
+.reading-score-passages {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.is-reading-test .score-total em {
+  background: #f2dbe8;
+  color: #763b5e;
+}
+
+.is-reading-test .score-part:hover,
+.is-reading-test .score-part:focus-visible {
+  border-color: #d09ab9;
+  background: #f8e5f0;
+}
+
+.is-reading-test .score-part b {
+  color: #944a75;
+}
+
 .score-note,
 .empty-score {
   color: var(--muted);
@@ -192,7 +225,8 @@
 
 @media (max-width: 760px) {
   .home-score-preview,
-  .score-parts {
+  .score-parts,
+  .reading-score-passages {
     grid-template-columns: 1fr;
   }
 
