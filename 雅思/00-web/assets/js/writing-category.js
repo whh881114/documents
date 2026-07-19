@@ -23,14 +23,19 @@ if (category) {
 
   const list = document.querySelector("#question-list");
   [...category.questions].sort(compareQuestions).forEach((question) => {
-    const row = document.createElement(question.written ? "a" : "div");
+    const row = document.createElement("div");
     row.className = `question-row${question.written ? " is-written" : ""}`;
-    if (row.tagName === "A") {
-      row.href = `writing-detail.html?category=${encodeURIComponent(category.key)}&id=${encodeURIComponent(question.id)}`;
-    }
 
     const displayId = question.id.replace(/-Task\d$/, "").replace("-Test", " · Test ").replace(/^C/, "C");
-    row.innerHTML = `<span>${displayId}</span><strong>${question.id}</strong><em>${question.written ? "已写 · 查看 →" : "未写"}</em>`;
+    const detailUrl = `writing-detail.html?category=${encodeURIComponent(category.key)}&id=${encodeURIComponent(question.id)}`;
+    row.innerHTML = `
+      <span>${displayId}</span>
+      <strong>${question.id}</strong>
+      <div class="row-actions">
+        <a class="row-action" href="${detailUrl}&view=question">查看原题</a>
+        ${question.written ? `<a class="row-action row-action-secondary" href="${detailUrl}&view=record#history-title">查看记录</a>` : ""}
+        <em>${question.written ? "已写" : "未写"}</em>
+      </div>`;
     list.append(row);
   });
 } else {

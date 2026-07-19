@@ -42,20 +42,18 @@ foreach ($partNumber in 1..4) {
         scriptPath = [Uri]::EscapeUriString($relativePath)
       }
 
-      if ($reviewed) {
-        $transcriptMarker = "## Transcript"
-        $transcriptIndex = $text.IndexOf($transcriptMarker)
-        $transcript = if ($transcriptIndex -ge 0) { $text.Substring($transcriptIndex + $transcriptMarker.Length).Trim() } else { "" }
-        $reviews += [ordered]@{
-          id = $itemId
-          title = $title
-          source = $source
-          part = $partNumber
-          categoryKey = $categoryDir.Name
-          categoryName = $Matches[2]
-          transcript = $transcript
-          review = [string](Get-Content -LiteralPath $reviewPath -Encoding UTF8 -Raw)
-        }
+      $transcriptMarker = "## Transcript"
+      $transcriptIndex = $text.IndexOf($transcriptMarker)
+      $transcript = if ($transcriptIndex -ge 0) { $text.Substring($transcriptIndex + $transcriptMarker.Length).Trim() } else { "" }
+      $reviews += [ordered]@{
+        id = $itemId
+        title = $title
+        source = $source
+        part = $partNumber
+        categoryKey = $categoryDir.Name
+        categoryName = $Matches[2]
+        transcript = $transcript
+        review = if ($reviewed) { [string](Get-Content -LiteralPath $reviewPath -Encoding UTF8 -Raw) } else { "" }
       }
     }
 
@@ -81,7 +79,7 @@ $json = $parts | ConvertTo-Json -Depth 8
 $content = "// Generated from listening/Part1-Part4. Do not edit directly.`nwindow.listeningCatalog = $json;`n"
 [IO.File]::WriteAllText($outputPath, $content, (New-Object Text.UTF8Encoding($false)))
 $reviewJson = ConvertTo-Json -InputObject @($reviews) -Depth 6
-$reviewContent = "// Generated from reviewed listening lessons. Do not edit directly.`nwindow.listeningReviewData = $reviewJson;`n"
+$reviewContent = "// Generated from all listening transcripts and available reviews. Do not edit directly.`nwindow.listeningReviewData = $reviewJson;`n"
 [IO.File]::WriteAllText($reviewOutputPath, $reviewContent, (New-Object Text.UTF8Encoding($false)))
 Write-Output "Generated $outputPath"
 Write-Output "Generated $reviewOutputPath"

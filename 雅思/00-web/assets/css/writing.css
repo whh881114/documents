@@ -172,6 +172,18 @@ a.topic-summary:focus-visible {
   font-weight: 700;
 }
 
+@media (max-width: 760px) {
+  .question-row {
+    grid-template-columns: 1fr;
+    gap: 7px;
+  }
+
+  .question-row .row-actions {
+    justify-content: flex-start;
+    margin-top: 5px;
+  }
+}
+
 .topic-block h3 {
   margin: 0;
   padding: 19px 22px;

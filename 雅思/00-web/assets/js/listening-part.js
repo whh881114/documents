@@ -37,13 +37,14 @@ if (!part) {
 
   categories.forEach((category, index) => {
     const displayNumber = String(index + 1).padStart(2, "0");
+    const reviewedCount = category.items.filter((item) => item.reviewed).length;
     const tab = document.createElement("button");
     tab.className = "category-tab";
     tab.type = "button";
     tab.id = `category-tab-${index}`;
     tab.setAttribute("role", "tab");
     tab.setAttribute("aria-controls", `category-panel-${index}`);
-    tab.innerHTML = `<span>${displayNumber}</span><strong>${category.name}</strong><em>${category.items.length}</em>`;
+    tab.innerHTML = `<span>${displayNumber}</span><strong>${category.name}</strong><em>${reviewedCount}/${category.items.length}</em>`;
     tab.addEventListener("click", () => selectCategory(index));
     categoryTabs.appendChild(tab);
     tabs.push(tab);
@@ -54,16 +55,17 @@ if (!part) {
     section.setAttribute("role", "tabpanel");
     section.setAttribute("aria-labelledby", tab.id);
     const rows = category.items.map((item) => {
-      const tag = item.reviewed ? "a" : "div";
-      const href = item.reviewed
-        ? ` href="listening-detail.html?id=${encodeURIComponent(item.id)}"`
-        : "";
+      const detailUrl = `listening-detail.html?id=${encodeURIComponent(item.id)}`;
       return `
-      <${tag} class="listening-row${item.reviewed ? " is-clickable is-reviewed-row" : ""}"${href}>
+      <div class="listening-row${item.reviewed ? " is-reviewed-row" : ""}">
         <span>${item.source}</span>
         <strong>${item.title}</strong>
-        <em class="${item.reviewed ? "is-reviewed" : "is-unreviewed"}">${item.reviewed ? "已复盘" : "未复盘"}</em>
-      </${tag}>
+        <div class="row-actions">
+          <a class="row-action" href="${detailUrl}&view=transcript">查看原文</a>
+          ${item.reviewed ? `<a class="row-action row-action-secondary" href="${detailUrl}&view=review#review-title">查看复盘</a>` : ""}
+          <em class="${item.reviewed ? "is-reviewed" : "is-unreviewed"}">${item.reviewed ? "已复盘" : "未复盘"}</em>
+        </div>
+      </div>
     `;
     }).join("");
     section.innerHTML = `

@@ -1,6 +1,7 @@
 const reviewData = window.listeningReviewData || [];
 const params = new URLSearchParams(window.location.search);
 const record = reviewData.find((item) => item.id === params.get("id"));
+const requestedView = params.get("view") || "review";
 
 const escapeHtml = (value) => value
   .replaceAll("&", "&amp;")
@@ -69,13 +70,22 @@ if (!record) {
   document.querySelector("#transcript-body").textContent = "请返回听力列表重新选择。";
   document.querySelector("#review-body").textContent = "暂无内容。";
 } else {
-  document.title = `${record.title}｜听力复盘`;
+  const hasReview = Boolean(record.review.trim());
+  const showReview = requestedView === "review" && hasReview;
+  document.title = `${record.title}｜${showReview ? "听力复盘" : "听力原文"}`;
+  document.querySelector(".page-title h1").textContent = showReview ? "听力复盘" : "听力原文";
   document.querySelector("#listening-detail-subtitle").textContent = `${record.source} · Part ${record.part} · ${record.categoryName}`;
   document.querySelector("#transcript-meta").textContent = `${record.source} · ${record.title}`;
   document.querySelector("#transcript-body").innerHTML = record.transcript;
-  document.querySelector("#review-card-title").textContent = record.title;
-  document.querySelector("#review-body").innerHTML = renderMarkdown(record.review);
-  const date = record.review.match(/复盘日期：([^\n]+)/)?.[1]?.trim() || "";
-  document.querySelector("#review-date").textContent = date;
+  if (showReview) {
+    document.querySelector("#review-card-title").textContent = record.title;
+    document.querySelector("#review-body").innerHTML = renderMarkdown(record.review);
+    const date = record.review.match(/复盘日期：([^\n]+)/)?.[1]?.trim() || "";
+    document.querySelector("#review-date").textContent = date;
+  } else {
+    document.querySelector(".history-section").hidden = true;
+    document.querySelector("#panel-resizer").hidden = true;
+    document.querySelector(".detail-layout").classList.add("is-transcript-only");
+  }
   document.querySelector("#listening-detail-back").href = `listening-part.html?part=${record.part}#${encodeURIComponent(record.categoryKey)}`;
 }

@@ -1,5 +1,6 @@
 const categories = window.readingCatalog || [];
 const params = new URLSearchParams(window.location.search);
+const requestedView = params.get("view") || "review";
 const record = categories.flatMap((category) => category.items.map((item) => ({ ...item, category })))
   .find((item) => item.id === params.get("id"));
 const escapeHtml = (value) => value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;");
@@ -79,13 +80,15 @@ if (!record) {
   document.querySelector("#article-meta").textContent = `${record.source} · ${record.title}`;
   document.querySelector("#reading-body").innerHTML = renderArticle(record.content, record.assetBase);
   document.querySelector("#reading-detail-back").href = `reading.html#${encodeURIComponent(record.category.key)}`;
-  if (record.reviewed) {
+  const showReview = requestedView === "review" && record.reviewed;
+  if (showReview) {
     document.querySelector("#review-card-title").textContent = record.title;
     document.querySelector("#review-body").innerHTML = renderReview(record.review);
     const date = record.review.match(/(?:复盘日期|日期)：?\s*([^\n]+)/)?.[1]?.trim() || "";
     document.querySelector("#review-date").textContent = date;
   } else {
-    document.querySelector("#review-card").hidden = true;
-    document.querySelector("#empty-review").hidden = false;
+    document.querySelector(".history-section").hidden = true;
+    document.querySelector("#panel-resizer").hidden = true;
+    document.querySelector(".detail-layout").classList.add("is-transcript-only");
   }
 }

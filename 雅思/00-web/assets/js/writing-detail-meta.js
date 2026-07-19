@@ -1,6 +1,7 @@
 const detailParams = new URLSearchParams(window.location.search);
 const detailCategoryKey = detailParams.get("category") || "T1-01-折线图";
 const detailQuestionId = detailParams.get("id") || "C19-Test1-Task1";
+const detailView = detailParams.get("view") || "record";
 const detailCategory = (window.writingCatalog || []).find((item) => item.key === detailCategoryKey);
 const detailQuestion = detailCategory?.questions.find((item) => item.id === detailQuestionId);
 
@@ -21,6 +22,8 @@ if (detailCategory) {
   const questionCopy = document.querySelector("#question-copy");
 
   document.title = `${detailQuestionId}｜写作记录`;
+  const showRecord = detailView === "record" && detailQuestion?.written;
+  document.querySelector(".page-title h1").textContent = showRecord ? "写作记录" : "写作原题";
   subtitle.textContent = `${detailQuestionId.replaceAll("-", " · ")} · ${detailCategory.name}`;
   backLink.href = `writing-category.html?category=${encodeURIComponent(detailCategory.key)}`;
   backLink.textContent = `← 返回${detailCategory.name}题目列表`;
@@ -34,5 +37,11 @@ if (detailCategory) {
   } else {
     image.hidden = true;
     imageWrap.hidden = true;
+  }
+
+  if (!showRecord) {
+    document.querySelector(".history-section").hidden = true;
+    document.querySelector("#panel-resizer").hidden = true;
+    document.querySelector(".detail-layout").classList.add("is-transcript-only");
   }
 }

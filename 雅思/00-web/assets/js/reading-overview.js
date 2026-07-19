@@ -32,13 +32,14 @@ if (!categories.length) {
 
   categories.forEach((category, index) => {
     const displayNumber = String(index + 1).padStart(2, "0");
+    const reviewedCount = category.items.filter((item) => item.reviewed).length;
     const tab = document.createElement("button");
     tab.className = "category-tab";
     tab.type = "button";
     tab.id = `reading-tab-${index}`;
     tab.setAttribute("role", "tab");
     tab.setAttribute("aria-controls", `reading-panel-${index}`);
-    tab.innerHTML = `<span>${displayNumber}</span><strong>${escapeHtml(category.name)}</strong><em>${category.items.length}</em>`;
+    tab.innerHTML = `<span>${displayNumber}</span><strong>${escapeHtml(category.name)}</strong><em>${reviewedCount}/${category.items.length}</em>`;
     tab.addEventListener("click", () => selectCategory(index));
     tabsContainer.appendChild(tab);
     tabs.push(tab);
@@ -54,9 +55,15 @@ if (!categories.length) {
         <p>${category.items.length} 篇</p>
       </div>
       <div class="listening-rows">${category.items.map((item) => `
-        <a class="listening-row is-clickable${item.reviewed ? " is-reviewed-row" : ""}" href="reading-detail.html?id=${encodeURIComponent(item.id)}">
-          <span>${escapeHtml(item.source)}</span><strong>${escapeHtml(item.title)}</strong><em class="${item.reviewed ? "is-reviewed" : "is-unreviewed"}">${item.reviewed ? "已复盘" : "未复盘"}</em>
-        </a>`).join("")}</div>`;
+        <div class="listening-row${item.reviewed ? " is-reviewed-row" : ""}">
+          <span>${escapeHtml(item.source)}</span>
+          <strong>${escapeHtml(item.title)}</strong>
+          <div class="row-actions">
+            <a class="row-action" href="reading-detail.html?id=${encodeURIComponent(item.id)}&view=article">查看原文</a>
+            ${item.reviewed ? `<a class="row-action row-action-secondary" href="reading-detail.html?id=${encodeURIComponent(item.id)}&view=review#review-title">查看复盘</a>` : ""}
+            <em class="${item.reviewed ? "is-reviewed" : "is-unreviewed"}">${item.reviewed ? "已复盘" : "未复盘"}</em>
+          </div>
+        </div>`).join("")}</div>`;
     categoryList.appendChild(section);
     panels.push(section);
   });
