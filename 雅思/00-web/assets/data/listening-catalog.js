@@ -1672,7 +1672,7 @@ window.listeningCatalog = [
                                                  "source":  "剑雅20 Test 1-Section 3",
                                                  "book":  20,
                                                  "test":  1,
-                                                 "reviewed":  false,
+                                                 "reviewed":  true,
                                                  "scriptPath":  "../listening/Part3/02-%E5%AD%A6%E6%9C%AF%E5%9C%BA%E6%99%AF/C20-TEST1-PART3-Loneliness%20and%20mental%20health/script.md"
                                              },
                                              {
