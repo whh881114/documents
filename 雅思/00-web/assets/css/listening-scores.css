@@ -34,7 +34,7 @@
 
 .home-score-preview {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 16px;
   margin-top: 22px;
 }
@@ -87,12 +87,69 @@
   gap: 24px;
 }
 
+.score-test-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 24px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--border);
+}
+
+.score-test-tab {
+  display: inline-grid;
+  grid-template-columns: auto auto;
+  gap: 3px 13px;
+  align-items: center;
+  min-height: 58px;
+  padding: 9px 15px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--background);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.score-test-tab strong {
+  font-variant-numeric: tabular-nums;
+}
+
+.score-test-tab em {
+  grid-column: 1 / -1;
+  color: var(--muted);
+  font-size: .75rem;
+  font-style: normal;
+}
+
+.score-test-tab:hover,
+.score-test-tab:focus-visible {
+  border-color: var(--accent);
+}
+
+.score-test-tab[aria-selected="true"] {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fff;
+}
+
+.score-test-tab[aria-selected="true"] em {
+  color: rgb(255 255 255 / 78%);
+}
+
 .score-test-card {
   padding: 28px;
   border: 1px solid var(--border);
   border-radius: 12px;
   background: var(--surface);
   scroll-margin-top: 24px;
+}
+
+.score-test-heading time,
+.score-part time {
+  display: block;
+  margin-top: 7px;
+  color: var(--muted);
+  font-size: .78rem;
 }
 
 .score-total {
@@ -173,6 +230,10 @@
 }
 
 @media (max-width: 900px) {
+  .home-score-preview {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .score-parts {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }

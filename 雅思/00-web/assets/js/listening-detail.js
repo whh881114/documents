@@ -2,6 +2,7 @@ const reviewData = window.listeningReviewData || [];
 const params = new URLSearchParams(window.location.search);
 const record = reviewData.find((item) => item.id === params.get("id"));
 const requestedView = params.get("view") || "review";
+const returnToScores = params.get("from") === "scores";
 
 const escapeHtml = (value) => value
   .replaceAll("&", "&amp;")
@@ -87,5 +88,13 @@ if (!record) {
     document.querySelector("#panel-resizer").hidden = true;
     document.querySelector(".detail-layout").classList.add("is-transcript-only");
   }
-  document.querySelector("#listening-detail-back").href = `listening-part.html?part=${record.part}#${encodeURIComponent(record.categoryKey)}`;
+  const backLink = document.querySelector("#listening-detail-back");
+  if (returnToScores) {
+    const book = params.get("book") || "";
+    const test = params.get("test") || "";
+    backLink.textContent = "← 返回听力成绩";
+    backLink.href = `listening-scores.html?book=${encodeURIComponent(book)}&test=${encodeURIComponent(test)}`;
+  } else {
+    backLink.href = `listening-part.html?part=${record.part}#${encodeURIComponent(record.categoryKey)}`;
+  }
 }

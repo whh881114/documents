@@ -66,6 +66,7 @@ foreach ($partNumber in 1..4) {
       if ($reviewed) {
         $scoreMatch = [regex]::Match($reviewText, '(?m)^-\s*[^\r\n]*?(\d+)\s*/\s*(\d+)\s*$')
         if ($scoreMatch.Success) {
+          $dateMatch = [regex]::Match($reviewText, '(?m)^-\s*[^\r\n]*?(\d{4}-\d{2}-\d{2})')
           $scoreEntries += [ordered]@{
             id = $itemId
             title = $title
@@ -75,6 +76,7 @@ foreach ($partNumber in 1..4) {
             part = $partNumber
             correct = [int]$scoreMatch.Groups[1].Value
             maximum = [int]$scoreMatch.Groups[2].Value
+            reviewDate = if ($dateMatch.Success) { $dateMatch.Groups[1].Value } else { "" }
           }
         }
       }
@@ -121,6 +123,7 @@ foreach ($group in ($scoreEntries | Group-Object { "$($_['book'])-$($_['test'])"
 
   $totalCorrect = [int](($testParts | ForEach-Object { [int]$_['correct'] } | Measure-Object -Sum).Sum)
   $totalMaximum = [int](($testParts | ForEach-Object { [int]$_['maximum'] } | Measure-Object -Sum).Sum)
+  $completedDate = @($testParts | ForEach-Object { $_['reviewDate'] } | Where-Object { $_ } | Sort-Object -Descending | Select-Object -First 1)
   $scoreTests += [ordered]@{
     book = $testParts[0]['book']
     test = $testParts[0]['test']
@@ -128,10 +131,11 @@ foreach ($group in ($scoreEntries | Group-Object { "$($_['book'])-$($_['test'])"
     correct = $totalCorrect
     maximum = $totalMaximum
     band = Get-ListeningBand $totalCorrect
+    reviewDate = if ($completedDate.Count) { $completedDate[0] } else { "" }
     parts = $testParts
   }
 }
-$scoreTests = @($scoreTests | Sort-Object @{Expression = { [int]$_['book'] }; Descending = $true}, @{Expression = { [int]$_['test'] }; Descending = $true})
+$scoreTests = @($scoreTests | Sort-Object @{Expression = { [int]$_['book'] }; Descending = $true}, @{Expression = { [int]$_['test'] }; Ascending = $true})
 
 $json = $parts | ConvertTo-Json -Depth 8
 $content = "// Generated from listening/Part1-Part4. Do not edit directly.`nwindow.listeningCatalog = $json;`n"
