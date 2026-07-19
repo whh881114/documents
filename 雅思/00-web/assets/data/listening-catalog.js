@@ -1905,7 +1905,7 @@ window.listeningCatalog = [
                                                  "source":  "剑雅20 Test 1-Section 4",
                                                  "book":  20,
                                                  "test":  1,
-                                                 "reviewed":  false,
+                                                 "reviewed":  true,
                                                  "scriptPath":  "../listening/Part4/01-%E5%AD%A6%E6%9C%AF%E5%9C%BA%E6%99%AF/C20-TEST1-PART4-Reclaiming%20urban%20rivers/script.md"
                                              },
                                              {
