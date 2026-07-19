@@ -1,4 +1,5 @@
 const scoreList = document.querySelector("#listening-score-list");
+const scoreControls = document.querySelector("#listening-score-controls");
 const scoreData = window.listeningScoreData || [];
 const params = new URLSearchParams(window.location.search);
 
@@ -43,6 +44,6 @@ if (!scoreData.length) {
   if (requestedResult) {
     renderResult(requestedResult);
   } else {
-    scoreData.forEach(renderResult);
+    window.createScoreControls({ container: scoreControls, list: scoreList, scores: scoreData, renderResult });
   }
 }

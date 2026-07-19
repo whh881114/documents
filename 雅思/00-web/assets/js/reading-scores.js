@@ -1,4 +1,5 @@
 const scoreList = document.querySelector("#reading-score-list");
+const scoreControls = document.querySelector("#reading-score-controls");
 const scoreData = window.readingScoreData || [];
 const params = new URLSearchParams(window.location.search);
 
@@ -43,6 +44,6 @@ if (!scoreData.length) {
   if (requestedResult) {
     renderResult(requestedResult);
   } else {
-    scoreData.forEach(renderResult);
+    window.createScoreControls({ container: scoreControls, list: scoreList, scores: scoreData, renderResult });
   }
 }

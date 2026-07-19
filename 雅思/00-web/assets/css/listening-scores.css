@@ -101,6 +101,56 @@
   gap: 24px;
 }
 
+.score-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 14px;
+  margin-bottom: 24px;
+  padding: 18px 20px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+}
+
+.score-controls[hidden] {
+  display: none;
+}
+
+.score-control {
+  display: grid;
+  gap: 7px;
+}
+
+.score-control span {
+  color: var(--muted);
+  font-size: .76rem;
+  letter-spacing: .06em;
+}
+
+.score-control select {
+  min-width: 170px;
+  min-height: 42px;
+  padding: 7px 36px 7px 12px;
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  background: var(--background);
+  color: var(--text);
+  font: inherit;
+  cursor: pointer;
+}
+
+.score-control select:hover,
+.score-control select:focus-visible {
+  border-color: var(--accent);
+}
+
+.score-result-count {
+  margin: 0 0 10px auto;
+  color: var(--muted);
+  font-size: .82rem;
+}
+
 .score-test-card {
   padding: 28px;
   border: 1px solid var(--border);
@@ -238,5 +288,18 @@
 
   .score-test-card {
     padding: 22px 18px;
+  }
+
+  .score-controls {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .score-control select {
+    width: 100%;
+  }
+
+  .score-result-count {
+    margin: 0;
   }
 }
