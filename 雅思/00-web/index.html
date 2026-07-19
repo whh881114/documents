@@ -6,6 +6,8 @@
     <meta name="description" content="IELTS 听说读写学习主页。">
     <title>IELTS 学习主页</title>
     <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="assets/data/listening-score-data.js" defer></script>
+    <script src="assets/js/home.js" defer></script>
   </head>
   <body class="home-page">
     <header class="site-header">
@@ -47,6 +49,17 @@
           <em>进入 →</em>
         </a>
       </div>
+
+      <section class="home-score-section" aria-labelledby="home-score-title">
+        <div class="home-score-heading">
+          <div>
+            <span>Listening results</span>
+            <h2 id="home-score-title">听力模考成绩</h2>
+          </div>
+          <a href="listening-scores.html">查看全部成绩 →</a>
+        </div>
+        <div id="home-score-preview" class="home-score-preview"></div>
+      </section>
     </main>
 
     <footer>个人 IELTS 学习记录</footer>
