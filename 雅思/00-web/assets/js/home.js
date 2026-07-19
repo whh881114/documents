@@ -1,11 +1,14 @@
 const scorePreview = document.querySelector("#home-score-preview");
 const listeningScores = window.listeningScoreData || [];
+const topScores = [...listeningScores].sort((a, b) =>
+  b.correct - a.correct || b.book - a.book || a.test - b.test
+);
 
 if (scorePreview) {
   if (!listeningScores.length) {
     scorePreview.innerHTML = '<p class="empty-score">完成一整套四个 Part 的复盘后，成绩会自动显示在这里。</p>';
   } else {
-    listeningScores.slice(0, 3).forEach((result) => {
+    topScores.slice(0, 3).forEach((result) => {
       const link = document.createElement("a");
       link.className = "home-score-card";
       link.href = `listening-scores.html?book=${result.book}&test=${result.test}`;
