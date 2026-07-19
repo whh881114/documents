@@ -39,5 +39,45 @@ window.readingScoreData = [
                              "reviewDate":  "2026-07-18"
                          }
                      ]
+    },
+    {
+        "book":  20,
+        "test":  2,
+        "correct":  28,
+        "maximum":  40,
+        "band":  6.5,
+        "reviewDate":  "2026-07-18",
+        "passages":  [
+                         {
+                             "id":  "01-生物与环境/C20-Test2-Passage1-Manatees",
+                             "title":  "Manatees",
+                             "book":  20,
+                             "test":  2,
+                             "passage":  1,
+                             "correct":  9,
+                             "maximum":  13,
+                             "reviewDate":  "2026-07-18"
+                         },
+                         {
+                             "id":  "04-社会与文化/C20-Test2-Passage2-Procrastination",
+                             "title":  "Procrastination",
+                             "book":  20,
+                             "test":  2,
+                             "passage":  2,
+                             "correct":  11,
+                             "maximum":  13,
+                             "reviewDate":  "2026-07-18"
+                         },
+                         {
+                             "id":  "03-常识与科普/C20-Test2-Passage3-Invasion of the Robot Umpires",
+                             "title":  "Invasion of the Robot Umpires",
+                             "book":  20,
+                             "test":  2,
+                             "passage":  3,
+                             "correct":  8,
+                             "maximum":  14,
+                             "reviewDate":  "2026-07-18"
+                         }
+                     ]
     }
 ];
