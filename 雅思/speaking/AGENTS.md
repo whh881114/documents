@@ -23,23 +23,40 @@
 5. 如果某一 Part 的 HTML 缺失或保存错误，不得声称该内容来自 HTML。用户提供了清晰截图、PDF或文本时，可以据此整理，并在交付说明中注明实际来源。
 6. 无法可靠判断 Part 或正文不完整时，停止处理该文件并向用户报告，不自行猜测或补写。
 
-## 目录与文件名
+## 目录、分类与文件名
 
-- 解析结果按考试部分保存到：
+- 三个 Part 均依据新东方雅思对应的“话题练习”本地页面进行分类，并按分类题目数量从多到少添加两位目录序号：
 
 ```text
 speaking/
   part1/
+    01-个人喜好类/
+    02-休闲活动类/
+    03-个人信息类/
+    04-抽象类/
+    05-技能类/
   part2/
+    01-事件/
+    02-人物/
+    03-物品/
+    04-地点/
   part3/
+    01-事件/
+    02-人物/
+    03-物品/
+    04-地点/
 ```
 
+- 分类优先按新东方本地 HTML 中的剑雅册号和 Test 对应。剑雅 12 在来源页面中使用 Test 5–8 编号，应依次对应到本地 Test 1–4；跨册重复标题不得只按标题分类。
+- 新东方页面使用 `C18T1S1` 等占位标题时，以册号和 Test 对应关系为准，不要求标题相同。
+- 每个 Part 的完整分类映射分别记录在 `part1/CLASSIFICATION.md`、`part2/CLASSIFICATION.md`、`part3/CLASSIFICATION.md`。
+- 新增或重新生成文件时，应先读取对应 Part 的分类索引并写入已有分类目录；无法对应时不得猜测，应列为待确认。
 - 每个 Part 使用独立 Markdown 文件，文件名包含册号、Test 号和 Part 号：
 
 ```text
-part1/IELTS-20-Test1-Part1.md
-part2/IELTS-20-Test1-Part2.md
-part3/IELTS-20-Test1-Part3.md
+part1/01-个人喜好类/IELTS-20-Test1-Part1.md
+part2/01-事件/IELTS-20-Test1-Part2.md
+part3/02-人物/IELTS-20-Test1-Part3.md
 ```
 
 - 用户要求完整版本时，另外在 `speaking/` 中生成合并文件，例如：
@@ -50,7 +67,6 @@ IELTS-20-Test1-Questions.md
 
 - 合并文件严格按照 Part 1、Part 2、Part 3 的顺序拼接，不改变各部分正文。
 - 不覆盖已有同名结果；需要更新时，先检查 Git 改动和现有内容，确认本次修改不会覆盖用户记录。
-
 ## Markdown 转换规则
 
 - 网页的 `PART 1`、`PART 2`、`PART 3` 转为一级标题。
