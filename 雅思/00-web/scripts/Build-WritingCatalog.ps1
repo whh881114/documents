@@ -18,6 +18,14 @@ function Get-MarkdownSection {
     return ''
 }
 
+function Get-QuestionMaterial {
+    param([string]$Text)
+
+    $match = [regex]::Match($Text, '(?ms)^##\s+Instructions\s*\r?\n.*?(?=^##\s+)(.*)\z')
+    if ($match.Success) { return $match.Groups[1].Value.Trim() }
+    return ''
+}
+
 function Format-Json {
     param([string]$Json)
 
@@ -117,6 +125,7 @@ $catalog = Get-ChildItem -LiteralPath $writingRoot -Directory |
                     written = ($versionFiles.Count -gt 0)
                     version_count = $versionFiles.Count
                     instructions = Get-MarkdownSection -Text $questionText -Heading 'Instructions'
+                    material = Get-QuestionMaterial -Text $questionText
                     versions = $versions
                 }
             }

@@ -13,6 +13,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe graph below shows average carbon dioxide (CO ) emissions per person in the United 2 Kingdom, Sweden, Italy and Portugal between 1967 and 2007. Summarise the information by selecting and reporting the main features, and making comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 11 Test 3 Writing Task 1](images/C11-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -20,6 +21,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe graph below shows the number of tourists visiting a particular Caribbean island between 2010 and 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 15 Test 2 Writing Task 1](images/C15-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -27,6 +29,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe graph below shows the number of shops that closed and the number of new shops that opened in one country between 2011 and 2018. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 17 Test 4 Writing Task 1](images/C17-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -34,6 +37,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe graph below gives information about the percentage of the population in four Asian countries living in cities from 1970 to 2020, with predictions for 2030 and 2040. Summarize the information by selecting and reporting the main features and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 18 Test 1 Writing Task 1](images/C18-Test1-Task1.png)",
         "versions": []
       },
       {
@@ -41,6 +45,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe graph below shows the average monthly change in the prices of three metals during 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 18 Test 4 Writing Task 1](images/C18-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -48,6 +53,7 @@ window.writingCatalog = [
         "written": true,
         "version_count": 1,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe graph below gives information on the numbers of participants for different activities at one social centre in Melbourne, Australia for the period 2000 to 2020. Summarize the information by selecting and reporting the main features and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 19 Test 1 Writing Task 1](images/C19-Test1-Task1.png)",
         "versions": [
           {
             "version": 1,
@@ -65,6 +71,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe graph below shows the proportion of the population aged 65 and over between 1940 and 2040 in three different countries.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 5 Test 1 Writing Task 1](images/C5-Test1-Task1.png)",
         "versions": []
       },
       {
@@ -72,6 +79,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe graph below shows the consumption of fish and some different kinds of meat in a European country between 1979 and 2004. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 7 Test 2 Writing Task 1](images/C7-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -79,6 +87,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe graph below shows the quantities of goods transported in the UK between 1974 and 2002 by four different modes of transport. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 8 Test 4 Writing Task 1](images/C8-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -86,6 +95,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe graph below gives information from a 2008 report about consumption of energy in the USA since 1980 with projections until 2030. Summarise the information by selecting and reporting the main features, and making comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 9 Test 4 Writing Task 1](images/C9-Test4-Task1.png)",
         "versions": []
       }
     ]
@@ -102,6 +112,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe charts below show what UK graduate and postgraduate students who did not go into full-time work did after leaving college in 2008.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 10 Test 3 Writing Task 1](images/C10-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -109,6 +120,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe bar chart below shows the percentage of Australian men and women in different age groups who did regular physical activity in 2009. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 12 Test 1 Writing Task 1](images/C12-Test1-Task1.png)",
         "versions": []
       },
       {
@@ -116,6 +128,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe chart below shows how frequently people in the USA ate in fast food restaurants between 2003 and 2013. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 12 Test 3 Writing Task 1](images/C12-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -123,6 +136,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe chart shows the percentage of households in owned and rented accommodation in England and Wales between 1918 and 2011. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 13 Test 2 Writing Task 1](images/C13-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -130,6 +144,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe bar chart below shows the top ten countries for the production and consumption of electricity in 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 13 Test 3 Writing Task 1](images/C13-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -137,6 +152,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe chart below shows the results of a survey about people’s coffee and tea buying and drinking habits in five Australian cities. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 15 Test 1 Writing Task 1](images/C15-Test1-Task1.png)",
         "versions": []
       },
       {
@@ -144,6 +160,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe chart below gives information about how families in one country spent their weekly income in 1968 and in 2018. Summarise the information by selecting and reporting the main features, and making comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 17 Test 3 Writing Task 1](images/C17-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -151,6 +168,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe chart below shows the number of households in the US by their annual income in 2007, 2011 and 2015. Summarise the information by selecting and reporting the main features and making comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 18 Test 2 Writing Task 1](images/C18-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -158,6 +176,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe charts below show the main reasons for study among students of different age groups and the amount of support they received from employers.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 5 Test 2 Writing Task 1](images/C5-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -165,6 +184,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe charts below give information about USA marriage and divorce rates between 1970 and 2000, and the marital status of adult Americans in two of the years.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 6 Test 4 Writing Task 1](images/C6-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -172,6 +192,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe chart below shows information about changes in average house prices in five different cities between 1990 and 2002 compared with the average house prices in 1989. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 7 Test 3 Writing Task 1](images/C7-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -179,6 +200,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe chart below shows the total number of minutes (in billions) of telephone calls in the UK, divided into three categories, from 1994 to 2001. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 9 Test 2 Writing Task 1](images/C9-Test2-Task1.png)",
         "versions": []
       }
     ]
@@ -195,6 +217,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe table below shows the numbers of visitors to Ashdown Museum during the year before and the year after it was refurbished. The charts show the result of surveys asking visitors how satisfied they were with their visit, during the same two periods. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 11 Test 4 Writing Task 1](images/C11-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -202,6 +225,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe chart below shows the value of one country’s exports in various categories during 2015 and 2016. The table shows the percentage change in each category of exports in 2016 compared with 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 14 Test 2 Writing Task 1](images/C14-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -209,6 +233,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe chart below shows what Anthropology graduates from one university did after finishing their undergraduate degree course. The table shows the salaries of the anthropologists in work after five years. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 15 Test 4 Writing Task 1](images/C15-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -216,6 +241,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe charts below show the changes in ownership of electrical appliances and amount of time spent doing housework in households in one country between 1920 and 2019. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 16 Test 1 Writing Task 1](images/C16-Test1-Task1.png)",
         "versions": []
       },
       {
@@ -223,6 +249,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe table and charts below give information on the police budget for 2017 and 2018 in one area of Britain. The table shows where the money came from and the charts show how it was distributed. Summarise the information by selecting and reporting the main features and making comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 17 Test 2 Writing Task 1](images/C17-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -230,6 +257,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe charts below give information on the location and types of dance classes young people in a town in Australia are currently attending. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 19 Test 4 Writing Task 1](images/C19-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -237,6 +265,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe charts below give information about a public library in a town called Little Chalfont.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Little Chalfont public library charts](images/C20-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -244,6 +273,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe graph and table below give information about water use worldwide and water consumption in two different countries.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 6 Test 1 Writing Task 1](images/C6-Test1-Task1.png)",
         "versions": []
       },
       {
@@ -251,6 +281,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe pie chart below shows the main reasons why agricultural land becomes less productive. The table shows how these causes affected three regions of the world during the 1990s. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 8 Test 1 Writing Task 1](images/C8-Test1-Task1.png)",
         "versions": []
       }
     ]
@@ -260,27 +291,40 @@ window.writingCatalog = [
     "task": 1,
     "name": "表格",
     "total": 5,
-    "written": 0,
+    "written": 1,
     "questions": [
       {
         "id": "C10-Test2-Task1",
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe tables below give information about sales of Fairtrade*-labelled coffee and bananas in 1999 and 2004 in five European countries.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 10 Test 2 Writing Task 1](images/C10-Test2-Task1.png)",
         "versions": []
       },
       {
         "id": "C20-Test1-Task1",
-        "written": false,
-        "version_count": 0,
+        "written": true,
+        "version_count": 1,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe first table below shows changes in the total population of New York City from 1800 to 2000. The second and third tables show changes in the population of the five districts of the city (Manhattan, Brooklyn, Bronx, Queens, Staten Island) over the same period.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
-        "versions": []
+        "material": "## New York City (all five districts)\r\n\r\n| Year | Population |\r\n| ---: | ---: |\r\n| 1800 | 79,216 |\r\n| 1900 | 3,437,202 |\r\n| 2000 | 8,009,185 |\r\n\r\n## Manhattan\r\n\r\n| Year | Population | Percentage of total population |\r\n| ---: | ---: | ---: |\r\n| 1800 | 60,515 | 76% |\r\n| 1900 | 1,850,093 | 54% |\r\n| 2000 | 1,538,096 | 19% |\r\n\r\n## Other districts (Brooklyn, Bronx, Queens and Staten Island)\r\n\r\n| Year | Population | Percentage of total population |\r\n| ---: | ---: | ---: |\r\n| 1800 | 18,701 | 24% |\r\n| 1900 | 1,587,109 | 46% |\r\n| 2000 | 6,471,089 | 81% |",
+        "versions": [
+          {
+            "version": 1,
+            "filename": "C20-Test1-Task1-Essay-V01.md",
+            "date": "2026-07-18",
+            "essay": "在这里填写本版本的完整作文。",
+            "thoughts": "### Before writing\n\n- 我对题目要求的理解：\n- Task 1 的主要特征 / Task 2 的核心立场：\n- 计划采用的段落结构：\n- 准备重点练习的内容：\n\n### After writing\n\n- 实际完成时间：\n- 实际字数：\n- 写作时最犹豫的地方：\n- 自己发现的问题：",
+            "feedback": "\u003e 以下内容为 ChatGPT 提供的练习反馈和估分，并非 IELTS 官方成绩。\n\n### Estimated band\n\n- Task Achievement / Task Response：\n- Coherence and Cohesion：\n- Lexical Resource：\n- Grammatical Range and Accuracy：\n- Overall：\n\n### Strengths\n\n- （待填写）\n\n### Problems\n\n- （待填写）\n\n### Suggested revisions\n\n- （待填写）",
+            "revision_notes": "- 下一版本优先解决的问题：\n- 下一版本准备保留的内容：\n- 可以迁移到其他题目的经验："
+          }
+        ]
       },
       {
         "id": "C5-Test4-Task1",
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe table below gives information about the underground railway systems in six cities.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 5 Test 4 Writing Task 1](images/C5-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -288,6 +332,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe table below gives information about changes in modes of travel in England between 1985 and 2000.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 6 Test 2 Writing Task 1](images/C6-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -295,6 +340,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe table below gives information about consumer spending on different items in five different countries, in 2002. Summarize the information by selecting and reporting the main features and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 7 Test 1 Writing Task 1](images/C7-Test1-Task1.png)",
         "versions": []
       }
     ]
@@ -311,6 +357,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe first chart below shows how energy is used in an average Australian household. The second chart shows the greenhouse gas emissions which result from this energy use.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 10 Test 1 Writing Task 1](images/C10-Test1-Task1.png)",
         "versions": []
       },
       {
@@ -318,6 +365,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe charts below show the percentage of water used for different purposes in six areas of the world. Summarize the information by selecting and reporting the main features and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 11 Test 1 Writing Task 1](images/C11-Test1-Task1.png)",
         "versions": []
       },
       {
@@ -325,6 +373,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe charts below show the proportions of British students at one university in England who were able to speak other languages in addition to English, in 2000 and 2010. Summarise the information by selecting and reporting the main features and making comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 11 Test 2 Writing Task 1](images/C11-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -332,6 +381,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe charts below show the average percentages in typical meals of three types of nutrients, all of which may be unhealthy if eaten too much. Summarise the information by selecting and reporting the main features and making comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 14 Test 1 Writing Task 1](images/C14-Test1-Task1.png)",
         "versions": []
       },
       {
@@ -339,6 +389,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe pie charts below show units of electricity production by fuel source in Australia and France in 1980 and 2000. Summarize the information by selecting and reporting the main features and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 7 Test 4 Writing Task 1](images/C7-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -346,6 +397,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe three pie charts below show the changes in annual spending by a particular UK school in 1981, 1991 and 2001. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 8 Test 2 Writing Task 1](images/C8-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -353,6 +405,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe table below gives information on the ages of the populations of Yemen and Italy in 2000 and gives projections for 2050. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 9 Test 3 Writing Task 1](images/C9-Test3-Task1.png)",
         "versions": []
       }
     ]
@@ -369,6 +422,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe maps below show the centre of a small town called Islip as it is now, and plans for its development. Summarize the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 12 Test 2 Writing Task 1](images/C12-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -376,6 +430,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe two maps below show road access to a city hospital in 2007 and 2010. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 13 Test 1 Writing Task 1](images/C13-Test1-Task1.png)",
         "versions": []
       },
       {
@@ -383,6 +438,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe plans below show the layout of a university’s sports centre now, and how it will look after redevelopment. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 13 Test 4 Writing Task 1](images/C13-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -390,6 +446,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe plans below show a public park when it first opened in 1920 and the same park today. Summarise the information by selecting and reporting the main features and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 14 Test 4 Writing Task 1](images/C14-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -397,6 +454,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe plans below show the site of an airport now and how it will look after redevelopment next year. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 16 Test 3 Writing Task 1](images/C16-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -404,6 +462,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe maps illustrate an industrial area in Norbiton in the present day compared with plans for future development of the site. Summarize the information by selecting and reporting the main features and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 17 Test 1 Writing Task 1](images/C17-Test1-Task1.png)",
         "versions": []
       },
       {
@@ -411,6 +470,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe diagram below shows the floor plan of a public library 20 years ago and how it looks now. Summarise the information by selecting and reporting the main features, and making comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 18 Test 3 Writing Task 1](images/C18-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -418,6 +478,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe plans below show a harbour in 2000 and how it looks today. Summarise the information by selecting and reporting the main features and making comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 19 Test 2 Writing Task 1](images/C19-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -425,6 +486,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe plans below show the site of a farm in 1950 and the same site today.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Beechwood Farm in 1950 and today](images/C20-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -432,6 +494,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe map below is of the town of Garlsdon. A new supermarket (S) is planned for the town. The map shows two possible sites for the supermarket.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 5 Test 3 Writing Task 1](images/C5-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -439,6 +502,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe two maps below show an island, before and after construction of some tourist facilities. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 9 Test 1 Writing Task 1](images/C9-Test1-Task1.png)",
         "versions": []
       }
     ]
@@ -455,6 +519,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe diagrams below show the life cycle of a species of large fish called the salmon.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 10 Test 4 Writing Task 1](images/C10-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -462,6 +527,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe diagram below shows how geothermal energy is used to produce electricity. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 12 Test 4 Writing Task 1](images/C12-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -469,6 +535,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe diagram below shows how electricity is generated in a hydroelectric power station. Summarize the information by selecting and reporting the main features and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 14 Test 3 Writing Task 1](images/C14-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -476,6 +543,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe diagram below shows how instant noodles are manufactured. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 15 Test 3 Writing Task 1](images/C15-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -483,6 +551,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe diagram below shows the manufacturing process for making sugar from sugar cane. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 16 Test 2 Writing Task 1](images/C16-Test2-Task1.png)",
         "versions": []
       },
       {
@@ -490,6 +559,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe diagram below shows the process for recycling plastic bottles. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 16 Test 4 Writing Task 1](images/C16-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -497,6 +567,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe diagram below shows how a biofuel called ethanol is produced. Summarise the information by selecting and reporting the main features, and making comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 19 Test 3 Writing Task 1](images/C19-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -504,6 +575,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe diagram below shows how fabric is manufactured from bamboo.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![How fabric is manufactured from bamboo](images/C20-Test4-Task1.png)",
         "versions": []
       },
       {
@@ -511,6 +583,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe diagrams below show the life cycle of the silkworm and the stages in the production of silk cloth.\r\n\r\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 6 Test 3 Writing Task 1](images/C6-Test3-Task1.png)",
         "versions": []
       },
       {
@@ -518,6 +591,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 20 minutes on this task.\r\n\r\nThe diagrams show the stages and equipment used in the cement-making process, and how cement is used to produce concrete for building purposes. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\r\n\r\nWrite at least 150 words.",
+        "material": "## Visual\r\n\r\n![Cambridge IELTS 8 Test 3 Writing Task 1](images/C8-Test3-Task1.png)",
         "versions": []
       }
     ]
@@ -534,6 +608,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nCountries are becoming more and more similar because people are able to buy the same products anywhere in the world.\r\n\r\nDo you think this is a positive or negative development?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -541,6 +616,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nGovernments should spend money on railways rather than roads. To what extent do you agree or disagree with this statement?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -548,6 +624,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people claim that not enough of the waste from homes is recycled. They say that the only way to increase recycling is for governments to make it a legal requirement. To what extent do you think laws are needed to make people recycle more of their waste?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -555,6 +632,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nLiving in a country where you have to speak a foreign language can cause serious social problems, as well as practical problems. To what extent do you agree or disagree with this statement?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -562,6 +640,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people believe that nowadays we have too many choices. To what extent do you agree or disagree with this statement?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -569,6 +648,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people say that music is a good way of bringing people of different cultures and ages together. To what extent do you agree or disagree?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -576,6 +656,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn the future, nobody will buy printed newspapers or books because they will be able to read everything they want online without paying. To what extent do you agree or disagree with this statement?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -583,6 +664,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nMany manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar. Do you agree or disagree?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -590,6 +672,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nNowadays, a growing number of people with health problems are trying alternative medicines and therapies instead of visiting their usual doctor. Is it a positive or negative development?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -597,6 +680,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nThe most important aim of science should be to improve people’s lives. To what extent do you agree or disagree with this statement?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -604,6 +688,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn many countries around the world, rural people are moving to cities, so the population in the countryside is decreasing. Do you think this is a positive or a negative development?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -611,6 +696,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nThe working week should be shorter and workers should have a longer weekend. Do you agree or disagree?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -618,6 +704,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIt is important for everyone, including young people, to save money for their future. To what extent do you agree or disagree with this statement?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -625,6 +712,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn many countries nowadays, consumers can go to a supermarket and buy food produced all over the world. Do you think this is a positive or negative development?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -632,6 +720,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic:\r\n\r\n\u003e Access to clean water is a basic human right. Therefore every home should have a water supply that is provided free of charge.\r\n\u003e\r\n\u003e Do you agree or disagree?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -639,6 +728,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nUniversities should accept equal numbers of male and female students in every subject.\r\n\r\nTo what extent do you agree or disagree?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -646,6 +736,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nResearch indicates that the characteristics we are born with have much more influence on our personality and development than any experiences we may have in our life.\r\n\r\nWhich do you consider to be the major influence?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -653,6 +744,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nToday, the high sales of popular consumer goods reflect the power of advertising and not the real needs of the society in which they are sold.\r\n\r\nTo what extent do you agree or disagree?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -660,6 +752,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people think that universities should provide graduates with the knowledge and skills needed in the workplace. Others think that the true function of a university should be to give access to knowledge for its own sake, regardless of whether the course is useful to an employer. What, in your opinion, should be the main function of a university?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -667,6 +760,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people believe that unpaid community service should be a compulsory part of high school programmes (for example working for a charity, improving the neighborhood or teaching sports to younger children). To what extent do you agree or disagree?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -674,6 +768,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nEvery year several languages die out. Some people think this is not important because life will be easier if there are fewer languages. To what extent do you agree or disagree with this opinion?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       }
     ]
@@ -690,6 +785,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology.\r\n\r\nDiscuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -697,6 +793,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people say that the only reason for learning a foreign language is in order to travel or work in a foreign country. Others say that these are not the only reasons why someone should learn a foreign language. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -704,6 +801,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nMany governments think that economic progress is their most important goal. Some people, however, think that other types of progress are equally important for a country. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -711,6 +809,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -718,6 +817,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn a number of countries, some people think it is necessary to spend large sums of money on constructing new railway lines for very fast trains between cities. Others believe the money should be spent on improving existing public transport. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -725,6 +825,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -732,6 +833,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people say that History is one of the most important subjects. Other people think that, in today’s world, subjects like Science and Technology are more important than History. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -739,6 +841,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people believe that it is best to accept a bad situation, such an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -746,6 +849,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -753,6 +857,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -760,6 +865,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe that they should be free to work in another country if they wish. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -767,6 +873,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome university students want to learn about other subjects in addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -774,6 +881,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -781,6 +889,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people think that a sense of competition in children should be encouraged. Others believe that children who are taught to co-operate rather than compete become more useful adults.\r\n\r\nDiscuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -788,6 +897,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSuccessful sports professionals can earn a great deal more money than people in other important professions. Some people think this is fully justified while others think it is unfair.\r\n\r\nDiscuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -795,6 +905,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people believe that visitors to other countries should follow local customs and behaviour. Others disagree and think that the host country should welcome cultural differences.\r\n\r\nDiscuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -802,6 +913,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people prefer to spend their lives doing the same things and avoiding change. Others, however, think that change is always a good thing.\r\n\r\nDiscuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -809,6 +921,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIt is generally believed that some people are born with certain talents, for instance for sports or music, and others are not. However, it is sometimes claimed that any child can be taught to become a good sports person or musician. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -816,6 +929,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people believe that there should be fixed punishments for each crime. Others, however, argue that the circumstances of an individual crime, and the motivation for committing it, should always be taken into account when deciding on the punishment. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -823,6 +937,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people think that parents should teach their children how to be good members of society. Others, however, believe that school is the best place to learn this. Discuss both views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -830,6 +945,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome people say that the best way to improve public health is by increasing the number of sports facilities. Others, however, say that this would have little effect on public health and that other measures are required. Discuss both these views and give your own opinion.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       }
     ]
@@ -846,6 +962,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nMany museums charge for admission, while others are free.\r\n\r\nDo you think the advantages of charging people for admission to museums outweigh the disadvantages?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -853,6 +970,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nAt the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people. Do advantages of this situation outweigh the disadvantages?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -860,6 +978,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -867,6 +986,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn the future, all cars, buses and trucks will be driverless. The only people travelling inside those vehicles will be passengers. Do you think the advantages of driverless vehicles outweigh the disadvantages?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -874,6 +994,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIt is important for people to take risks, both in their professional lives and their personal lives. Do you think that the advantages of taking risks outweigh the disadvantages?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -881,6 +1002,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn many countries, people are now living longer than ever before. Some people say an aging population creates problems for governments. Other people think there are benefits if society has more elderly people. To what extent do the advantages of having an aging population outweigh the disadvantages?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -888,6 +1010,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic:\r\n\r\n\u003e Some people have decided to reduce the number of times they fly every year or to stop flying altogether.\r\n\u003e\r\n\u003e Do you think the environmental benefits of this development outweigh the disadvantages for individuals and businesses?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -895,6 +1018,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn some countries young people are encouraged to work or travel for a year between finishing high school and starting university studies.\r\n\r\nDiscuss the advantages and disadvantages for young people who decide to do this.\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -902,6 +1026,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome experts believe that it is better for children to begin learning a foreign language at primary school rather than secondary school. Do the advantages of this outweigh the disadvantages?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       }
     ]
@@ -918,6 +1043,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn spite of the advances made in the field of agriculture, many people around the world still go hungry. Why is this the case? What can be done about this problem?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -925,6 +1051,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn some countries, the average weight of people is increasing, and their levels of health and fitness are decreasing. What do you think are the causes of these problems and what measures could be taken to solve them?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       }
     ]
@@ -941,6 +1068,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIt is important for children to learn the difference between right and wrong at an early age. Punishment is necessary to help them learn this distinction.\r\n\r\nTo what extent do you agree or disagree with this opinion?\r\n\r\nWhat sort of punishment should parents and teachers be allowed to use to teach good behaviour to children?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -948,6 +1076,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nNowadays many people choose to be self-employed, rather than to work for a company or organisation. Why might this be the case? What could be the disadvantages of being self-employed?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -955,6 +1084,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn some countries, owning a home rather than renting one is very important for people. Why might this be the case? Do you think it is positive or negative development?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -962,6 +1092,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn some countries, more and more people are becoming interested in finding out about the history of the house or building they live in. What are the reasons for this? How can people research this?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -969,6 +1100,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIn their advertising, businesses nowadays usually emphasise that their products are new in some way. Why is this? Do you think this is a positive or negative development?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -976,6 +1108,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nSome children spend hours every day on their smartphones. Why is this the case? Do you think this is a positive or negative development?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -983,6 +1116,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic:\r\n\r\n\u003e In many countries, primary and secondary schools close for two months or more in the summer holidays.\r\n\u003e\r\n\u003e What is the value of long school holidays?\r\n\u003e\r\n\u003e What are the arguments in favour of shorter school holidays?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -990,6 +1124,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic:\r\n\r\n\u003e Many aspects of the way people dress today are influenced by global fashion trends.\r\n\u003e\r\n\u003e How has global fashion become such a strong influence on people\u0027s lives?\r\n\u003e\r\n\u003e Do you think this is a positive or negative development?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -997,6 +1132,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nAs most people spend a major part of their adult life at work, job satisfaction is an important element of individual wellbeing. What are the factors that contribute to job satisfaction? How realistic is the expectation of job satisfaction for all workers?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -1004,6 +1140,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nNowadays the way many people interact with each other has changed because of technology. In what ways has technology affected the types of relationships people make? Has this become a positive or negative development?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       },
       {
@@ -1011,6 +1148,7 @@ window.writingCatalog = [
         "written": false,
         "version_count": 0,
         "instructions": "You should spend about 40 minutes on this task.\r\n\r\nWrite about the following topic.\r\n\r\nIncreasing the price of petrol is the best way to solve growing traffic and pollution problems. To what extent do you agree or disagree? What other measures do you think might be effective?\r\n\r\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\r\n\r\nWrite at least 250 words.",
+        "material": "",
         "versions": []
       }
     ]

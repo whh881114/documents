@@ -26,6 +26,11 @@ def markdown_section(text: str, heading: str) -> str:
     return match.group(1).strip() if match else ""
 
 
+def question_material(text: str) -> str:
+    match = re.search(r"(?ms)^##\s+Instructions\s*\r?\n.*?(?=^##\s+)(.*)\Z", text)
+    return match.group(1).strip() if match else ""
+
+
 catalog = []
 
 for category_directory in sorted(writing_root.iterdir(), key=lambda path: path.name):
@@ -67,6 +72,7 @@ for category_directory in sorted(writing_root.iterdir(), key=lambda path: path.n
                 "written": bool(version_files),
                 "version_count": len(version_files),
                 "instructions": markdown_section(question_text, "Instructions"),
+                "material": question_material(question_text),
                 "versions": versions,
             }
         )
