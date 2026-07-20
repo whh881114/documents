@@ -1,4 +1,4 @@
-﻿.home-main {
+.home-main {
   min-height: calc(100vh - 138px);
   padding: 100px 0;
 }
@@ -33,44 +33,39 @@
   padding: 28px 30px;
   border: 1px solid transparent;
   border-radius: 8px;
-  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+  transition: background-color 160ms ease, transform 160ms ease, box-shadow 160ms ease;
 }
 
 .home-page .skill-link:nth-child(1) {
-  border-color: #9bc7e2;
-  background: #e5f2fa;
+  --card-color: #c7e8fa;
+  border-color: #73bce5;
+  background: var(--card-color);
 }
 
 .home-page .skill-link:nth-child(2) {
-  border-color: #e5bc7e;
-  background: #fdf0dd;
+  --card-color: #f9deb4;
+  border-color: #e2a84f;
+  background: var(--card-color);
 }
 
 .home-page .skill-link:nth-child(3) {
-  border-color: #d9a3c2;
-  background: #f8e5f0;
+  --card-color: #f1cfe3;
+  border-color: #d77fac;
+  background: var(--card-color);
 }
 
 .home-page .skill-link:nth-child(4) {
-  border-color: #8fc5aa;
-  background: #e2f3ea;
+  --card-color: #ccebdc;
+  border-color: #65b68e;
+  background: var(--card-color);
 }
 
 .home-page .skill-link.is-ready:hover,
 .home-page .skill-link.is-ready:focus-visible {
   padding: 28px 30px;
-  border-color: #6fa88f;
-  background: #dff0e8;
-  box-shadow: 0 12px 30px rgb(36 95 77 / 12%);
+  background: color-mix(in srgb, var(--card-color) 80%, white);
+  box-shadow: 0 12px 30px rgb(32 32 32 / 10%);
   transform: translateY(-3px);
-}
-
-.home-page .skill-link:nth-child(1):hover,
-.home-page .skill-link:nth-child(1):focus-visible {
-  border-color: #79b2d5;
-  background: #e5f2fa;
-  color: var(--muted);
-  box-shadow: 0 12px 30px rgb(45 112 152 / 12%);
 }
 
 .home-page .skill-link:nth-child(1) span,
