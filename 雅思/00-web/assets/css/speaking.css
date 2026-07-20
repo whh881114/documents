@@ -1,0 +1,14 @@
+.speaking-page .part-card:nth-child(1) { border-color: #d9a3c2; background: #f8e5f0; color: #944a75; }
+.speaking-page .part-card:nth-child(2) { border-color: #e5bc7e; background: #fdf0dd; color: #a45f13; }
+.speaking-page .part-card:nth-child(3) { border-color: #8fc5aa; background: #e2f3ea; color: #246d50; }
+.speaking-page .category-tab[aria-selected="true"] { border-color: #944a75; background: #944a75; }
+.speaking-page .listening-row.is-clickable:hover, .speaking-page .listening-row.is-clickable:focus-visible { background: #f8e5f0; }
+.speaking-detail-main { width: min(900px, calc(100% - 40px)); margin: 0 auto; padding: 60px 0 100px; }
+.speaking-question { margin-top: 34px; padding: clamp(24px, 5vw, 56px); border: 1px solid var(--border); border-radius: 10px; background: var(--surface); }
+.speaking-question h1 { margin: 0 0 18px; color: var(--muted); font-size: .8rem; letter-spacing: .12em; text-transform: uppercase; }
+.speaking-question h2 { margin: 28px 0 12px; font-size: 1rem; letter-spacing: .08em; }
+.speaking-question h3 { margin: 24px 0 10px; }
+.speaking-question p { line-height: 1.75; }
+.speaking-question ul { padding-left: 24px; }
+.speaking-question li { margin: 10px 0; line-height: 1.65; }
+@media (max-width: 420px) { .speaking-detail-main { width: min(100% - 28px, 900px); } }

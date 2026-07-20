@@ -1,0 +1,9 @@
+const catalog = window.speakingCatalog || [];
+const id = new URLSearchParams(location.search).get("id");
+const records = catalog.flatMap((part) => part.categories.flatMap((category) => category.items.map((item) => ({ ...item, part: part.part, category }))));
+const record = records.find((item) => item.id === id);
+const escapeHtml = (value) => value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
+const inlineMarkdown = (value) => escapeHtml(value).replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>").replace(/\*([^*]+)\*/g, "<em>$1</em>");
+function renderMarkdown(markdown) { const lines = markdown.replace(/\r/g, "").split("\n"); const html = []; let inList = false; const closeList = () => { if (inList) html.push("</ul>"); inList = false; }; lines.forEach((line) => { if (!line.trim()) { closeList(); return; } const heading = line.match(/^(#{1,3})\s+(.+)$/); const bullet = line.match(/^[-*]\s+(.+)$/); if (heading) { closeList(); html.push(`<h${heading[1].length}>${inlineMarkdown(heading[2])}</h${heading[1].length}>`); } else if (bullet) { if (!inList) { html.push("<ul>"); inList = true; } html.push(`<li>${inlineMarkdown(bullet[1])}</li>`); } else { closeList(); html.push(`<p>${inlineMarkdown(line)}</p>`); } }); closeList(); return html.join(""); }
+if (!record) { document.querySelector("#speaking-detail-title").textContent = "未找到题目"; document.querySelector("#speaking-detail-subtitle").textContent = "请返回口语首页重新选择。"; }
+else { document.title = `${record.title}｜口语题目`; document.querySelector("#speaking-detail-title").textContent = record.title; document.querySelector("#speaking-detail-subtitle").textContent = `剑雅 ${record.book} · Test ${record.test} · Part ${record.part} · ${record.category.name}`; document.querySelector("#speaking-question").innerHTML = renderMarkdown(record.content); document.querySelector("#speaking-detail-back").href = `speaking-part.html?part=${record.part}#${encodeURIComponent(record.category.key)}`; }
