@@ -9,10 +9,15 @@ foreach ($partNumber in 1..3) {
   foreach ($categoryDir in Get-ChildItem -LiteralPath (Join-Path $speakingRoot "part$partNumber") -Directory | Sort-Object Name) {
     if ($categoryDir.Name -notmatch '^(\d{2})-(.+)$') { continue }
     $number = $Matches[1]; $name = $Matches[2]; $items = @()
-    foreach ($file in Get-ChildItem -LiteralPath $categoryDir.FullName -Filter '*.md' -File) {
-      if ($file.Name -notmatch '^IELTS-(\d+)-Test(\d+)-Part(\d+)\.md$') { continue }
-      $book = [int]$Matches[1]; $test = [int]$Matches[2]
-      if ([int]$Matches[3] -ne $partNumber) { throw "Part mismatch: $($file.FullName)" }
+    foreach ($file in Get-ChildItem -LiteralPath $categoryDir.FullName -Filter '*.md' -File -Recurse) {
+      if ($file.Name -eq 'script.md' -and $file.Directory.Name -match '^C(\d+)-Test(\d+)-Part(\d+)-(.+)$') {
+        $book = [int]$Matches[1]; $test = [int]$Matches[2]; $filePart = [int]$Matches[3]
+      } elseif ($file.Name -match '^IELTS-(\d+)-Test(\d+)-Part(\d+)\.md$') {
+        $book = [int]$Matches[1]; $test = [int]$Matches[2]; $filePart = [int]$Matches[3]
+      } else {
+        continue
+      }
+      if ($filePart -ne $partNumber) { throw "Part mismatch: $($file.FullName)" }
       $text = Get-Content -LiteralPath $file.FullName -Raw -Encoding UTF8
       $headings = @([regex]::Matches($text, '(?m)^#\s+(.+)$') | ForEach-Object { $_.Groups[1].Value.Trim() })
       $title = if ($headings.Count -gt 1) { $headings[1] } else { "剑雅 $book Test $test Part $partNumber" }
