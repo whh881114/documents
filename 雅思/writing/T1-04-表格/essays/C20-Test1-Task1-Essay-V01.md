@@ -164,6 +164,78 @@ Manhattan starts by 60,515, and the percentage of total population was the 76%, 
 
 其中第一种最简洁可靠，后两种可以偶尔使用；不必为了避免重复而在每句话中强行换词。
 
+#### 6. 本题到底应该比较什么？需要比较各区域的细节吗？
+
+当前选择的比较方向是正确的：本题最重要的比较对象就是 **Manhattan** 和 **the other districts**。原稿已经看出了两者的整体趋势相反；目前缺少的不是正确的比较对象，而是用同一时间、同一指标下的关键数据把这种对比明确表达出来。
+
+第三张表把 Brooklyn、the Bronx、Queens 和 Staten Island 合并为 `Other districts`，没有提供四个地区各自的数据。因此，不能进一步比较这四个地区的内部差异，也不能推测其中哪个地区增长最快。Task 1 只能比较图表实际提供的信息。
+
+本题最值得写的有三层比较：
+
+##### A. 不同对象的总体趋势
+
+- New York City 的总人口在整个时期持续增长。
+- Manhattan 的人口先大幅增长，在 1900 年达到峰值，随后小幅下降。
+- 其他四区的合计人口持续增长，并且 1900—2000 年的增幅尤其明显。
+
+##### B. Manhattan 与其他四区的占比反转
+
+| 年份 | Manhattan | Other districts | 主要关系 |
+| ---: | ---: | ---: | --- |
+| 1800 | 76% | 24% | Manhattan 占绝对多数 |
+| 1900 | 54% | 46% | 两者差距明显缩小 |
+| 2000 | 19% | 81% | 其他四区占绝对多数 |
+
+这是本题最突出的比较特征，可以在 Overview 中概括为：
+
+> While Manhattan contained most of the city's residents at the beginning of the period, the other four districts accounted for the vast majority by 2000.
+
+在主体段中则应使用数据证明这一反转：
+
+> In 1800, Manhattan accounted for 76% of the city's population, compared with only 24% for the other districts. By 1900, the gap had narrowed considerably, with the corresponding shares standing at 54% and 46%. In 2000, however, the situation had reversed, as the figures were 19% and 81%, respectively.
+
+##### C. 同一对象的绝对数量与相对占比
+
+Manhattan 的实际人口从 1800 年的 60,515 增加到 2000 年的 1,538,096，但其占全市人口的比例却从 76% 降至 19%。这说明“占比下降”不等于“实际人口在整个时期下降”；它表示其他四区增长得更快。
+
+可以写成：
+
+> Although Manhattan's population was considerably higher in 2000 than in 1800, its share of the city's total fell sharply from 76% to 19%, as the other districts grew much faster.
+
+##### 判断一个比较是否值得写
+
+优先选择满足以下条件的比较：
+
+1. **口径一致：** 比较同一种指标，例如人口与人口、占比与占比。
+2. **时间一致：** 横向比较两个对象时，尽量使用同一年份的数据。
+3. **特征明显：** 优先写最大、最小、峰值、反转、差距扩大或缩小等特征。
+4. **服务于概述：** 主体段中的数据应证明 Overview 所概括的趋势。
+5. **有图表依据：** 不比较题目没有分别提供的数据，也不推测原因。
+6. **避免机械罗列：** 不必逐格描述所有数字；选择足以证明主要趋势的起点、中间点和终点。
+
+可以把比较方法简化为两个方向：
+
+> **同一指标、同一时间、不同对象；或者同一对象、不同时间。**
+
+例如：
+
+- 同一时间、不同对象：`In 1800, Manhattan accounted for 76% of the total, compared with 24% for the other districts.`
+- 同一对象、不同时间：`Manhattan's share fell from 76% in 1800 to 19% in 2000.`
+- 不同对象、整个时期：`While Manhattan's share declined, that of the other districts increased considerably.`
+
+不要把不同时间、不同指标的数据直接放在一起比较，例如 Manhattan 在 1900 年的人口不能直接与其他四区在 2000 年的占比进行比较。
+
+##### 本题的推荐信息分配
+
+- **Introduction：** 说明三张表比较纽约市整体及其行政区在三个年份的人口数据。
+- **Overview：** 总人口大幅增长；人口重心由 Manhattan 转向其他四区。
+- **Body 1：** 比较 1800 年和 1900 年两组地区的人口及占比，突出差距缩小。
+- **Body 2：** 比较 2000 年的结果，突出地位反转，并指出 Manhattan 绝对人口与相对占比变化不同。
+
+可记住以下写作原则：
+
+> Overview 写“谁上升、谁下降、谁反超”；主体段写“什么时候、从多少到多少、相比之下另一方怎样”。
+
 ### Vocabulary bank
 
 #### 1. 介绍图表
