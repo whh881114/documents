@@ -1,5 +1,5 @@
 ## Essay
-The three tables illustrate changes in the populations of New York City and its five districts (Manhattan, Brooklyn, Bronx, Queens, Staten Island) from 1800 to 2000.
+The three tables illustrate population change in New York City as a whole, Manhattan, and the other four districts conbined from 1800 to 2000.
 
 Overall, New York City's total population increased dramatically over the period. Although Manhattan contained the vast majority of the City's residents in 1800, its share declined considerably, while the combined proportion living in the other districts rose steadily.
 
