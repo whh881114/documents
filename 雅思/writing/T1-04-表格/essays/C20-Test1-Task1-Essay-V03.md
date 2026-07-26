@@ -1,6 +1,6 @@
 ## Essay
 The three tables illustrate changes in the populations of New York City and its five districts (Manhattan, Brooklyn, Bronx, Queens, Staten Island) from 1800 to 2000.
 
-Overall, New York City's total population increased dramatically over the period. Although Manhattan contained the vast majority of the City's residents in 1800, and its share declined considerably, while the combined proportion living in the other districts rose steadily.
+Overall, New York City's total population increased dramatically over the period. Although Manhattan contained the vast majority of the City's residents in 1800, its share declined considerably, while the combined proportion living in the other districts rose steadily.
 
 In 1800, Manhattan had a population of 60,515, accounting for 76% of the city's total. Its population then climbed to a peak of 1,850,093 in 1900 before declining slightly to 1,538,096 in 2000. Despite the initial increase in absolute numbers, its share of the total fell continuously, reaching only 19% in 2000. By contrast, the combined population of the other four districts increased throughout the period. It rose from only 18,701 in 1800 to 1,587,109 in 1900. At this point, the gap narrowed considerably, as Manhattan's population stood at 1,850,093. By 2000, however, the figure for the other districts surged to 6,471,089, more than four times Manhattan’s population. Their share of New York City’s population also grew steadily, from 24% to 46% and then to 81%.
