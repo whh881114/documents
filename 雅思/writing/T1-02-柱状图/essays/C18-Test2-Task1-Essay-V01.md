@@ -1,0 +1,6 @@
+## Essay
+The chart shows how the number of US households in different annual income groups changed between 2007 and 2015.
+
+Overall, the two middle-income groups remained relatively stable, with the $75,000-$99,999 bracket consistently being the smallest. The two lower-income groups peaked in 2011, whereas the highest-income group rose markedly by 2015 and became the largest.
+
+In 2007, approximately 25 million US households earned less than $25,000 per year, compared with around 27 million in the $25,000-$49,999 group. Both figures increased in 2011, reaching about 29 million and 30 million respectively. They then fell slightly to approximately 28 million and 29 million in 2015. By contrast, the figures for the two middle-income groups changed very little. The number of households earning between %50,000 and $74,999 remained at approximately 21 million in all three years, while the figure for those earning between $75,000 and $99,999 was much lower, at around 14 to 15 million. Meanwhile, the number of households earning $100,000 or more declined slightly from about 29 million in 2007 to 28 million in 2011, before rising sharply to approximately 33 million in 2015.
