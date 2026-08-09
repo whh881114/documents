@@ -1,7 +1,7 @@
 ## Essay
 The pie charts compare the proportions of three nutrients contained in four typical meals consumed in the USA.
 
-Overall, dinner accounts for the largest percentages of both sodium and saturated fat, whereas added sugar is mainly consumed in snacks. Breakfast generally makes the smallest contribution to the intake of all three nutrients.
+Overall, sodium and saturated fat showed similar patterns, with their largest proportions being consumed at dinner. By contrast, added sugar was mainly consumed in snacks. The proportions of all three nutrients consumed at breakfast were relatively low.
 
 Regarding sodium and saturated fat, dinner represents 43% of sodium consumption and 37% of saturated fat intake, making it the largest contributor in both case. Lunch ranks second, accounting for 29% and 26% respectively. Breakfast contains relatively small proportions of these two nutrients, at 14% for sodium and 16% for saturated fat. Snacks also make up 14% of sodium intake, although their share of saturated fat is slightly higher, at 21%.
 
