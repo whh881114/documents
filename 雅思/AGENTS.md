@@ -64,6 +64,10 @@ writing/<题型>/essays/
 
 （本版作文原文）
 
+### ChatGPT revised sample essay
+
+（在用户原文之后紧接 ChatGPT 修订范文；必须明确标注其身份，不作为用户独立完成的作文）
+
 ## My thoughts
 
 （本版写作前后的个人思考）
@@ -83,6 +87,7 @@ writing/<题型>/essays/
 - 每个版本保留完整作文，确保脱离聊天记录后仍可阅读和比较。
 - ChatGPT feedback 必须保存在对应版本文件中，不把多轮建议混在一起。
 - 保留用户原文；纠错稿、范文或 ChatGPT 重写稿必须明确标注，不冒充用户版本。
+- 每次提供完整的 ChatGPT 修订范文时，将其放在 `## Essay` 中的用户原文正下方，使用 `### ChatGPT revised sample essay` 标题；阅读顺序固定为“用户原文 → ChatGPT 修订范文 → My thoughts → ChatGPT feedback → Revision notes”。不得只把完整范文埋在详细点评末尾。
 - 日期统一使用 `YYYY-MM-DD`；同一天有多版时仍按 `V01`、`V02`、`V03` 递增编号。
 - 网页至少应支持按版本查看；以后可增加并排比较、修改高亮、评分趋势和问题标签。
 - 若加入评分，分别记录 Task Achievement/Task Response、Coherence and Cohesion、Lexical Resource、Grammatical Range and Accuracy，并注明是估分而非官方成绩。
