@@ -1,5 +1,5 @@
 ## Essay
-The graph shows how the numbers of participants changed across different activities at one social centre in Melbourne, Australia, from 2000 to 2020.
+The graph shows how the numbers of participants in different activities changed at a social centre in Melbourne, Australia, from 2000 to 2020.
 
 Overall, participation in the film club and martial arts remained relatively stable, with the film club attracting the most participants throughout the period. Table tennis and musical performances both saw increases in participation, particularly table tennis. In contrast, participation in amateur dramatics declined overall.
 
