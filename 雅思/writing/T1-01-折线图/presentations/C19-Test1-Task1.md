@@ -1,105 +1,96 @@
-# 同一个活动中心，二十年后的变化｜看图演讲练习
+# 五项活动的参与人数变化｜Presentation 练习
 
-- 日期：2026-10-24
+- 更新日期：2026-10-25
 - 题目：[C19-Test1-Task1](../C19-Test1-Task1.md)
 - 写作参考：[Essay V02](../essays/C19-Test1-Task1-Essay-V02.md)
-- 身份说明：以下为 ChatGPT 根据现有初稿与图表改写的演讲示范，不作为用户独立完成的稿件，也不是 TED 官方演讲。
-- 练习目标：借鉴 TED 式演讲的问题开场、清晰主线与听众互动，用自然英语带听众看懂一张图。保留数据准确性；不套用 IELTS 作文的字数和段落限制。
+- 身份说明：以下为 ChatGPT 根据初稿与图表整理的演讲示范，不作为用户独立完成的稿件。
+- 练习目标：采用直接、清晰的 presentation 风格，面对观众介绍图表、展开比较并总结。使用自然口语，不套用 IELTS 作文的字数限制。
 
 ![Original line graph](../images/C19-Test1-Task1.png)
 
-## 1. Revised talk｜修改后的完整讲稿
+## 1. Full presentation｜完整英文讲稿
 
-方括号内为动作提示，不朗读。时长以实际试讲为准，可以先按约三分钟练习。
+方括号内为动作提示，不朗读。小标题用于练习定位，也不用读出来。
 
-### Opening｜先让观众进入情境
+### A. Introduction｜问候、介绍主题
 
-Imagine walking into a social centre in Melbourne in the year 2000.
+Hello, everyone. My name is Wang Haohao, and you can call me Roy.
 
-You have five activities to choose from: a film club, martial arts, amateur dramatics, table tennis, and musical performances.
+Today, I'd like to talk about participation in five activities at a social centre in Melbourne, Australia, from 2000 to 2020.
 
-Which one would you choose?
+[指向坐标轴和图例。]
 
-[停顿，看看听众。]
+The horizontal axis shows the years, and the vertical axis shows the number of participants. The five lines represent the film club, martial arts, amateur dramatics, table tennis, and musical performances.
 
-Now imagine coming back twenty years later. Which activities would still be popular? And which would have changed?
+I'll start with the activities that remained relatively stable, then look at those that changed more noticeably.
 
-I'm Roy. Let's use this graph to find out.
+### B. Film club and martial arts｜先讲较稳定的两项
 
-### What stayed the same?｜先建立参照
+[指向电影俱乐部，再指向武术。]
 
-[指向电影俱乐部与武术两条线。]
+First, let's look at the film club, shown by the top line.
 
-Start with the line at the top: the film club.
+It had around 65 participants in 2000. The number fell slightly to 60 in 2010, before rising to about 66 in 2020. Despite these small changes, it remained the most popular activity throughout the period.
 
-It had around 65 participants at the beginning and about 66 at the end. There was a small dip in the middle, but it remained the most popular activity throughout.
+Martial arts followed a different pattern, with several small rises and falls. Participation stayed between roughly 32 and 38, ending close to its starting level.
 
-Martial arts had fewer participants, usually somewhere in the thirties. Its numbers moved up and down, but finished close to where they started.
+So, although the film club attracted more people, both activities showed little overall change.
 
-So far, we have two activities with little overall change.
+### C. Table tennis and musical performances｜再讲增长的两项
 
-### What changed?｜用一组对比推进故事
+[指向乒乓球。]
 
-[指向乒乓球，再指向业余戏剧。]
+Now, let's move on to table tennis, which had the largest increase.
 
-But look at table tennis.
+Participation rose from around 16 in 2000 to 20 in 2005, then stayed at that level until 2010. After that, it increased sharply, reaching about 54 by 2020.
 
-It started with only about 16 participants. By 2020, that number had reached roughly 54—more than three times the starting figure.
-
-Most of that growth came after 2010. By 2015, table tennis was already in second place.
-
-Amateur dramatics went in the opposite direction. After a small early rise, participation fell from a peak of around 28 to just 6.
-
-On the same graph, we have one activity gaining participants and another losing them.
-
-### One more change｜给较小的变化留一个位置
+By 2015, table tennis had overtaken martial arts to become the second most popular activity.
 
 [指向音乐表演。]
 
-And then there's music.
+Musical performances also gained participants. There were none recorded in 2000 or 2005, but the number rose to about 12 in 2010 and 18 in 2020. The overall increase was smaller than that of table tennis.
 
-Musical performances had no recorded participants in either 2000 or 2005. By 2020, there were about 18—more than in amateur dramatics.
+### D. Amateur dramatics｜最后讲下降的一项
 
-It wasn't the biggest increase, but it was another clear change.
+[指向业余戏剧。]
 
-### Closing｜回到开场，留下一句想法
+In contrast, amateur dramatics was the only activity to show an overall decline.
 
-So, when we return to this centre twenty years later, the film club is still on top. But table tennis has moved up, amateur dramatics has fallen back, and musical performances have attracted more participants.
+It started with around 26 participants and rose slightly to 28 in 2005. The number then fell steadily, reaching just 6 by 2020—the lowest figure among the five activities.
 
-The graph shows us what changed. It doesn't tell us why.
+### E. Summary｜总结并致谢
 
-To understand that, we'd need to talk to the people who took part.
+To sum up, the film club and martial arts remained relatively stable, while table tennis and musical performances gained participants. Amateur dramatics moved in the opposite direction.
 
-Which activity would you ask them about first?
+The two main points are that the film club remained the most popular activity, and table tennis showed the greatest growth.
 
-[停顿。]
+That brings me to the end of my presentation. Thank you for listening.
 
-Thank you.
+## 2. 这次的调整思路
 
-## 2. 为什么这样调整
-
-- **开场从观众能回答的问题开始。** 保留 Roy 的自我介绍，但先让听众想象自己会选什么活动，再告诉他们要看哪张图。
-- **主线是“二十年后，哪些没变，哪些变了”。** 电影和武术提供稳定的参照；乒乓球与戏剧形成鲜明对比；音乐补充另一种变化。减少逐项点名造成的重复。
-- **数字要帮助听众理解。** 不是每个年份都报数，而是用起终点、约三倍的规模变化、第二名等信息突出关系。三倍说的是最终人数超过初始人数的三倍，不是增长率为三倍。
-- **语句适合听，而不只是适合读。** 用短句、问题和指图提示推进内容，不依赖反复出现的 Notably、Similarly 等书面连接词。
-- **结尾可以留下问题，但不能编原因。** 图表不说明谁转去了哪项活动，也不说明增长来自费用、年龄或宣传。因此不把人数变化讲成未经证实的人物故事。
-- **数据校对。** 新版按原图及作文使用戏剧活动终点约 6 人。初稿里的约 7 人保留在存档中供对照，练习以新版为准。音乐的零人数也不能直接解释成该活动尚未开办。
+- **开门见山。** 用问候、自我介绍和主题说明开始，接着简短解释坐标轴，让听众知道该看什么。
+- **给出讲述顺序。** 先稳定、再增长、最后下降。正文各部分按这一顺序展开，听众更容易跟上。
+- **保留自然的引导语。** 使用 First、Now, let's move on to、In contrast 和 To sum up，帮助听众判断内容进行到哪里；不用刻意在每句前加连接词。
+- **把比较放进说明中。** 例如电影比武术人数更多，但整体都稳定；乒乓球增长多于音乐；戏剧与增长活动方向相反。既有数据，也有关系。
+- **总结回到图表。** 归纳三类趋势，强调电影始终第一和乒乓球增长最多，然后致谢。根据此次偏好，去掉 TED 版的假想情境、提问式开场和延伸性结尾。
+- **读数与原稿区分。** 新版使用戏剧终点约 6 人；原始稿中的约 7 人仅作为历史记录保留。零参与不直接等于活动尚未开办。
 
 ## 3. Cue cards｜脱稿提示
 
-| 顺序 | 看图提示 | 要讲清楚的关系 |
+| 环节 | 关键词与数据 | 要讲清楚的内容 |
 | --- | --- | --- |
-| 开场 | Melbourne / 2000 / choose / return in 2020 | 邀请观众想象自己选择活动 |
-| 稳定 | film: about 65 → 66 / martial arts: thirties | 电影始终最多，两项整体稳定 |
-| 对比 | table tennis: about 16 → 54 / drama: peak 28 → 6 | 一项大幅增长并升至第二，一项下降 |
-| 补充 | music: zero → about 18 | 从零增长，最后多于戏剧 |
-| 收尾 | what changed / why? / ask participants | 回到主线，区分图中事实与尚待了解的原因 |
+| 开场 | Roy / Melbourne / 2000–2020 / axes | 介绍主题，说明图表怎么看 |
+| 稳定 | film: 65 → 60 → 66 / martial arts: 32–38 | 电影人数更多，两项整体变化不大 |
+| 增长 | table tennis: 16 → 20 → 54 / second by 2015 | 增长最大，2010 年后加快 |
+| 增长 | music: zero → 12 → 18 | 也有增长，但增幅较小 |
+| 下降 | drama: 26 → 28 → 6 | 先小幅上升，再持续下降，最后人数最少 |
+| 总结 | stable / increase / decline / film first / table tennis growth | 归纳趋势，强调重点并致谢 |
 
 ## 4. 练习方法
 
-先只看图和提示卡，用自己的话讲一遍。每一部分先说清一个意思，不要求逐字背诵。卡住时再查看对应段落；练习时可以用熟悉的词替换示范表达。
+先分段练习：开场说清图表范围；每个主体说清主要变化；在合适处加入比较。熟悉后，只看图和提示卡讲完整篇，不必逐字背诵。
 
-第二遍录音，检查三个问题：没有提前看过图的人能否跟上？数字之后有没有留出理解的停顿？有没有说出图上无法证明的原因？最后再根据实际时长删减。
+录音后检查：过渡是否清楚？听众能否知道你指的是哪条线？报数字时是否太快？总结是否简洁？讲稿时长以实际试讲为准，需要缩短时优先减少次要年份，不急着提高语速。
 
 ## 5. 初稿存档｜以下保留原文，供对照
 
