@@ -34,7 +34,7 @@ It had around 65 participants in 2000. The number fell slightly to 60 in 2010, b
 
 Now, let's turn to martial arts. It showed several small rises and falls. Participation stayed between roughly 32 and 38, ending close to its starting level.
 
-So, although the film club attracted more people than martial arts, both activities showed little overall change. Let's now turn to the two activities that gained participants: table tennis and musical performances.
+So, although the film club attracted more people than martial arts, both activities showed little overall change. Let's now move on to the two activities that gained participants: table tennis and musical performances.
 
 ### C. Table tennis and musical performances｜再讲增长的两项
 
