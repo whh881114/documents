@@ -1,6 +1,6 @@
 # 五项活动的参与人数变化｜Presentation 练习
 
-- 更新日期：2026-10-25
+- 更新日期：2026-10-29
 - 题目：[C19-Test1-Task1](../C19-Test1-Task1.md)
 - 写作参考：[Essay V02](../essays/C19-Test1-Task1-Essay-V02.md)
 - 身份说明：以下为 ChatGPT 根据初稿与图表整理的演讲示范，不作为用户独立完成的稿件。
@@ -20,9 +20,9 @@ Today, I'd like to talk about participation in five activities at a social centr
 
 [指向坐标轴和图例。]
 
-The horizontal axis shows the years, and the vertical axis shows the number of participants. The five lines represent the film club, martial arts, amateur dramatics, table tennis, and musical performances.
+Let's look at the graph. As you can see, the horizontal axis shows the years, and the vertical axis shows the number of participants. The five lines represent the film club, martial arts, amateur dramatics, table tennis, and musical performances.
 
-I'll start with the activities that remained relatively stable, then look at those that changed more noticeably.
+Okay, I'll start with the activities that remained relatively stable, then look at those that changed more noticeably.
 
 ### B. Film club and martial arts｜先讲较稳定的两项
 
@@ -32,15 +32,15 @@ First, let's look at the film club, shown by the top line.
 
 It had around 65 participants in 2000. The number fell slightly to 60 in 2010, before rising to about 66 in 2020. Despite these small changes, it remained the most popular activity throughout the period.
 
-Martial arts followed a different pattern, with several small rises and falls. Participation stayed between roughly 32 and 38, ending close to its starting level.
+Now, let's turn to martial arts. It showed several small rises and falls. Participation stayed between roughly 32 and 38, ending close to its starting level.
 
-So, although the film club attracted more people, both activities showed little overall change.
+So, although the film club attracted more people than martial arts, both activities showed little overall change. Let's now turn to the two activities that gained participants: table tennis and musical performances.
 
 ### C. Table tennis and musical performances｜再讲增长的两项
 
 [指向乒乓球。]
 
-Now, let's move on to table tennis, which had the largest increase.
+Of these two, table tennis had the larger increase—in fact, the largest of all five activities.
 
 Participation rose from around 16 in 2000 to 20 in 2005, then stayed at that level until 2010. After that, it increased sharply, reaching about 54 by 2020.
 
@@ -54,15 +54,13 @@ Musical performances also gained participants. There were none recorded in 2000 
 
 [指向业余戏剧。]
 
-In contrast, amateur dramatics was the only activity to show an overall decline.
+In contrast to these two activities, amateur dramatics showed an overall decline—the only one to do so.
 
 It started with around 26 participants and rose slightly to 28 in 2005. The number then fell steadily, reaching just 6 by 2020—the lowest figure among the five activities.
 
 ### E. Summary｜总结并致谢
 
-To sum up, the film club and martial arts remained relatively stable, while table tennis and musical performances gained participants. Amateur dramatics moved in the opposite direction.
-
-The two main points are that the film club remained the most popular activity, and table tennis showed the greatest growth.
+To sum up, the film club remained the most popular activity, while table tennis showed the greatest growth.
 
 That brings me to the end of my presentation. Thank you for listening.
 
@@ -70,9 +68,9 @@ That brings me to the end of my presentation. Thank you for listening.
 
 - **开门见山。** 用问候、自我介绍和主题说明开始，接着简短解释坐标轴，让听众知道该看什么。
 - **给出讲述顺序。** 先稳定、再增长、最后下降。正文各部分按这一顺序展开，听众更容易跟上。
-- **保留自然的引导语。** 使用 First、Now, let's move on to、In contrast 和 To sum up，帮助听众判断内容进行到哪里；不用刻意在每句前加连接词。
+- **保留自然的引导语。** 使用 Okay、Now, let's turn to、In contrast 和 To sum up，帮助听众判断内容进行到哪里；不用刻意在每句前加连接词。
 - **把比较放进说明中。** 例如电影比武术人数更多，但整体都稳定；乒乓球增长多于音乐；戏剧与增长活动方向相反。既有数据，也有关系。
-- **总结回到图表。** 归纳三类趋势，强调电影始终第一和乒乓球增长最多，然后致谢。根据此次偏好，去掉 TED 版的假想情境、提问式开场和延伸性结尾。
+- **把趋势总结分散到过渡处。** 稳定组末尾先小结，再点名引出增长的两项；增长组之后用 these two activities 承接，再对比引出唯一下降的戏剧，避免重复增长信息。结尾只强调电影始终第一和乒乓球增长最多，然后致谢，避免重复整套分类。
 - **读数与原稿区分。** 新版使用戏剧终点约 6 人；原始稿中的约 7 人仅作为历史记录保留。零参与不直接等于活动尚未开办。
 
 ## 3. Cue cards｜脱稿提示
@@ -80,11 +78,11 @@ That brings me to the end of my presentation. Thank you for listening.
 | 环节 | 关键词与数据 | 要讲清楚的内容 |
 | --- | --- | --- |
 | 开场 | Roy / Melbourne / 2000–2020 / axes | 介绍主题，说明图表怎么看 |
-| 稳定 | film: 65 → 60 → 66 / martial arts: 32–38 | 电影人数更多，两项整体变化不大 |
+| 稳定 | film: 65 → 60 → 66 / martial arts: 32–38 | 电影人数更多，两项整体变化不大；转向乒乓球与音乐的增长 |
 | 增长 | table tennis: 16 → 20 → 54 / second by 2015 | 增长最大，2010 年后加快 |
 | 增长 | music: zero → 12 → 18 | 也有增长，但增幅较小 |
-| 下降 | drama: 26 → 28 → 6 | 先小幅上升，再持续下降，最后人数最少 |
-| 总结 | stable / increase / decline / film first / table tennis growth | 归纳趋势，强调重点并致谢 |
+| 下降 | drama: 26 → 28 → 6 | 与前两项增长形成对比；先小幅上升，再持续下降，最后人数最少 |
+| 总结 | film first / table tennis greatest growth | 强调两个重点并致谢 |
 
 ## 4. 练习方法
 
